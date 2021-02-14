@@ -1,0 +1,1422 @@
+﻿Log file open, 02/09/21 19:08:00
+LogInit: Display: Running engine for game: SpaceWind
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.334727
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.10-00.08.01:545][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Engine.ini]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Engine.ini]
+[2021.02.10-00.08.01:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Engine.ini]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Engine.ini]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.10-00.08.01:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Engine.ini]
+[2021.02.10-00.08.01:546][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Engine.ini]
+[2021.02.10-00.08.01:549][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.10-00.08.01:549][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.10-00.08.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.10-00.08.01:551][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.10-00.08.01:551][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.10-00.08.01:551][  0]LogHAL: Display: Platform has ~ 16 GB [16991240192 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.10-00.08.01:551][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.10-00.08.01:551][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.10-00.08.01:551][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:551][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.10-00.08.01:552][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.10-00.08.01:553][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Config/Windows/Engine.ini]
+[2021.02.10-00.08.01:554][  0]LogInit: Computer: MSI
+[2021.02.10-00.08.01:554][  0]LogInit: User: ericc
+[2021.02.10-00.08.01:554][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.02.10-00.08.01:554][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.10-00.08.01:554][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.02.10-00.08.01:554][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.10-00.08.01:554][  0]LogMemory: Process Physical Memory: 114.31 MB used, 114.31 MB peak
+[2021.02.10-00.08.01:554][  0]LogMemory: Process Virtual Memory: 96.99 MB used, 96.99 MB peak
+[2021.02.10-00.08.01:554][  0]LogMemory: Physical Memory: 5968.43 MB used,  10235.68 MB free, 16204.11 MB total
+[2021.02.10-00.08.01:554][  0]LogMemory: Virtual Memory: 5164.87 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.02.10-00.08.01:598][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.10-00.08.01:648][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.10-00.08.01:649][  0]LogInit: Using OS detected language (en-US).
+[2021.02.10-00.08.01:649][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.10-00.08.01:655][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.10-00.08.01:876][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.10-00.08.01:936][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.10-00.08.01:936][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.10-00.08.02:241][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.10-00.08.02:241][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.10-00.08.02:241][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.10-00.08.02:241][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.10-00.08.02:300][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.02.10-00.08.02:300][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.02.10-00.08.02:476][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 2080 Super' (Feature Level 11_0)
+[2021.02.10-00.08.02:476][  0]LogD3D11RHI:       8010/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2021.02.10-00.08.02:478][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.10-00.08.02:478][  0]LogD3D11RHI:       0/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.10-00.08.02:478][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2021.02.10-00.08.02:486][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.10-00.08.02:486][  0]LogD3D11RHI:     GPU DeviceId: 0x1e93 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.10-00.08.02:486][  0]LogWindows: EnumDisplayDevices:
+[2021.02.10-00.08.02:486][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.02.10-00.08.02:486][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.02.10-00.08.02:486][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.02.10-00.08.02:487][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.02.10-00.08.02:487][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.02.10-00.08.02:487][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.02.10-00.08.02:488][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.02.10-00.08.02:488][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.02.10-00.08.02:488][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Super
+[2021.02.10-00.08.02:488][  0]LogD3D11RHI:   Driver Version: 442.76 (internal:26.21.14.4276, unified:442.76)
+[2021.02.10-00.08.02:488][  0]LogD3D11RHI:      Driver Date: 3-15-2020
+[2021.02.10-00.08.02:488][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.02.10-00.08.02:585][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.10-00.08.02:585][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.10-00.08.02:585][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.10-00.08.02:610][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.02.10-00.08.03:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.10-00.08.03:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.10-00.08.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.10-00.08.03:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.10-00.08.03:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.10-00.08.03:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.10-00.08.03:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.10-00.08.03:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.10-00.08.03:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.10-00.08.03:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.10-00.08.03:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.10-00.08.03:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.10-00.08.03:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.10-00.08.03:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.10-00.08.03:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.10-00.08.03:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.10-00.08.03:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.10-00.08.03:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.10-00.08.03:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.10-00.08.03:423][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.10-00.08.03:433][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.10-00.08.03:514][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Intermediate/Shaders/WorkingDirectory/6940/).
+[2021.02.10-00.08.03:514][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ericc/AppData/Local/Temp/UnrealShaderWorkingDir/AA779B4C4500941274C7CBB08E943C08/'.
+[2021.02.10-00.08.03:515][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.02.10-00.08.03:515][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.10-00.08.03:515][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.10-00.08.04:681][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.10-00.08.04:746][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/ericc/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.10-00.08.04:746][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ericc/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.02.10-00.08.04:746][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.10-00.08.04:746][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.10-00.08.04:746][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.10-00.08.04:746][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.10-00.08.04:761][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.10-00.08.04:761][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.10-00.08.04:761][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.10-00.08.04:762][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ericc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.10-00.08.04:762][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.10-00.08.04:763][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.10-00.08.04:835][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.10-00.08.04:836][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.10-00.08.04:883][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2021.02.10-00.08.05:234][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.10-00.08.05:385][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.10-00.08.05:385][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.10-00.08.05:385][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.10-00.08.05:385][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.10-00.08.05:385][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.10-00.08.05:403][  0]LogNetVersion: SpaceWind 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 63325717)
+[2021.02.10-00.08.06:211][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001A43F50D380), frame # 0
+[2021.02.10-00.08.06:211][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A43F44BD80), frame # 0
+[2021.02.10-00.08.06:215][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A43F4A9E00), frame # 0
+[2021.02.10-00.08.06:329][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.099396 seconds
+[2021.02.10-00.08.06:338][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.02.10-00.08.06:338][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.02.10-00.08.06:338][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.10-00.08.07:205][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.10-00.08.07:220][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.10-00.08.07:434][  0]SourceControl: Source control is disabled
+[2021.02.10-00.08.07:434][  0]SourceControl: Source control is disabled
+[2021.02.10-00.08.07:446][  0]SourceControl: Source control is disabled
+[2021.02.10-00.08.07:458][  0]SourceControl: Source control is disabled
+[2021.02.10-00.08.07:467][  0]SourceControl: Source control is disabled
+[2021.02.10-00.08.08:007][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.10-00.08.08:046][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.10-00.08.08:046][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.10-00.08.08:230][  0]LogOcInput: OculusInput pre-init called
+[2021.02.10-00.08.08:270][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.10-00.08.08:270][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.10-00.08.08:411][  0]LogEngine: Initializing Engine...
+[2021.02.10-00.08.08:414][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.10-00.08.08:414][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.10-00.08.08:415][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.10-00.08.08:621][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.10-00.08.08:636][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.10-00.08.08:636][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A44224BC00), frame # 0
+[2021.02.10-00.08.08:636][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A4422EA980), frame # 0
+[2021.02.10-00.08.08:648][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.08.08:648][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.08.08:648][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.08.08:648][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.08.08:648][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.08.08:648][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.08.08:648][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.08.08:648][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.08.08:649][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.08.08:649][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.08.08:777][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.08.08:777][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.08.08:777][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.08.08:777][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.08.08:777][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.08.08:777][  0]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.08.08:777][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.08.08:777][  0]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.08.09:593][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.08.09:594][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.08.09:597][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.08.09:597][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.08.09:598][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.08.09:600][  0]LogInit: FAudioDevice initialized.
+[2021.02.10-00.08.09:600][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.10-00.08.09:665][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/ericc/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.10-00.08.09:671][  0]LogInit: Texture streaming: Enabled
+[2021.02.10-00.08.09:690][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.10-00.08.09:690][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.10-00.08.09:696][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.10-00.08.09:804][  0]LogInit: Transaction tracking system initialized
+[2021.02.10-00.08.09:840][  0]BlueprintLog: New page: Editor Load
+[2021.02.10-00.08.09:965][  0]LocalizationService: Localization service is disabled
+[2021.02.10-00.08.10:203][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.02.10-00.08.10:203][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.10-00.08.10:416][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/' took 0.01s
+[2021.02.10-00.08.10:909][  0]SourceControl: Source control is disabled
+[2021.02.10-00.08.10:909][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.953
+[2021.02.10-00.08.10:909][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.10-00.08.10:910][  0]LightingResults: New page: Lighting Build
+[2021.02.10-00.08.10:911][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.08.10:911][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.08.10:911][  0]MapCheck: New page: Map Check
+[2021.02.10-00.08.10:912][  0]LightingResults: New page: Lighting Build
+[2021.02.10-00.08.10:938][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A44224BC00), frame # 0
+[2021.02.10-00.08.10:938][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A4422EA980), frame # 0
+[2021.02.10-00.08.10:940][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.02.10-00.08.11:515][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.08.11:515][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A4315F3E00), frame # 0
+[2021.02.10-00.08.11:515][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A4315FBB00), frame # 0
+[2021.02.10-00.08.11:541][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.10-00.08.11:588][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.02.10-00.08.11:588][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.10-00.08.11:589][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.364ms to complete.
+[2021.02.10-00.08.11:589][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.680
+[2021.02.10-00.08.11:593][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.637
+[2021.02.10-00.08.11:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.08.11:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.08.11:810][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.08.11:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.08.11:845][  0]LogCollectionManager: Loaded 0 collections in 0.003293 seconds
+[2021.02.10-00.08.11:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Collections/' took 0.00s
+[2021.02.10-00.08.11:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Developers/ericc/Collections/' took 0.00s
+[2021.02.10-00.08.11:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Collections/' took 0.00s
+[2021.02.10-00.08.11:889][  0]LogContentBrowser: Native class hierarchy populated in 0.0164 seconds. Added 3427 classes and 821 folders.
+[2021.02.10-00.08.11:904][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.02.10-00.08.12:130][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.02.10-00.08.12:142][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.02.10-00.08.12:411][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.10-00.08.12:416][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.10-00.08.12:426][  0]LogSlate: Took 0.000579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.10-00.08.12:562][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.02.10-00.08.12:818][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.10-00.08.12:818][  0]LogLoad: (Engine Initialization) Total time: 13.86 seconds
+[2021.02.10-00.08.12:818][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.10-00.08.12:902][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.10-00.08.12:938][  0]LogSlate: Took 0.001185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.10-00.08.12:985][  1]LogAssetRegistry: Asset discovery search completed in 8.1038 seconds
+[2021.02.10-00.08.12:995][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.02.10-00.09.19:613][110]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.02.10-00.09.21:902][173]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.02.10-00.09.31:481][394]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.10-00.09.31:554][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.02.10-00.09.31:653][394]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap69B37CB449A36E6FB6E748B2306D5E1D.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.10-00.09.32:091][394]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap_BuiltData46C43D2E44FEE867F0B861B6360D88F6.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.10-00.09.32:108][394]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.10-00.09.32:108][394]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.10-00.09.32:108][394]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.10-00.09.43:133][436]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter2)
+[2021.02.10-00.09.44:101][468]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter2)
+[2021.02.10-00.09.45:216][501]Cmd: DELETE
+[2021.02.10-00.09.45:216][501]Cmd: ACTOR DELETE
+[2021.02.10-00.09.45:235][501]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2021.02.10-00.09.45:290][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.02.10-00.09.45:293][501]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.02.10-00.13.20:595][252]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Blueprints/AI/EnemyAIBB.EnemyAIBB
+[2021.02.10-00.13.45:379][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/EnemyAIBB" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBB.uasset" SILENT=true
+[2021.02.10-00.13.45:405][826]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIBBC85FDF7041C6A55524C1BEBF4F82FC67.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBB.uasset'
+[2021.02.10-00.13.45:458][826]AssetCheck: New page: Asset Save: EnemyAIBB
+[2021.02.10-00.13.45:458][826]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/AI/EnemyAIBB.EnemyAIBB
+[2021.02.10-00.13.47:284][882]LogSlate: Window 'EnemyAIBB' being destroyed
+[2021.02.10-00.13.47:339][882]LogSlate: Window 'EnemyAIBB' being destroyed
+[2021.02.10-00.13.53:246][975]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.10-00.14.05:025][296]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Blueprints/AI/EnemyAIBT.EnemyAIBT
+[2021.02.10-00.14.05:287][296]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.10-00.14.28:626][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/EnemyAIBT" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBT.uasset" SILENT=true
+[2021.02.10-00.14.28:648][832]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIBTA2CF3ECA49F0EA99B570379A6B1B3AA0.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBT.uasset'
+[2021.02.10-00.14.28:693][832]AssetCheck: New page: Asset Save: EnemyAIBT
+[2021.02.10-00.14.28:693][832]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/AI/EnemyAIBT.EnemyAIBT
+[2021.02.10-00.14.30:126][877]LogSlate: Window 'EnemyAIBT' being destroyed
+[2021.02.10-00.14.30:171][877]LogSlate: Window 'EnemyAIBT' being destroyed
+[2021.02.10-00.14.41:173][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.02.10-00.14.41:232][  2]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMapB4FEABFD4D79AEBCD4D2F3B0F114CF5C.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.10-00.14.41:483][  2]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap_BuiltData6666AF9C41F4A82116E00B8CC24E574F.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.10-00.14.41:510][  2]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.10-00.14.41:510][  2]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.10-00.14.41:510][  2]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.10-00.15.53:277][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.02.10-00.15.53:343][  2]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/ThirdPersonCharacter.
+[2021.02.10-00.15.56:324][ 74]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.10-00.15.57:307][ 74]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2021.02.10-00.15.59:184][ 75]LogSlate: Took 0.018647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.10-00.16.02:842][132]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.02.10-00.16.02:961][132]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.02.10-00.16.03:002][132]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.16.03:002][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.16.14:095][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.02.10-00.16.14:105][421]LogMetaData: Removing '/Game/Blueprints/AI/EnemyAIBP.SKEL_EnemyAIBP_C' ref from Metadata '/Game/Blueprints/AI/ThirdPersonCharacter.PackageMetaData'
+[2021.02.10-00.16.14:105][421]LogMetaData: Removing '/Game/Blueprints/AI/EnemyAIBP.EnemyAIBP_C' ref from Metadata '/Game/Blueprints/AI/ThirdPersonCharacter.PackageMetaData'
+[2021.02.10-00.16.14:258][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/EnemyAIBP" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset" SILENT=true
+[2021.02.10-00.16.14:319][421]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIBP76ADB5A945D06BCC2393FD928C7FE75E.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset'
+[2021.02.10-00.16.14:582][421]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2021.02.10-00.16.14:643][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.02.10-00.16.14:688][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.02.10-00.16.14:806][421]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/EnemyAIBP.
+[2021.02.10-00.16.14:821][421]AssetCheck: New page: Asset Save: EnemyAIBP
+[2021.02.10-00.16.14:821][421]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/EnemyAIBP.EnemyAIBP
+[2021.02.10-00.16.17:013][470]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/EnemyAIBP.EnemyAIBP
+[2021.02.10-00.16.59:196][596]BlueprintLog: New page: Compile EnemyAIBP
+[2021.02.10-00.16.59:288][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.02.10-00.16.59:380][596]LogSlate: Took 0.019238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.10-00.17.00:222][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/EnemyAIBP" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset" SILENT=true
+[2021.02.10-00.17.00:265][612]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIBP94B351E441D452F5CE4F2DB6B6BF6694.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset'
+[2021.02.10-00.17.00:288][612]AssetCheck: New page: Asset Save: EnemyAIBP
+[2021.02.10-00.17.00:288][612]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/EnemyAIBP.EnemyAIBP
+[2021.02.10-00.17.01:793][659]LogSlate: Window 'EnemyAIBP' being destroyed
+[2021.02.10-00.17.01:844][659]LogSlate: Window 'EnemyAIBP' being destroyed
+[2021.02.10-00.17.01:873][659]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.17.01:874][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.17.09:297][739]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.10-00.17.14:842][739]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.10-00.17.23:795][ 10]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/EnemyAIControllerBP.
+[2021.02.10-00.17.25:777][ 59]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/EnemyAIControllerBP.EnemyAIControllerBP
+[2021.02.10-00.17.26:434][ 59]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2021.02.10-00.18.10:657][169]BlueprintLog: New page: Compile EnemyAIControllerBP
+[2021.02.10-00.18.10:771][169]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2021.02.10-00.18.11:657][185]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIControllerBPBE647F7F464B236D5F212B97F75FAE67.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIControllerBP.uasset'
+[2021.02.10-00.18.11:687][185]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/EnemyAIControllerBP.
+[2021.02.10-00.18.11:700][185]AssetCheck: New page: Asset Save: EnemyAIControllerBP
+[2021.02.10-00.18.11:701][185]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/EnemyAIControllerBP.EnemyAIControllerBP
+[2021.02.10-00.18.13:111][229]LogSlate: Window 'EnemyAIControllerBP' being destroyed
+[2021.02.10-00.18.13:151][229]LogSlate: Window 'EnemyAIControllerBP' being destroyed
+[2021.02.10-00.18.13:223][229]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.18.13:223][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.20.27:931][740]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/EnemyAIControllerBP.EnemyAIControllerBP
+[2021.02.10-00.20.40:028][993]BlueprintLog: New page: Compile EnemyAIControllerBP
+[2021.02.10-00.20.40:033][993]LogBlueprint: Warning: [Compiler EnemyAIControllerBP] Could not find a variable named "PlayerObj" in 'EnemyAIControllerBP_C'.
+Make sure 'EnemyAIControllerBP_C' has been compiled for  Get PlayerObj
+[2021.02.10-00.20.40:034][993]LogBlueprint: Error: [Compiler EnemyAIControllerBP] The property associated with  Player Obj  could not be found in '/Game/Blueprints/AI/EnemyAIControllerBP.EnemyAIControllerBP_C'
+[2021.02.10-00.20.40:165][993]LogUObjectHash: Compacting FUObjectHashTables data took   9.15ms
+[2021.02.10-00.21.28:609][566]LogSlate: Took 0.010681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.02.10-00.21.47:106][751]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.02.10-00.21.51:936][837]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.02.10-00.21.52:005][837]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.02.10-00.22.03:606][102]BlueprintLog: New page: Compile EnemyAIControllerBP
+[2021.02.10-00.22.03:709][102]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.02.10-00.22.16:952][386]BlueprintLog: New page: Compile EnemyAIControllerBP
+[2021.02.10-00.22.17:030][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.02.10-00.22.17:913][402]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIControllerBP4AC5E14B420A2A979DC3ED93FE354103.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIControllerBP.uasset'
+[2021.02.10-00.22.17:941][402]AssetCheck: New page: Asset Save: EnemyAIControllerBP
+[2021.02.10-00.22.17:941][402]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/EnemyAIControllerBP.EnemyAIControllerBP
+[2021.02.10-00.22.19:777][459]LogSlate: Window 'EnemyAIControllerBP' being destroyed
+[2021.02.10-00.22.19:817][459]LogSlate: Window 'EnemyAIControllerBP' being destroyed
+[2021.02.10-00.22.19:851][459]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.22.19:851][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.22.24:432][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/EnemyAIBP.EnemyAIBP
+[2021.02.10-00.22.28:221][618]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.10-00.22.34:499][741]BlueprintLog: New page: Compile EnemyAIBP
+[2021.02.10-00.22.34:632][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.02.10-00.22.35:597][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/EnemyAIBP" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset" SILENT=true
+[2021.02.10-00.22.35:647][758]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIBPA5A4D5A44188E6DF171449B40516605B.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset'
+[2021.02.10-00.22.35:670][758]AssetCheck: New page: Asset Save: EnemyAIBP
+[2021.02.10-00.22.35:670][758]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/EnemyAIBP.EnemyAIBP
+[2021.02.10-00.22.36:975][799]LogSlate: Window 'EnemyAIBP' being destroyed
+[2021.02.10-00.22.37:015][799]LogSlate: Window 'EnemyAIBP' being destroyed
+[2021.02.10-00.22.37:017][799]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.22.37:017][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.23.40:179][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.02.10-00.23.40:280][610]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMapA755B91745B518E4C81FF2A8BDFA8A24.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.10-00.23.40:599][610]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap_BuiltData9CB9B740491E20524A5FE6AC821ADE04.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.10-00.23.40:626][610]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.10-00.23.40:626][610]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.10-00.23.40:626][610]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.10-00.23.43:089][679]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-00.23.43:166][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-00.23.43:171][679]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 9, 2021, 2:23:43 PM)
+[2021.02.10-00.23.43:175][679]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.10-00.23.43:179][679]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.10-00.23.43:180][679]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.23.43:212][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031861s)
+[2021.02.10-00.23.43:213][679]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.23.43:213][679]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A4573EF200), frame # 14679
+[2021.02.10-00.23.43:214][679]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A4B769EAC0), frame # 14679
+[2021.02.10-00.23.43:214][679]LogPlayLevel: PIE: World Init took: (0.002255s)
+[2021.02.10-00.23.43:214][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034457s)
+[2021.02.10-00.23.43:298][679]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2021.02.10-00.23.43:301][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.23.43:301][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.23.43:301][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.23.43:301][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.23.43:301][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.23.43:301][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.23.43:301][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.23.43:301][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.23.43:302][679]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.23.43:302][679]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.23.43:319][679]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.23.43:319][679]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.23.43:319][679]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.23.43:319][679]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.23.43:319][679]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.23.43:319][679]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.23.43:319][679]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.23.43:319][679]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.23.43:434][679]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.23.43:434][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.23.43:434][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.23.43:434][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.23.43:435][679]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.23.43:469][679]LogInit: FAudioDevice initialized.
+[2021.02.10-00.23.43:489][679]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.10-00.23.43:493][679]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.09-19.23.43
+[2021.02.10-00.23.43:494][679]LogWorld: Bringing up level for play took: 0.002113
+[2021.02.10-00.23.43:494][679]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.02.10-00.23.43:518][679]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.02.10-00.23.43:520][679]PIE: Server logged in
+[2021.02.10-00.23.43:522][679]PIE: Play in editor total start time 0.364 seconds.
+[2021.02.10-00.23.46:401][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.23.46:402][748]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.23.46:402][748]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.23.46:403][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.23.46:424][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-00.23.46:433][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.23.46:502][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.23.46:559][748]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A4B769EAC0), frame # 14748
+[2021.02.10-00.23.46:559][748]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A4573EF200), frame # 14748
+[2021.02.10-00.23.46:609][748]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2021.02.10-00.23.46:662][749]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.02.10-00.23.52:679][898]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-00.23.52:718][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-00.23.52:718][898]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 9, 2021, 2:23:52 PM)
+[2021.02.10-00.23.52:718][898]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.23.52:741][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022059s)
+[2021.02.10-00.23.52:743][898]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.23.52:743][898]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A45716F800), frame # 14898
+[2021.02.10-00.23.52:743][898]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A4A05BFB00), frame # 14898
+[2021.02.10-00.23.52:743][898]LogPlayLevel: PIE: World Init took: (0.002590s)
+[2021.02.10-00.23.52:744][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024961s)
+[2021.02.10-00.23.52:840][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.02.10-00.23.52:842][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.23.52:842][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.23.52:842][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.23.52:842][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.23.52:842][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.23.52:842][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.23.52:842][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.23.52:842][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.23.52:843][898]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.23.52:843][898]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.23.52:847][898]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.23.52:847][898]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.23.52:847][898]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.23.52:847][898]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.23.52:847][898]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.23.52:847][898]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.23.52:847][898]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.23.52:847][898]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.23.52:905][898]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.23.52:905][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.23.52:905][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.23.52:905][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.23.52:906][898]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.23.52:930][898]LogInit: FAudioDevice initialized.
+[2021.02.10-00.23.52:942][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.10-00.23.52:946][898]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.09-19.23.52
+[2021.02.10-00.23.52:946][898]LogWorld: Bringing up level for play took: 0.003369
+[2021.02.10-00.23.52:947][898]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.02.10-00.23.52:949][898]LogScript: Warning: Accessed None trying to read property CallFunc_UseBlackboard_BlackboardComponent
+	EnemyAIControllerBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyAIControllerBP_C_0
+	Function /Game/Blueprints/AI/EnemyAIControllerBP.EnemyAIControllerBP_C:ExecuteUbergraph_EnemyAIControllerBP:0051
+[2021.02.10-00.23.52:950][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_UseBlackboard_BlackboardComponent". Blueprint:  EnemyAIControllerBP Function:  Execute Ubergraph Enemy AIController BP Graph:  EventGraph Node:  Set Value as Object
+[2021.02.10-00.23.52:950][898]PIE: Server logged in
+[2021.02.10-00.23.52:951][898]PIE: Play in editor total start time 0.237 seconds.
+[2021.02.10-00.23.56:008][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.23.56:008][989]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.23.56:009][989]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.23.56:009][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.23.56:046][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-00.23.56:049][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.23.56:110][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.23.56:112][989]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A4A05BFB00), frame # 14989
+[2021.02.10-00.23.56:112][989]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A45716F800), frame # 14989
+[2021.02.10-00.23.56:115][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.10-00.23.56:337][990]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.02.10-00.24.00:656][ 35]LogSlate: Window 'Message Log' being destroyed
+[2021.02.10-00.24.00:775][ 35]LogSlate: Window 'Message Log' being destroyed
+[2021.02.10-00.24.04:252][ 74]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/EnemyAIControllerBP.EnemyAIControllerBP
+[2021.02.10-00.24.15:850][322]BlueprintLog: New page: Compile EnemyAIControllerBP
+[2021.02.10-00.24.15:936][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.02.10-00.24.17:075][345]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIControllerBP49AEAF0647D0E12F024305B4C8E1345C.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIControllerBP.uasset'
+[2021.02.10-00.24.17:111][345]AssetCheck: New page: Asset Save: EnemyAIControllerBP
+[2021.02.10-00.24.17:111][345]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/EnemyAIControllerBP.EnemyAIControllerBP
+[2021.02.10-00.24.18:635][392]LogSlate: Window 'EnemyAIControllerBP' being destroyed
+[2021.02.10-00.24.18:676][392]LogSlate: Window 'EnemyAIControllerBP' being destroyed
+[2021.02.10-00.24.18:736][392]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.24.18:736][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.24.20:099][423]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-00.24.20:171][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-00.24.20:171][423]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 9, 2021, 2:24:20 PM)
+[2021.02.10-00.24.20:172][423]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.24.20:188][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016304s)
+[2021.02.10-00.24.20:190][423]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.24.20:190][423]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A44F8B2400), frame # 15423
+[2021.02.10-00.24.20:190][423]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A4BB53A840), frame # 15423
+[2021.02.10-00.24.20:190][423]LogPlayLevel: PIE: World Init took: (0.002204s)
+[2021.02.10-00.24.20:190][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018839s)
+[2021.02.10-00.24.20:257][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.02.10-00.24.20:259][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.24.20:259][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.24.20:259][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.24.20:259][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.24.20:259][423]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.24.20:259][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.24.20:259][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.24.20:259][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.24.20:260][423]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.24.20:260][423]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.24.20:266][423]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.24.20:266][423]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.24.20:266][423]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.24.20:266][423]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.24.20:266][423]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.24.20:266][423]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.24.20:266][423]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.24.20:266][423]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.24.20:324][423]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.24.20:324][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.24.20:324][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.24.20:324][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.24.20:325][423]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.24.20:348][423]LogInit: FAudioDevice initialized.
+[2021.02.10-00.24.20:354][423]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.10-00.24.20:358][423]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.09-19.24.20
+[2021.02.10-00.24.20:359][423]LogWorld: Bringing up level for play took: 0.002877
+[2021.02.10-00.24.20:359][423]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.02.10-00.24.20:375][423]PIE: Server logged in
+[2021.02.10-00.24.20:376][423]PIE: Play in editor total start time 0.211 seconds.
+[2021.02.10-00.24.27:010][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.24.27:010][621]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.24.27:011][621]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.24.27:012][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.24.27:037][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-00.24.27:046][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.24.27:199][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.24.27:201][621]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A4BB53A840), frame # 15621
+[2021.02.10-00.24.27:201][621]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A44F8B2400), frame # 15621
+[2021.02.10-00.24.27:211][621]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2021.02.10-00.24.27:316][622]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.02.10-00.24.31:541][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.02.10-00.24.31:587][725]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap7495684C4AEF8031BA1D1EB3EA94147B.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.10-00.24.31:829][725]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap_BuiltData62EA96AF4CEAC6B32B2ED885EB864D52.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.10-00.24.31:856][725]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.10-00.24.31:856][725]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.10-00.24.31:856][725]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.10-00.26.10:303][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.02.10-00.26.10:371][659]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap6374D510411DCB59C13EB0A326E97815.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.10-00.26.10:616][659]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap_BuiltDataF871E22545514311966BD29C9F85C2A7.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.10-00.26.10:643][659]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.10-00.26.10:643][659]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.10-00.26.10:643][659]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.10-00.26.12:054][703]LogEditorViewport: Clicking on Actor (LMB): EnemyAIBP_C (EnemyAIBP)
+[2021.02.10-00.26.15:098][762]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/EnemyAIBP.EnemyAIBP
+[2021.02.10-00.26.32:315][954]BlueprintLog: New page: Compile EnemyAIBP
+[2021.02.10-00.26.32:580][954]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2021.02.10-00.26.34:293][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/EnemyAIBP" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset" SILENT=true
+[2021.02.10-00.26.34:332][970]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIBPDA1AF45C4A31DF35973263B2F0B4B2BF.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset'
+[2021.02.10-00.26.34:386][970]AssetCheck: New page: Asset Save: EnemyAIBP
+[2021.02.10-00.26.34:386][970]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/EnemyAIBP.EnemyAIBP
+[2021.02.10-00.26.42:503][ 55]BlueprintLog: New page: Compile EnemyAIBP
+[2021.02.10-00.26.42:766][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.02.10-00.26.43:696][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/EnemyAIBP" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset" SILENT=true
+[2021.02.10-00.26.43:728][ 64]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/EnemyAIBP20B4940642A9DD839D1E58B0D84A9C98.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/AI/EnemyAIBP.uasset'
+[2021.02.10-00.26.43:761][ 64]AssetCheck: New page: Asset Save: EnemyAIBP
+[2021.02.10-00.26.43:761][ 64]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/EnemyAIBP.EnemyAIBP
+[2021.02.10-00.26.44:889][ 82]LogSlate: Window 'EnemyAIBP' being destroyed
+[2021.02.10-00.26.44:973][ 82]LogSlate: Window 'EnemyAIBP' being destroyed
+[2021.02.10-00.26.45:058][ 82]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.26.45:058][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.26.47:979][155]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-00.26.48:021][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-00.26.48:021][155]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 9, 2021, 2:26:48 PM)
+[2021.02.10-00.26.48:021][155]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.26.48:050][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028508s)
+[2021.02.10-00.26.48:053][155]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.26.48:054][155]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A49C3F3600), frame # 19155
+[2021.02.10-00.26.48:054][155]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A49A80CCC0), frame # 19155
+[2021.02.10-00.26.48:055][155]LogPlayLevel: PIE: World Init took: (0.003938s)
+[2021.02.10-00.26.48:055][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032816s)
+[2021.02.10-00.26.48:129][155]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.02.10-00.26.48:132][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.26.48:132][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.26.48:133][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.26.48:133][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.26.48:133][155]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.26.48:133][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.26.48:133][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.26.48:133][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.26.48:133][155]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.26.48:133][155]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.26.48:140][155]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.26.48:140][155]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.26.48:140][155]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.26.48:140][155]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.26.48:140][155]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.26.48:140][155]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.26.48:140][155]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.26.48:140][155]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.26.48:208][155]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.26.48:209][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.26.48:209][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.26.48:209][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.26.48:209][155]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.26.48:229][155]LogInit: FAudioDevice initialized.
+[2021.02.10-00.26.48:240][155]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.10-00.26.48:243][155]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.09-19.26.48
+[2021.02.10-00.26.48:244][155]LogWorld: Bringing up level for play took: 0.002778
+[2021.02.10-00.26.48:244][155]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.02.10-00.26.48:247][155]PIE: Server logged in
+[2021.02.10-00.26.48:247][155]PIE: Play in editor total start time 0.231 seconds.
+[2021.02.10-00.26.58:671][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.26.58:672][466]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.26.58:672][466]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.26.58:674][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.26.58:709][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-00.26.58:717][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.26.58:878][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.26.58:880][466]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A49A80CCC0), frame # 19466
+[2021.02.10-00.26.58:881][466]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A49C3F3600), frame # 19466
+[2021.02.10-00.26.58:888][466]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2021.02.10-00.26.58:980][467]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.02.10-00.29.18:658][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.10-00.29.29:373][518]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-00.29.29:406][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-00.29.29:406][518]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 9, 2021, 2:29:29 PM)
+[2021.02.10-00.29.29:406][518]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.29.29:425][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018654s)
+[2021.02.10-00.29.29:427][518]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.29.29:427][518]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A49F601A00), frame # 20518
+[2021.02.10-00.29.29:427][518]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A49A80CB80), frame # 20518
+[2021.02.10-00.29.29:427][518]LogPlayLevel: PIE: World Init took: (0.001998s)
+[2021.02.10-00.29.29:427][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020874s)
+[2021.02.10-00.29.29:488][518]LogUObjectHash: Compacting FUObjectHashTables data took  12.96ms
+[2021.02.10-00.29.29:495][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.29.29:495][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.29.29:496][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.29.29:496][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.29.29:496][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.29.29:496][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.29.29:496][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.29.29:496][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.29.29:497][518]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.29.29:497][518]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.29.29:509][518]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.29.29:509][518]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.29.29:509][518]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.29.29:509][518]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.29.29:509][518]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.29.29:509][518]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.29.29:509][518]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.29.29:509][518]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.29.29:569][518]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.29.29:569][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.29.29:569][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.29.29:569][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.29.29:570][518]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.29.29:591][518]LogInit: FAudioDevice initialized.
+[2021.02.10-00.29.29:603][518]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.10-00.29.29:606][518]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.09-19.29.29
+[2021.02.10-00.29.29:607][518]LogWorld: Bringing up level for play took: 0.002597
+[2021.02.10-00.29.29:607][518]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.02.10-00.29.29:609][518]PIE: Server logged in
+[2021.02.10-00.29.29:611][518]PIE: Play in editor total start time 0.208 seconds.
+[2021.02.10-00.29.36:078][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.29.36:078][712]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.29.36:078][712]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.29.36:079][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.29.36:138][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-00.29.36:144][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.29.36:190][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.29.36:250][712]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A49A80CB80), frame # 20712
+[2021.02.10-00.29.36:250][712]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A49F601A00), frame # 20712
+[2021.02.10-00.29.36:252][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.02.10-00.29.36:295][713]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.02.10-00.29.37:970][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.10-00.29.38:240][771]Cmd: TRANSACTION UNDO
+[2021.02.10-00.29.38:241][771]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.10-00.29.39:176][788]Cmd: TRANSACTION UNDO
+[2021.02.10-00.29.39:176][788]LogEditorTransaction: Undo Move Actors
+[2021.02.10-00.29.43:389][849]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.02.10-00.29.43:492][849]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap3450D89D4B5856834ED086936D414C15.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.10-00.29.43:754][849]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap_BuiltData94FE4F6A4203F640080173BDB3707A12.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.10-00.29.43:814][849]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.10-00.29.43:814][849]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.10-00.29.43:814][849]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.10-00.29.46:759][929]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-00.29.46:828][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-00.29.46:828][929]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 9, 2021, 2:29:46 PM)
+[2021.02.10-00.29.46:829][929]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.29.46:868][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038254s)
+[2021.02.10-00.29.46:871][929]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.29.46:871][929]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A49F218400), frame # 20929
+[2021.02.10-00.29.46:871][929]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A49E4F96C0), frame # 20929
+[2021.02.10-00.29.46:871][929]LogPlayLevel: PIE: World Init took: (0.003331s)
+[2021.02.10-00.29.46:871][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041949s)
+[2021.02.10-00.29.46:939][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.02.10-00.29.46:941][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.29.46:941][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.29.46:941][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.29.46:941][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.29.46:941][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.29.46:941][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.29.46:941][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.29.46:941][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.29.46:942][929]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.29.46:942][929]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.29.46:950][929]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.29.46:951][929]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.29.46:951][929]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.29.46:951][929]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.29.46:951][929]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.29.46:951][929]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.29.46:951][929]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.29.46:951][929]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.29.47:003][929]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.29.47:004][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.29.47:004][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.29.47:004][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.29.47:004][929]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.29.47:027][929]LogInit: FAudioDevice initialized.
+[2021.02.10-00.29.47:034][929]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.10-00.29.47:037][929]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.09-19.29.47
+[2021.02.10-00.29.47:038][929]LogWorld: Bringing up level for play took: 0.002477
+[2021.02.10-00.29.47:038][929]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.02.10-00.29.47:040][929]PIE: Server logged in
+[2021.02.10-00.29.47:041][929]PIE: Play in editor total start time 0.22 seconds.
+[2021.02.10-00.29.52:301][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.29.52:301][ 86]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.29.52:302][ 86]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.29.52:303][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.29.52:338][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-00.29.52:342][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.29.52:371][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.29.52:432][ 86]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A49E4F96C0), frame # 21086
+[2021.02.10-00.29.52:432][ 86]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A49F218400), frame # 21086
+[2021.02.10-00.29.52:437][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.02.10-00.29.52:480][ 87]Cmd: SELECT NONE
+[2021.02.10-00.29.52:480][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.02.10-00.29.57:040][225]Cmd: SELECT NONE
+[2021.02.10-00.30.22:214][860]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.10-00.30.23:466][860]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.10-00.30.30:021][ 61]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/Path/PlayerPath.
+[2021.02.10-00.30.31:608][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Path/PlayerPath.PlayerPath
+[2021.02.10-00.30.41:507][200]BlueprintLog: New page: Compile PlayerPath
+[2021.02.10-00.30.41:605][200]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2021.02.10-00.30.42:854][211]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerPathE64FFBFE429D86AA990E9C8F2EA27308.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Path/PlayerPath.uasset'
+[2021.02.10-00.30.42:937][211]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Path/PlayerPath.
+[2021.02.10-00.30.42:952][211]AssetCheck: New page: Asset Save: PlayerPath
+[2021.02.10-00.30.42:952][211]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Path/PlayerPath.PlayerPath
+[2021.02.10-00.31.14:570][441]BlueprintLog: New page: Compile PlayerPath
+[2021.02.10-00.31.14:644][441]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.02.10-00.31.15:539][459]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerPathF52DAEF94E651A684838FC88D0725B00.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Path/PlayerPath.uasset'
+[2021.02.10-00.31.15:565][459]AssetCheck: New page: Asset Save: PlayerPath
+[2021.02.10-00.31.15:565][459]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Path/PlayerPath.PlayerPath
+[2021.02.10-00.31.16:966][501]LogSlate: Window 'PlayerPath' being destroyed
+[2021.02.10-00.31.17:025][501]LogSlate: Window 'PlayerPath' being destroyed
+[2021.02.10-00.31.17:064][501]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.31.17:064][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.31.31:932][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.02.10-00.31.31:940][842]LogMetaData: Removing '/Game/Blueprints/Path/PlayerPathBP.PlayerPathBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Path/PlayerPath.PackageMetaData'
+[2021.02.10-00.31.31:940][842]LogMetaData: Removing '/Game/Blueprints/Path/PlayerPathBP.SKEL_PlayerPathBP_C' ref from Metadata '/Game/Blueprints/Path/PlayerPath.PackageMetaData'
+[2021.02.10-00.31.31:940][842]LogMetaData: Removing '/Game/Blueprints/Path/PlayerPathBP.PlayerPathBP_C' ref from Metadata '/Game/Blueprints/Path/PlayerPath.PackageMetaData'
+[2021.02.10-00.31.31:940][842]LogMetaData: Removing '/Game/Blueprints/Path/PlayerPathBP.PlayerPathBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Path/PlayerPath.PackageMetaData'
+[2021.02.10-00.31.31:940][842]LogMetaData: Removing '/Game/Blueprints/Path/PlayerPathBP.PlayerPathBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Path/PlayerPath.PackageMetaData'
+[2021.02.10-00.31.31:940][842]LogMetaData: Removing '/Game/Blueprints/Path/PlayerPathBP.PlayerPathBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Path/PlayerPath.PackageMetaData'
+[2021.02.10-00.31.32:039][842]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerPathBP36BE94AD4195814DAFB454BEEAA66CAE.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Path/PlayerPathBP.uasset'
+[2021.02.10-00.31.32:475][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.02.10-00.31.32:524][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.02.10-00.31.32:565][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.02.10-00.31.32:668][842]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Path/PlayerPathBP.
+[2021.02.10-00.31.32:681][842]AssetCheck: New page: Asset Save: PlayerPathBP
+[2021.02.10-00.31.32:681][842]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Path/PlayerPathBP.PlayerPathBP
+[2021.02.10-00.31.39:922][ 51]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Path/PlayerPathBP.PlayerPathBP
+[2021.02.10-00.31.45:684][126]LogSlate: Window 'PlayerPathBP' being destroyed
+[2021.02.10-00.31.45:764][126]LogSlate: Window 'PlayerPathBP' being destroyed
+[2021.02.10-00.31.45:827][126]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.31.45:827][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.33.05:701][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.02.10-00.33.05:742][340]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/Player/ThirdPersonCharacter.
+[2021.02.10-00.33.17:907][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.02.10-00.33.17:914][590]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacterBP.SKEL_PlayerCharacterBP_C' ref from Metadata '/Game/Blueprints/Player/ThirdPersonCharacter.PackageMetaData'
+[2021.02.10-00.33.17:914][590]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP_C' ref from Metadata '/Game/Blueprints/Player/ThirdPersonCharacter.PackageMetaData'
+[2021.02.10-00.33.18:135][590]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBPC0B831BA46C4AB44627A3CACF478CAFC.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.10-00.33.18:385][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.02.10-00.33.18:439][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.02.10-00.33.18:477][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.02.10-00.33.18:544][590]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Player/PlayerCharacterBP.
+[2021.02.10-00.33.18:552][590]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2021.02.10-00.33.18:552][590]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.33.19:757][620]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.33.38:205][836]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SkeletalCube_Skeleton, removing AnimBP from actor.
+[2021.02.10-00.33.38:206][836]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SkeletalCube_Skeleton, removing AnimBP from actor.
+[2021.02.10-00.33.38:207][836]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SkeletalCube_Skeleton, removing AnimBP from actor.
+[2021.02.10-00.33.38:207][836]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SkeletalCube_Skeleton, removing AnimBP from actor.
+[2021.02.10-00.34.11:982][300]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.10-00.34.12:111][300]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2021.02.10-00.34.13:314][310]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBP20F2C2144307BBBF3B0BE4AEA41A7A9C.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.10-00.34.13:363][310]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2021.02.10-00.34.13:363][310]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.34.24:330][467]LogSlate: Window 'PlayerCharacterBP' being destroyed
+[2021.02.10-00.34.24:408][467]LogSlate: Window 'PlayerCharacterBP' being destroyed
+[2021.02.10-00.34.24:468][467]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.34.24:469][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.34.52:181][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.35.02:925][362]LogSlate: Window 'PlayerCharacterBP' being destroyed
+[2021.02.10-00.35.03:025][362]LogSlate: Window 'PlayerCharacterBP' being destroyed
+[2021.02.10-00.35.03:050][362]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.35.03:050][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.35.04:216][381]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-00.35.04:261][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-00.35.04:261][381]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 9, 2021, 2:35:04 PM)
+[2021.02.10-00.35.04:262][381]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.35.04:283][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021372s)
+[2021.02.10-00.35.04:285][381]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.35.04:285][381]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A4E0D98E00), frame # 27381
+[2021.02.10-00.35.04:285][381]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A4E20C87C0), frame # 27381
+[2021.02.10-00.35.04:285][381]LogPlayLevel: PIE: World Init took: (0.002200s)
+[2021.02.10-00.35.04:285][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023810s)
+[2021.02.10-00.35.04:381][381]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2021.02.10-00.35.04:383][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.35.04:383][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.35.04:383][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.35.04:383][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.35.04:383][381]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.35.04:383][381]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.35.04:383][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.35.04:384][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.35.04:384][381]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.35.04:384][381]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.35.04:391][381]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.35.04:391][381]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.35.04:391][381]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.35.04:391][381]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.35.04:392][381]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.35.04:392][381]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.35.04:392][381]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.35.04:392][381]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.35.04:447][381]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.35.04:447][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.35.04:448][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.35.04:448][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.35.04:448][381]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.35.04:471][381]LogInit: FAudioDevice initialized.
+[2021.02.10-00.35.04:484][381]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.10-00.35.04:488][381]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.09-19.35.04
+[2021.02.10-00.35.04:488][381]LogWorld: Bringing up level for play took: 0.003540
+[2021.02.10-00.35.04:489][381]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.02.10-00.35.04:492][381]PIE: Server logged in
+[2021.02.10-00.35.04:493][381]PIE: Play in editor total start time 0.233 seconds.
+[2021.02.10-00.35.07:775][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.35.07:775][479]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.35.07:776][479]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.35.07:776][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.35.07:821][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-00.35.07:825][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.35.07:905][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.35.07:906][479]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A4E20C87C0), frame # 27479
+[2021.02.10-00.35.07:906][479]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A4E0D98E00), frame # 27479
+[2021.02.10-00.35.07:908][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.02.10-00.35.07:959][480]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.02.10-00.35.10:454][556]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacterBP_C (PlayerCharacterBP)
+[2021.02.10-00.36.08:988][247]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-00.36.09:047][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-00.36.09:047][247]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 9, 2021, 2:36:09 PM)
+[2021.02.10-00.36.09:048][247]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.36.09:073][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025416s)
+[2021.02.10-00.36.09:075][247]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.36.09:075][247]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A49B575C00), frame # 29247
+[2021.02.10-00.36.09:076][247]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A4FFAEF600), frame # 29247
+[2021.02.10-00.36.09:076][247]LogPlayLevel: PIE: World Init took: (0.002559s)
+[2021.02.10-00.36.09:076][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028373s)
+[2021.02.10-00.36.09:140][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.02.10-00.36.09:146][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.36.09:146][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.36.09:146][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.36.09:146][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.36.09:146][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.36.09:146][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.36.09:146][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.36.09:146][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.36.09:147][247]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.36.09:147][247]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.36.09:152][247]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.36.09:152][247]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.36.09:152][247]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.36.09:152][247]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.36.09:152][247]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.36.09:152][247]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.36.09:153][247]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.36.09:153][247]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.36.09:217][247]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.36.09:217][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.36.09:217][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.36.09:217][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.36.09:218][247]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.36.09:244][247]LogInit: FAudioDevice initialized.
+[2021.02.10-00.36.09:258][247]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.10-00.36.09:262][247]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.09-19.36.09
+[2021.02.10-00.36.09:262][247]LogWorld: Bringing up level for play took: 0.003362
+[2021.02.10-00.36.09:263][247]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.02.10-00.36.09:266][247]PIE: Server logged in
+[2021.02.10-00.36.09:267][247]PIE: Play in editor total start time 0.226 seconds.
+[2021.02.10-00.36.25:847][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.36.25:847][744]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.36.25:847][744]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.36.25:847][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.36.25:884][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-00.36.25:888][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.36.25:914][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.36.25:955][744]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A4FFAEF600), frame # 29744
+[2021.02.10-00.36.25:955][744]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A49B575C00), frame # 29744
+[2021.02.10-00.36.25:958][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.02.10-00.36.26:030][745]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.02.10-00.36.28:181][798]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.36.39:727][930]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.10-00.36.39:884][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.02.10-00.36.41:128][941]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBP093472244F01126F538525B987BCEED8.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.10-00.36.41:182][941]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2021.02.10-00.36.41:182][941]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.36.42:554][963]LogSlate: Window 'PlayerCharacterBP' being destroyed
+[2021.02.10-00.36.42:662][963]LogSlate: Window 'PlayerCharacterBP' being destroyed
+[2021.02.10-00.36.42:683][963]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.36.42:683][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.36.44:055][991]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-00.36.44:101][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-00.36.44:101][991]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 9, 2021, 2:36:44 PM)
+[2021.02.10-00.36.44:101][991]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.36.44:119][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018400s)
+[2021.02.10-00.36.44:120][991]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.10-00.36.44:120][991]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A45D52CC00), frame # 29991
+[2021.02.10-00.36.44:120][991]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A4B7791D00), frame # 29991
+[2021.02.10-00.36.44:121][991]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2021.02.10-00.36.44:121][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020354s)
+[2021.02.10-00.36.44:209][991]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2021.02.10-00.36.44:211][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-00.36.44:211][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-00.36.44:211][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-00.36.44:211][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-00.36.44:211][991]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-00.36.44:211][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-00.36.44:211][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-00.36.44:211][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-00.36.44:212][991]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-00.36.44:212][991]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-00.36.44:220][991]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-00.36.44:220][991]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-00.36.44:220][991]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.10-00.36.44:220][991]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.10-00.36.44:220][991]LogAudioMixer: Display: 4: BackLeft
+[2021.02.10-00.36.44:220][991]LogAudioMixer: Display: 5: BackRight
+[2021.02.10-00.36.44:220][991]LogAudioMixer: Display: 6: SideLeft
+[2021.02.10-00.36.44:220][991]LogAudioMixer: Display: 7: SideRight
+[2021.02.10-00.36.44:291][991]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.10-00.36.44:291][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-00.36.44:291][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-00.36.44:291][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-00.36.44:292][991]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-00.36.44:321][991]LogInit: FAudioDevice initialized.
+[2021.02.10-00.36.44:333][991]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.10-00.36.44:336][991]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.09-19.36.44
+[2021.02.10-00.36.44:337][991]LogWorld: Bringing up level for play took: 0.002452
+[2021.02.10-00.36.44:337][991]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.02.10-00.36.44:339][991]PIE: Server logged in
+[2021.02.10-00.36.44:340][991]PIE: Play in editor total start time 0.244 seconds.
+[2021.02.10-00.36.54:010][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.36.54:010][280]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.10-00.36.54:010][280]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-00.36.54:012][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.36.54:041][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-00.36.54:049][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-00.36.54:140][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-00.36.54:141][280]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A4B7791D00), frame # 30280
+[2021.02.10-00.36.54:141][280]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A45D52CC00), frame # 30280
+[2021.02.10-00.36.54:144][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.02.10-00.36.54:196][281]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.02.10-00.36.57:203][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.02.10-00.36.57:276][353]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap0D32198F400796A2332405842AF5B495.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.10-00.36.57:555][353]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap_BuiltDataE7D9C5F441BA3EF0692F76ADDAF5ACA8.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.10-00.36.57:606][353]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.10-00.36.57:606][353]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.10-00.36.57:606][353]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.10-00.41.51:216][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.42.14:814][479]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.10-00.42.14:944][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.02.10-00.42.16:073][488]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBP55025C074D12D05FFB54B294E4EF7094.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.10-00.42.16:109][488]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2021.02.10-00.42.16:110][488]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.43.18:826][360]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.10-00.43.18:919][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.02.10-00.43.20:176][383]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBP7D96A83D4B78488884CAD2A02A5C9783.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.10-00.43.20:197][383]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2021.02.10-00.43.20:197][383]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.43.46:074][722]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.10-00.43.46:181][722]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2021.02.10-00.43.47:291][742]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBP100F45CC4E6BADFC0EE86CBB63270E0B.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.10-00.43.47:319][742]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2021.02.10-00.43.47:319][742]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.10-00.44.24:436][123]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2021.02.10-00.44.24:437][123]LogD3D11RHI: [Aftermath] GDynamicRHI=000001A41FB240C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.02.10-00.44.24:437][123]LogWindows: Windows GetLastError: The operation completed successfully. (0)
