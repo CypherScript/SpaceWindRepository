@@ -1033,3 +1033,131 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.16-04.16.14:610][830]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap58C981894D3A86E69A51FABF0D24ED47.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.02.16-04.16.14:640][830]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.02.16-04.16.14:640][830]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.16-04.20.20:581][819]LogFMOD: File has changed: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-04.20.20:620][819]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/BankLookup135895E14CA5C93EAE55FC8F47102DC8.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.02.16-04.20.20:625][819]LogFMOD: Loading strings bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-04.20.20:646][819]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/AssetLookupFB6D21194C154F17688A14B23399CDBD.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.02.16-04.20.20:767][819]LogFMOD: Display: Loaded bank lookup
+[2021.02.16-04.20.20:767][819]LogFMOD: Display: Loaded asset lookup
+[2021.02.16-04.20.20:771][819]LogFMOD: Default sample rate = 48000
+[2021.02.16-04.20.20:771][819]LogFMOD: System sample rate = 48000
+[2021.02.16-04.20.20:771][819]LogFMOD: Matching system sample rate 48000
+[2021.02.16-04.20.20:790][819]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-04.20.20:790][819]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-04.20.20:790][819]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-04.20.20:790][819]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-04.20.20:940][819]LogFMOD: Default sample rate = 48000
+[2021.02.16-04.20.20:940][819]LogFMOD: System sample rate = 48000
+[2021.02.16-04.20.20:940][819]LogFMOD: Matching system sample rate 48000
+[2021.02.16-04.20.20:959][819]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-04.20.20:959][819]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-04.20.20:959][819]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-04.20.20:959][819]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-04.20.21:018][819]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.16-04.20.21:018][819]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.02.16-04.20.21:018][819]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.02.16-04.21.07:595][959]LogFMOD: File has changed: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-04.21.07:634][959]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/BankLookup0F196C4A4E7F56663216778D4DF04BB9.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.02.16-04.21.07:637][959]LogFMOD: Loading strings bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-04.21.07:659][959]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/AssetLookupA7DE5D4F4C620A40D022AFAF93AAD548.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.02.16-04.21.07:777][959]LogFMOD: Display: Loaded bank lookup
+[2021.02.16-04.21.07:778][959]LogFMOD: Display: Loaded asset lookup
+[2021.02.16-04.21.07:782][959]LogFMOD: Default sample rate = 48000
+[2021.02.16-04.21.07:782][959]LogFMOD: System sample rate = 48000
+[2021.02.16-04.21.07:782][959]LogFMOD: Matching system sample rate 48000
+[2021.02.16-04.21.07:810][959]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-04.21.07:811][959]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-04.21.07:811][959]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-04.21.07:811][959]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-04.21.07:969][959]LogFMOD: Default sample rate = 48000
+[2021.02.16-04.21.07:969][959]LogFMOD: System sample rate = 48000
+[2021.02.16-04.21.07:969][959]LogFMOD: Matching system sample rate 48000
+[2021.02.16-04.21.07:988][959]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-04.21.07:988][959]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-04.21.07:988][959]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-04.21.07:988][959]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-04.21.08:048][959]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.16-04.21.08:048][959]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.02.16-04.21.08:048][959]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.02.16-04.21.14:080][978]LogFMOD: File has changed: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-04.21.14:113][978]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/BankLookup89A99A2D4258D4FA268EB2ACC77ADD52.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.02.16-04.21.14:117][978]LogFMOD: Loading strings bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-04.21.14:137][978]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/AssetLookup16CC89824244E2533D546C9C45415A04.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.02.16-04.21.14:240][978]LogFMOD: Display: Loaded bank lookup
+[2021.02.16-04.21.14:240][978]LogFMOD: Display: Loaded asset lookup
+[2021.02.16-04.21.14:244][978]LogFMOD: Default sample rate = 48000
+[2021.02.16-04.21.14:244][978]LogFMOD: System sample rate = 48000
+[2021.02.16-04.21.14:244][978]LogFMOD: Matching system sample rate 48000
+[2021.02.16-04.21.14:264][978]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-04.21.14:264][978]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-04.21.14:264][978]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-04.21.14:264][978]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-04.21.14:405][978]LogFMOD: Default sample rate = 48000
+[2021.02.16-04.21.14:405][978]LogFMOD: System sample rate = 48000
+[2021.02.16-04.21.14:405][978]LogFMOD: Matching system sample rate 48000
+[2021.02.16-04.21.14:425][978]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-04.21.14:425][978]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-04.21.14:425][978]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-04.21.14:425][978]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-04.21.14:477][978]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.16-04.21.14:477][978]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.02.16-04.21.14:477][978]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.02.16-04.21.39:214][ 53]LogFMOD: File has changed: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-04.21.39:253][ 53]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/BankLookup52B459914FE9DDC5CA2D93B64722B9DB.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.02.16-04.21.39:257][ 53]LogFMOD: Loading strings bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-04.21.39:259][ 53]LogFMOD: Constructing asset: /Game/FMOD/Events/AMB/amb_1
+[2021.02.16-04.21.39:259][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {16a2b6d8-672c-4bda-a75a-e94adffa3c0c}
+
+[2021.02.16-04.21.39:280][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {16a2b6d8-672c-4bda-a75a-e94adffa3c0c}
+
+[2021.02.16-04.21.39:285][ 53]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/amb_1E4DBCA5B4D7922CB60A998BB394EACED.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Events/AMB/amb_1.uasset'
+[2021.02.16-04.21.39:290][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {16a2b6d8-672c-4bda-a75a-e94adffa3c0c}
+
+[2021.02.16-04.21.39:290][ 53]LogFMOD: Constructing asset: /Game/FMOD/Events/AMB/amb_2
+[2021.02.16-04.21.39:291][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {85f4ddde-667d-4566-85ab-92a959d3d96b}
+
+[2021.02.16-04.21.39:309][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {85f4ddde-667d-4566-85ab-92a959d3d96b}
+
+[2021.02.16-04.21.39:314][ 53]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/amb_23C5D8DB844624A750FA66688CDF20D22.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Events/AMB/amb_2.uasset'
+[2021.02.16-04.21.39:318][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {85f4ddde-667d-4566-85ab-92a959d3d96b}
+
+[2021.02.16-04.21.39:318][ 53]LogFMOD: Constructing asset: /Game/FMOD/Events/AMB/amb_4
+[2021.02.16-04.21.39:318][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {f1a9f21d-07cc-483a-b35b-1efd2fe8b0d9}
+
+[2021.02.16-04.21.39:335][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {f1a9f21d-07cc-483a-b35b-1efd2fe8b0d9}
+
+[2021.02.16-04.21.39:340][ 53]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/amb_4CDD5506D469B047A221F718787E742AC.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Events/AMB/amb_4.uasset'
+[2021.02.16-04.21.39:345][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {f1a9f21d-07cc-483a-b35b-1efd2fe8b0d9}
+
+[2021.02.16-04.21.39:345][ 53]LogFMOD: Constructing asset: /Game/FMOD/Events/AMB/amb_3
+[2021.02.16-04.21.39:345][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {f5e504aa-a803-4caa-ad3b-7b78901c19fc}
+
+[2021.02.16-04.21.39:362][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {f5e504aa-a803-4caa-ad3b-7b78901c19fc}
+
+[2021.02.16-04.21.39:367][ 53]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/amb_38038604E44390864C0BAC8933C746B21.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Events/AMB/amb_3.uasset'
+[2021.02.16-04.21.39:371][ 53]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {f5e504aa-a803-4caa-ad3b-7b78901c19fc}
+
+[2021.02.16-04.21.39:393][ 53]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/AssetLookup3B9932244B31B643948300A58F2F018C.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.02.16-04.21.39:504][ 53]LogFMOD: Display: Loaded bank lookup
+[2021.02.16-04.21.39:504][ 53]LogFMOD: Display: Loaded asset lookup
+[2021.02.16-04.21.39:507][ 53]LogFMOD: Default sample rate = 48000
+[2021.02.16-04.21.39:507][ 53]LogFMOD: System sample rate = 48000
+[2021.02.16-04.21.39:507][ 53]LogFMOD: Matching system sample rate 48000
+[2021.02.16-04.21.39:536][ 53]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-04.21.39:536][ 53]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-04.21.39:536][ 53]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-04.21.39:536][ 53]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-04.21.39:690][ 53]LogFMOD: Default sample rate = 48000
+[2021.02.16-04.21.39:690][ 53]LogFMOD: System sample rate = 48000
+[2021.02.16-04.21.39:690][ 53]LogFMOD: Matching system sample rate 48000
+[2021.02.16-04.21.39:708][ 53]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-04.21.39:708][ 53]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-04.21.39:708][ 53]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-04.21.39:708][ 53]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-04.21.39:770][ 53]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.16-04.21.39:770][ 53]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.02.16-04.21.39:770][ 53]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.02.16-04.21.39:770][ 53]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/AMB/amb_1.amb_1
+[2021.02.16-04.21.39:770][ 53]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/AMB/amb_3.amb_3
+[2021.02.16-04.21.39:770][ 53]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/AMB/amb_4.amb_4
+[2021.02.16-04.21.39:770][ 53]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/AMB/amb_2.amb_2
