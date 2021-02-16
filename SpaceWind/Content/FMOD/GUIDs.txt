@@ -1,0 +1,10 @@
+{e886667a-b75e-4538-8c0a-b59f32ee98a7} bank:/AMB
+{2c85c197-85cf-4542-b722-1715f991d7fe} bank:/BGM
+{4891dc0e-c1b9-4e9b-9e54-91b2a6769023} bank:/Master
+{d08cfcda-b0c2-02d9-181d-1b4c578596bb} bank:/Master.strings
+{bde17403-8859-4f01-8ab9-8603aa974091} bank:/SFX
+{7cddfce4-6bb2-4a91-b35d-2669980cf307} bank:/UI
+{bb58547b-06c2-49a5-8ea1-248fc9c21b3a} bus:/
+{44aad1f3-8d7b-4d9f-b145-753de450bf97} bus:/Reverb
+{a133c7e0-d18a-46ca-8438-c35a6cca9473} event:/BGM/Aries
+{6f2b3596-30ba-48aa-89c9-0f876164b8c0} parameter:/Game State
