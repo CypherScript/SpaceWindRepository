@@ -1054,3 +1054,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.16-15.35.34:522][386]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.041
 [2021.02.16-15.35.34:545][386]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.02.16-15.35.34:545][386]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.16-15.37.09:346][898]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_Sailboat2.sailboat_low_Sailboat2
+[2021.02.16-15.37.09:840][898]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.16-15.37.33:808][696]LogTexture: Display: Building textures: M_Sailboat (AutoDXT, 2048X2048)
+[2021.02.16-15.37.33:808][696]LogMaterial: Display: Missing cached shader map for material M_Sailboat, compiling. 
+[2021.02.16-15.37.33:850][696]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.02.16-15.37.33:850][696]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.02.16-15.37.33:850][696]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.02.16-15.37.33:850][696]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.02.16-15.37.40:165][308]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/sailboat_low_Sailboat252649A37448FE412EE94CD866E20317E.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Geometry/Meshes/Sailboat/sailboat_low_Sailboat2.uasset'
+[2021.02.16-15.37.40:177][308]AssetCheck: New page: Asset Save: sailboat_low_Sailboat2
+[2021.02.16-15.37.40:177][308]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_Sailboat2.sailboat_low_Sailboat2
+[2021.02.16-15.37.42:686][571]LogSlate: Window 'sailboat_low_Sailboat2' being destroyed
+[2021.02.16-15.37.42:692][571]LogSlate: Window 'sailboat_low_Sailboat2' being destroyed
+[2021.02.16-15.37.42:721][571]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-15.37.42:721][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-15.37.46:811][ 45]LogStaticMesh: Building static mesh sailboat_low_Sail...
+[2021.02.16-15.37.46:834][ 45]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/Sailboat/sailboat_low_Sail.sailboat_low_Sail
+[2021.02.16-15.37.46:860][ 45]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_Sail.sailboat_low_Sail
+[2021.02.16-15.37.57:945][ 81]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/sailboat_low_SailE1E7DE1C4C19A749F642629C7343F430.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Geometry/Meshes/Sailboat/sailboat_low_Sail.uasset'
+[2021.02.16-15.37.57:953][ 81]AssetCheck: New page: Asset Save: sailboat_low_Sail
+[2021.02.16-15.37.57:953][ 81]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_Sail.sailboat_low_Sail
+[2021.02.16-15.38.00:832][397]LogSlate: Window 'sailboat_low_Sail' being destroyed
+[2021.02.16-15.38.00:837][397]LogSlate: Window 'sailboat_low_Sail' being destroyed
+[2021.02.16-15.38.00:871][397]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-15.38.00:871][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-15.38.03:858][726]LogStaticMesh: Building static mesh sailboat_low_rope2...
+[2021.02.16-15.38.03:896][726]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/Sailboat/sailboat_low_rope2.sailboat_low_rope2
+[2021.02.16-15.38.03:925][726]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_rope2.sailboat_low_rope2
+[2021.02.16-15.38.15:129][693]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/sailboat_low_rope2287015CD44A2313C8BE559956E3C22B5.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Geometry/Meshes/Sailboat/sailboat_low_rope2.uasset'
+[2021.02.16-15.38.15:139][693]AssetCheck: New page: Asset Save: sailboat_low_rope2
+[2021.02.16-15.38.15:139][693]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_rope2.sailboat_low_rope2
+[2021.02.16-15.38.19:268][135]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/sailboat_low_rope23A06C693455D14121F46A3AC286689E7.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Geometry/Meshes/Sailboat/sailboat_low_rope2.uasset'
+[2021.02.16-15.38.19:276][135]AssetCheck: New page: Asset Save: sailboat_low_rope2
+[2021.02.16-15.38.19:276][135]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_rope2.sailboat_low_rope2
+[2021.02.16-15.38.21:579][398]LogSlate: Window 'sailboat_low_rope2' being destroyed
+[2021.02.16-15.38.21:586][398]LogSlate: Window 'sailboat_low_rope2' being destroyed
+[2021.02.16-15.38.21:594][398]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-15.38.21:595][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-15.38.23:483][591]LogStaticMesh: Building static mesh sailboat_low_rope1...
+[2021.02.16-15.38.23:513][591]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/Sailboat/sailboat_low_rope1.sailboat_low_rope1
+[2021.02.16-15.38.23:542][591]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_rope1.sailboat_low_rope1
+[2021.02.16-15.38.31:814][334]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/sailboat_low_rope1191630F04DC988C6079226A2DEBF6B2D.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Geometry/Meshes/Sailboat/sailboat_low_rope1.uasset'
+[2021.02.16-15.38.31:825][334]AssetCheck: New page: Asset Save: sailboat_low_rope1
+[2021.02.16-15.38.31:825][334]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_rope1.sailboat_low_rope1
+[2021.02.16-15.38.34:506][634]LogSlate: Window 'sailboat_low_rope1' being destroyed
+[2021.02.16-15.38.34:513][634]LogSlate: Window 'sailboat_low_rope1' being destroyed
+[2021.02.16-15.38.34:561][634]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-15.38.34:561][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-15.38.36:209][794]LogStaticMesh: Building static mesh sailboat_low_flag...
+[2021.02.16-15.38.36:228][794]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/Sailboat/sailboat_low_flag.sailboat_low_flag
+[2021.02.16-15.38.36:259][794]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_flag.sailboat_low_flag
+[2021.02.16-15.38.45:327][675]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/sailboat_low_flag630F968740333765D1066081CB3C3F68.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Geometry/Meshes/Sailboat/sailboat_low_flag.uasset'
+[2021.02.16-15.38.45:338][675]AssetCheck: New page: Asset Save: sailboat_low_flag
+[2021.02.16-15.38.45:338][675]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Sailboat/sailboat_low_flag.sailboat_low_flag
+[2021.02.16-15.38.47:024][853]LogSlate: Window 'sailboat_low_flag' being destroyed
+[2021.02.16-15.38.47:030][853]LogSlate: Window 'sailboat_low_flag' being destroyed
+[2021.02.16-15.38.47:061][853]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-15.38.47:061][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-15.38.48:665][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.02.16-15.38.48:690][ 30]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap495CBBF54C7174C62F5224AF7D9B1BAC.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.16-15.38.48:713][ 30]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.16-15.38.48:713][ 30]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.16-15.38.49:781][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
