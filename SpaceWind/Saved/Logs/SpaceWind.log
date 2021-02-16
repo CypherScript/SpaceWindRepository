@@ -1244,3 +1244,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.16-16.26.16:382][749]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.16-16.26.16:382][749]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.02.16-16.26.16:382][749]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.16-16.26.37:655][941]LogFMOD: File has changed: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-16.26.37:704][941]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/BankLookup175189F442CBF22686C6229F5E669070.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.02.16-16.26.37:708][941]LogFMOD: Loading strings bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.16-16.26.37:710][941]LogFMOD: 'Random LAser' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Random_LAser' instead.
+[2021.02.16-16.26.37:710][941]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Random_LAser
+[2021.02.16-16.26.37:710][941]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {2092fb03-c863-4e09-9284-deaca6a881ef}
+
+[2021.02.16-16.26.37:710][941]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {2092fb03-c863-4e09-9284-deaca6a881ef}
+
+[2021.02.16-16.26.37:736][941]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {2092fb03-c863-4e09-9284-deaca6a881ef}
+
+[2021.02.16-16.26.37:740][941]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Random_LAser6187424C4DD821C7D774BC95812B7E20.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Events/SFX/Random_LAser.uasset'
+[2021.02.16-16.26.37:746][941]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {2092fb03-c863-4e09-9284-deaca6a881ef}
+
+[2021.02.16-16.26.37:771][941]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/AssetLookupCE98E48D44800116A57AF19BBA3AD03D.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.02.16-16.26.37:862][941]LogFMOD: Display: Loaded bank lookup
+[2021.02.16-16.26.37:862][941]LogFMOD: Display: Loaded asset lookup
+[2021.02.16-16.26.37:864][941]LogFMOD: Default sample rate = 48000
+[2021.02.16-16.26.37:864][941]LogFMOD: System sample rate = 48000
+[2021.02.16-16.26.37:864][941]LogFMOD: Matching system sample rate 48000
+[2021.02.16-16.26.37:874][941]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-16.26.37:874][941]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-16.26.37:874][941]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-16.26.37:874][941]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-16.26.38:007][941]LogFMOD: Default sample rate = 48000
+[2021.02.16-16.26.38:007][941]LogFMOD: System sample rate = 48000
+[2021.02.16-16.26.38:007][941]LogFMOD: Matching system sample rate 48000
+[2021.02.16-16.26.38:017][941]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.16-16.26.38:017][941]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.16-16.26.38:018][941]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.16-16.26.38:018][941]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.16-16.26.38:074][941]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.16-16.26.38:074][941]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.02.16-16.26.38:074][941]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.02.16-16.26.38:074][941]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Random_LAser.Random_LAser
