@@ -701,3 +701,227 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.17-14.08.39:010][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
 [2021.02.17-14.08.39:012][  0]SourceControl: Source control is disabled
 [2021.02.17-14.08.39:132][  0]LogSlate: Took 0.004861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.17-14.09.21:270][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.02.17-14.09.21:271][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.17-14.09.21:289][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.17-14.09.22:483][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.02.17-14.09.22:484][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.17-14.09.22:491][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Blueprints/Player/HUD/HUD
+[2021.02.17-14.09.22:504][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.17-14.09.22:505][  0]LogUnrealEdMisc: Loading editor; pre map load, took 56.311
+[2021.02.17-14.09.22:506][  0]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.17-14.09.22:506][  0]LightingResults: New page: Lighting Build
+[2021.02.17-14.09.22:506][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-14.09.22:506][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-14.09.22:507][  0]MapCheck: New page: Map Check
+[2021.02.17-14.09.22:507][  0]LightingResults: New page: Lighting Build
+[2021.02.17-14.09.22:513][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.02.17-14.09.22:966][  0]LogLinker: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\HUD\HUD.uasset: Failed to load '/Game/Blueprints/Player/HUD/Comp': Can't find file.
+[2021.02.17-14.09.22:966][  0]LogLinker: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\HUD\HUD.uasset: Failed to load '/Game/Blueprints/Player/HUD/Comp': Can't find file.
+[2021.02.17-14.09.22:967][  0]LogLinker: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\HUD\HUD.uasset: Failed to load '/Game/Blueprints/Player/HUD/Comp': Can't find file.
+[2021.02.17-14.09.22:967][  0]LogLinker: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\ProjectileBP.uasset: Failed to load '/Game/Blueprints/Player/HUD/Comp': Can't find file.
+[2021.02.17-14.09.22:968][  0]LogLinker: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\ProjectileBP.uasset: Failed to load '/Game/Blueprints/Player/HUD/Comp': Can't find file.
+[2021.02.17-14.09.22:968][  0]LogLinker: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\ProjectileBP.uasset: Failed to load '/Game/Blueprints/Player/HUD/Comp': Can't find file.
+[2021.02.17-14.09.22:968][  0]LogLinker: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\ProjectileBP.uasset: Failed to load '/Game/Blueprints/Player/HUD/Comp': Can't find file.
+[2021.02.17-14.09.22:968][  0]LoadErrors: Failed to load /Game/Blueprints/Player/HUD/Comp.Comp_C Referenced by K2Node_CreateWidget_0
+[2021.02.17-14.09.22:969][  0]LogLinker: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\ProjectileBP.uasset: Failed to load '/Game/Blueprints/Player/HUD/Comp': Can't find file.
+[2021.02.17-14.09.22:969][  0]LoadErrors: Failed to load /Game/Blueprints/Player/HUD/Comp.Comp_C Referenced by K2Node_CreateWidget_0
+[2021.02.17-14.09.22:993][  0]LogBlueprint: Error: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\HUD\HUD.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.02.17-14.09.23:567][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.17-14.09.23:568][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.17-14.09.23:586][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.17-14.09.23:595][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.02.17-14.09.23:595][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.17-14.09.23:595][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2021.02.17-14.09.23:596][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.090
+[2021.02.17-14.09.23:597][  0]LogUnrealEdMisc: Total Editor Startup Time, took 57.402
+[2021.02.17-14.09.23:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-14.09.23:718][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-14.09.23:723][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-14.09.23:728][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.17-14.09.23:752][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0074 seconds. Added 3660 classes and 876 folders.
+[2021.02.17-14.09.23:756][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.17-14.09.23:767][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.17-14.09.23:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-14.09.23:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.02.17-14.09.23:776][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.17-14.09.23:776][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.17-14.09.23:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.02.17-14.09.23:782][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.17-14.09.23:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.17-14.09.23:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.02.17-14.09.23:787][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-14.09.23:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-14.09.23:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.02.17-14.09.23:792][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.17-14.09.23:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.17-14.09.23:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.02.17-14.09.23:797][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.17-14.09.23:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.17-14.09.23:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.02.17-14.09.23:802][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.17-14.09.23:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.17-14.09.23:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.02.17-14.09.23:810][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.17-14.09.23:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.17-14.09.23:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.02.17-14.09.23:817][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.17-14.09.23:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.17-14.09.23:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.02.17-14.09.23:823][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.17-14.09.23:823][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:823][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.17-14.09.23:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.02.17-14.09.23:828][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.17-14.09.23:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.17-14.09.23:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.02.17-14.09.23:833][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.17-14.09.23:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.17-14.09.23:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.02.17-14.09.23:838][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-14.09.23:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-14.09.23:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.02.17-14.09.23:843][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.17-14.09.23:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.17-14.09.23:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.02.17-14.09.23:848][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.17-14.09.23:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.17-14.09.23:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.02.17-14.09.23:853][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.17-14.09.23:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-14.09.23:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.02.17-14.09.23:859][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.17-14.09.23:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.17-14.09.23:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.02.17-14.09.23:865][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.17-14.09.23:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.17-14.09.23:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.02.17-14.09.23:870][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-14.09.23:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-14.09.23:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.02.17-14.09.23:878][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-14.09.23:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-14.09.23:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.02.17-14.09.23:883][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.17-14.09.23:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.17-14.09.23:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.02.17-14.09.23:888][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.17-14.09.23:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.17-14.09.23:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.02.17-14.09.23:894][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.17-14.09.23:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.17-14.09.23:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.02.17-14.09.23:899][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.17-14.09.23:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.17-14.09.23:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.02.17-14.09.23:904][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.17-14.09.23:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.17-14.09.23:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.02.17-14.09.23:910][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.17-14.09.23:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.17-14.09.23:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.17-14.09.23:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.02.17-14.09.24:032][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.17-14.09.24:035][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.02.17-14.09.24:092][  0]LogSlate: Took 0.004378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.17-14.09.24:101][  0]LogSlate: Took 0.005778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.17-14.09.24:228][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.02.17-14.09.24:253][  0]LogRenderer: Reallocating scene render targets to support 1208x664 Format 10 NumSamples 1 (Frame:1).
+[2021.02.17-14.09.24:298][  0]LogSlate: Took 0.005232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.17-14.09.24:365][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.17-14.09.24:365][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.02.17-14.09.24:365][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.02.17-14.09.24:365][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.02.17-14.09.24:365][  0]LogLoad: (Engine Initialization) Total time: 58.17 seconds
+[2021.02.17-14.09.24:365][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.17-14.09.24:365][  0]LogInit: First time updating LLM stats...
+[2021.02.17-14.09.24:377][  0]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.17-14.09.24:377][  0]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Random_LAser.Random_LAser
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/BGM.BGM
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/Reverb.Reverb
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Master.Master
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/UI.UI
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Engine_3.Engine_3
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/BGM/Aries.Aries
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Engine_2.Engine_2
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/SFX.SFX
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Canvas_1.Canvas_1
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Engine_1.Engine_1
+[2021.02.17-14.09.24:378][  0]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/AMB.AMB
+[2021.02.17-14.09.24:398][  0]LogAssetRegistry: Asset discovery search completed in 50.4217 seconds
+[2021.02.17-14.09.24:400][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.02.17-14.09.24:436][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.17-14.09.24:522][  0]LogSlate: Took 0.008153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.17-14.09.24:523][  1]LogFMOD: File has changed: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.17-14.09.24:539][  1]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.17-14.09.24:569][  1]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/BankLookup36E772AB4CAABE143EBC0382F79E8F8B.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.02.17-14.09.24:577][  1]LogFMOD: Loading strings bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.17-14.09.24:599][  1]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/AssetLookup53DC4A2B46ED9B687D36ABA4C69B17DB.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.02.17-14.09.24:711][  1]LogFMOD: Display: Loaded bank lookup
+[2021.02.17-14.09.24:711][  1]LogFMOD: Display: Loaded asset lookup
+[2021.02.17-14.09.24:715][  1]LogFMOD: Default sample rate = 48000
+[2021.02.17-14.09.24:715][  1]LogFMOD: System sample rate = 48000
+[2021.02.17-14.09.24:715][  1]LogFMOD: Matching system sample rate 48000
+[2021.02.17-14.09.24:744][  1]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.17-14.09.24:744][  1]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.17-14.09.24:744][  1]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.17-14.09.24:744][  1]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.17-14.09.24:905][  1]LogFMOD: Default sample rate = 48000
+[2021.02.17-14.09.24:905][  1]LogFMOD: System sample rate = 48000
+[2021.02.17-14.09.24:905][  1]LogFMOD: Matching system sample rate 48000
+[2021.02.17-14.09.24:934][  1]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.17-14.09.24:934][  1]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.17-14.09.24:934][  1]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.17-14.09.24:934][  1]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.17-14.09.24:976][  1]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.17-14.09.24:976][  1]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.02.17-14.09.24:976][  1]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.02.17-14.09.26:548][172]LogSlate: Window 'Message Log' being destroyed
+[2021.02.17-14.09.26:554][172]LogSlate: Window 'Message Log' being destroyed
+[2021.02.17-14.09.50:278][969]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player/HUD/HUD.HUD
+[2021.02.17-14.09.50:733][969]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.02.17-14.09.51:783][969]LogSlate: Took 0.004177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.17-14.09.55:363][372]BlueprintLog: New page: Compile HUD
+[2021.02.17-14.09.55:367][372]LogBlueprint: Error: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\Blueprints\Player\HUD\HUD.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.02.17-14.09.55:407][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.02.17-14.09.58:429][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/HUD/HUD" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/HUD.uasset" SILENT=true
+[2021.02.17-14.09.58:441][714]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/HUD7B6FF3AF4893375B6D771DAF24F1600A.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/HUD.uasset'
+[2021.02.17-14.09.58:452][714]AssetCheck: New page: Asset Save: HUD
+[2021.02.17-14.09.58:453][714]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player/HUD/HUD.HUD
+[2021.02.17-14.09.59:795][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/HUD/HUD" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/HUD.uasset" SILENT=true
+[2021.02.17-14.09.59:806][872]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/HUDB0D6CCF845E772128BDA1DA2743912DA.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/HUD.uasset'
+[2021.02.17-14.09.59:816][872]AssetCheck: New page: Asset Save: HUD
+[2021.02.17-14.09.59:817][872]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player/HUD/HUD.HUD
+[2021.02.17-14.10.03:993][362]LogSlate: Window 'HUD' being destroyed
+[2021.02.17-14.10.03:998][362]LogSlate: Window 'HUD' being destroyed
+[2021.02.17-14.10.04:001][362]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-14.10.04:001][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.17-14.10.04:017][362]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.02.17-14.10.04:017][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
