@@ -2667,3 +2667,142 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.18-03.40.32:765][ 66]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.18-03.40.32:765][ 66]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/Levels/TitleScreen_BuiltData.TitleScreen_BuiltData
 [2021.02.18-03.40.32:765][ 66]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.18-03.42.35:623][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.02.18-03.42.35:698][553]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.18-03.42.35:698][553]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.18-03.42.35:698][553]LightingResults: New page: Lighting Build
+[2021.02.18-03.42.35:698][553]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.02.18-03.42.35:726][553]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-03.42.35:726][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-03.42.35:726][553]MapCheck: New page: Map Check
+[2021.02.18-03.42.35:726][553]LightingResults: New page: Lighting Build
+[2021.02.18-03.42.35:740][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.18-03.42.35:743][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.02.18-03.42.35:743][553]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.18-03.42.35:747][553]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.18-03.42.35:747][553]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.18-03.42.35:765][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.02.18-03.42.35:781][553]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.18-03.42.35:781][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2021.02.18-03.42.35:781][553]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.083
+[2021.02.18-03.42.37:971][805]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.18-03.42.38:006][805]LogFMOD: Creating runtime Studio System
+[2021.02.18-03.42.38:012][805]LogFMOD: Default sample rate = 48000
+[2021.02.18-03.42.38:012][805]LogFMOD: System sample rate = 48000
+[2021.02.18-03.42.38:012][805]LogFMOD: Matching system sample rate 48000
+[2021.02.18-03.42.38:041][805]LogFMOD: Loading Banks
+[2021.02.18-03.42.38:041][805]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.18-03.42.38:041][805]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.18-03.42.38:041][805]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.18-03.42.38:041][805]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.18-03.42.38:086][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.18-03.42.38:086][805]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 17, 2021, 5:42:38 PM)
+[2021.02.18-03.42.38:086][805]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.18-03.42.38:098][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012024s)
+[2021.02.18-03.42.38:099][805]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.18-03.42.38:099][805]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2021.02.18-03.42.38:099][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013042s)
+[2021.02.18-03.42.38:115][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.02.18-03.42.38:116][805]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.02.18-03.42.38:116][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.18-03.42.38:116][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.18-03.42.38:116][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.18-03.42.38:116][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.18-03.42.38:116][805]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.18-03.42.38:116][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.18-03.42.38:116][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.18-03.42.38:116][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.18-03.42.38:117][805]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.18-03.42.38:117][805]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.18-03.42.38:119][805]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-03.42.38:119][805]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-03.42.38:119][805]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.18-03.42.38:119][805]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.18-03.42.38:119][805]LogAudioMixer: Display: 4: BackLeft
+[2021.02.18-03.42.38:119][805]LogAudioMixer: Display: 5: BackRight
+[2021.02.18-03.42.38:119][805]LogAudioMixer: Display: 6: SideLeft
+[2021.02.18-03.42.38:119][805]LogAudioMixer: Display: 7: SideRight
+[2021.02.18-03.42.38:144][805]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.18-03.42.38:145][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.18-03.42.38:145][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.18-03.42.38:145][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.18-03.42.38:145][805]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.18-03.42.38:145][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.18-03.42.38:145][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.18-03.42.38:158][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.18-03.42.38:158][805]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.18-03.42.38:158][805]LogInit: FAudioDevice initialized.
+[2021.02.18-03.42.38:158][805]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonExampleMap'.
+[2021.02.18-03.42.38:170][805]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.18-03.42.38:172][805]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.17-22.42.38
+[2021.02.18-03.42.38:172][805]LogWorld: Bringing up level for play took: 0.001183
+[2021.02.18-03.42.38:172][805]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.02.18-03.42.38:175][805]PIE: Server logged in
+[2021.02.18-03.42.38:175][805]PIE: Play in editor total start time 0.193 seconds.
+[2021.02.18-03.42.46:902][847]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1105.941 Y=-408.721 Z=172.659] for [ProjectileBP_C]
+[2021.02.18-03.43.13:349][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-03.43.13:349][  7]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.18-03.43.13:350][  7]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-03.43.13:350][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-03.43.13:356][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.18-03.43.13:360][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-03.43.13:378][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-03.43.13:378][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.18-03.43.13:379][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.18-03.43.13:412][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.02.18-03.43.13:439][  8]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.02.18-03.43.50:832][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.02.18-03.43.50:863][452]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap107E1205447ADF536055B0A9003DCA99.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.18-03.43.50:894][452]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.18-03.43.50:894][452]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.18-03.43.52:464][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.02.18-03.43.53:358][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.02.18-03.52.05:092][791]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.18-03.52.05:136][791]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-03.52.05:136][791]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-03.52.05:136][791]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.18-03.52.05:136][791]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.18-03.52.05:136][791]LogAudioMixer: Display: 4: BackLeft
+[2021.02.18-03.52.05:136][791]LogAudioMixer: Display: 5: BackRight
+[2021.02.18-03.52.05:136][791]LogAudioMixer: Display: 6: SideLeft
+[2021.02.18-03.52.05:136][791]LogAudioMixer: Display: 7: SideRight
+[2021.02.18-14.41.27:508][801]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.18-14.41.27:629][801]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-14.41.27:629][801]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-14.41.27:629][801]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.18-14.41.27:629][801]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.18-14.41.27:629][801]LogAudioMixer: Display: 4: BackLeft
+[2021.02.18-14.41.27:629][801]LogAudioMixer: Display: 5: BackRight
+[2021.02.18-14.41.27:629][801]LogAudioMixer: Display: 6: SideLeft
+[2021.02.18-14.41.27:629][801]LogAudioMixer: Display: 7: SideRight
+[2021.02.18-14.41.33:674][802]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.02.18-14.41.33:674][802]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(550) - Starvation detected in WASAPI output buffer!
+
+[2021.02.18-14.41.33:719][802]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.18-14.41.34:016][802]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-14.41.34:016][802]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-14.41.34:016][802]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.18-14.41.34:016][802]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.18-14.41.34:016][802]LogAudioMixer: Display: 4: BackLeft
+[2021.02.18-14.41.34:016][802]LogAudioMixer: Display: 5: BackRight
+[2021.02.18-14.41.34:016][802]LogAudioMixer: Display: 6: SideLeft
+[2021.02.18-14.41.34:016][802]LogAudioMixer: Display: 7: SideRight
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92A96BD5-4BCE-5E6D-C1FF-5DB6CA76A77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=df2e7bd94b64f2532a52aebda1de00f1%7C41684371fd0f4919aa43c71ad960dcd4%7C7a2608ef-2178-43e0-b009-3538d79a3972&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d1601d7eb0 [can pipeline])
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.87.254) port 443 (#0))
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: 000001D1A89FC800: libcurl info message cache 7 (Closing connection 0)
+[2021.02.18-14.41.34:107][803]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92A96BD5-4BCE-5E6D-C1FF-5DB6CA76A77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=df2e7bd94b64f2532a52aebda1de00f1%7C41684371fd0f4919aa43c71ad960dcd4%7C7a2608ef-2178-43e0-b009-3538d79a3972&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.02.18-14.42.18:376][935]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{581edc74-2cb1-4457-95ec-be8468a10c5f}.
+[2021.02.18-14.42.18:376][935]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.18-14.42.18:403][935]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-14.42.18:403][935]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-14.42.18:709][936]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{57788a3a-ec62-4c4b-a6d1-af69635e9b64}.
+[2021.02.18-14.42.18:709][936]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.18-14.42.18:736][936]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-14.42.18:736][936]LogAudioMixer: Display: 1: FrontRight
