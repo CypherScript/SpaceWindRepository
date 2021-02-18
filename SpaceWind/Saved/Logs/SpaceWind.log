@@ -2063,3 +2063,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.18-03.30.22:026][116]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.18-03.30.22:027][116]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/Levels/TitleScreen_BuiltData.TitleScreen_BuiltData
 [2021.02.18-03.30.22:027][116]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.18-03.31.01:934][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.18-03.31.02:356][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.18-03.31.03:187][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.02.18-03.31.03:202][917]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen794BDD6045642E7F8C4FB08733270141.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap'
+[2021.02.18-03.31.03:229][917]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen_BuiltData282E33DB40D230B651A3F7BDEC5F6B9B.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen_BuiltData.uasset'
+[2021.02.18-03.31.03:241][917]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.18-03.31.03:241][917]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/Levels/TitleScreen_BuiltData.TitleScreen_BuiltData
+[2021.02.18-03.31.03:241][917]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
