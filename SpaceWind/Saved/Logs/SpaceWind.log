@@ -2806,3 +2806,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.18-14.42.18:709][936]LogAudioMixer: Resetting audio stream to device id 
 [2021.02.18-14.42.18:736][936]LogAudioMixer: Display: 0: FrontLeft
 [2021.02.18-14.42.18:736][936]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-14.44.28:639][325]LogFMOD: File has changed: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.18-14.44.28:723][325]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/BankLookup89D320B4417FF7BB4000C2857E403B3C.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.02.18-14.44.28:729][325]LogFMOD: Loading strings bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.18-14.44.28:731][325]LogFMOD: Constructing asset: /Game/FMOD/Events/BGM/IntroPoem
+[2021.02.18-14.44.28:732][325]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {3daae37f-f5c5-4b65-8829-80f023a8cee3}
+
+[2021.02.18-14.44.28:732][325]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {3daae37f-f5c5-4b65-8829-80f023a8cee3}
+
+[2021.02.18-14.44.28:753][325]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {3daae37f-f5c5-4b65-8829-80f023a8cee3}
+
+[2021.02.18-14.44.28:758][325]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/IntroPoemAF92B5F440BA385C4E9252A61D03EA56.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Events/BGM/IntroPoem.uasset'
+[2021.02.18-14.44.28:763][325]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {3daae37f-f5c5-4b65-8829-80f023a8cee3}
+
+[2021.02.18-14.44.28:793][325]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/AssetLookup5101D2EF44DFA42AD3C0618E4FDF57B2.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.02.18-14.44.28:949][325]LogFMOD: Display: Loaded bank lookup
+[2021.02.18-14.44.28:949][325]LogFMOD: Display: Loaded asset lookup
+[2021.02.18-14.44.28:954][325]LogFMOD: Default sample rate = 48000
+[2021.02.18-14.44.28:954][325]LogFMOD: System sample rate = 44100
+[2021.02.18-14.44.28:954][325]LogFMOD: Matching system sample rate 44100
+[2021.02.18-14.44.28:969][325]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.18-14.44.28:969][325]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.18-14.44.28:969][325]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.18-14.44.28:969][325]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.18-14.44.29:103][325]LogFMOD: Default sample rate = 48000
+[2021.02.18-14.44.29:103][325]LogFMOD: System sample rate = 44100
+[2021.02.18-14.44.29:103][325]LogFMOD: Matching system sample rate 44100
+[2021.02.18-14.44.29:114][325]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.18-14.44.29:114][325]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.18-14.44.29:114][325]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.18-14.44.29:114][325]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.18-14.44.29:170][325]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.18-14.44.29:170][325]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.02.18-14.44.29:170][325]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.02.18-14.44.29:170][325]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/BGM/IntroPoem.IntroPoem
