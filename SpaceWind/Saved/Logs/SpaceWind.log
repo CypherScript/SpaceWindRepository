@@ -892,3 +892,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.18-02.56.36:716][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.02.18-02.56.36:731][285]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2021.02.18-02.56.36:731][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-03.02.47:792][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.02.18-03.02.47:795][966]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.070
+[2021.02.18-03.02.47:795][966]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Levels/BP_TITLE_WIDGETS/TitleScreen] ([1] browsable assets)...
+[2021.02.18-03.02.47:795][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Levels/BP_TITLE_WIDGETS/TitleScreen]
+[2021.02.18-03.02.47:807][966]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen_Auto1834265D0428CB96572634FA632CEFC55.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Autosaves/Game/ThirdPerson/Levels/BP_TITLE_WIDGETS/TitleScreen_Auto1.uasset'
+[2021.02.18-03.02.47:807][966]LogFileHelpers: Auto-saving content packages took 0.012
