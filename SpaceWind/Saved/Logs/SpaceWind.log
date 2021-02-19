@@ -4798,3 +4798,22 @@ An asset already exists at the import location: /Game/Movies/Space_Wind_Intro
 [2021.02.19-02.02.38:170][145]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.19-02.02.38:170][145]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
 [2021.02.19-02.02.38:170][145]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/Levels/TitleScreen_BuiltData.TitleScreen_BuiltData
+[2021.02.19-02.16.42:900][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.02.19-02.16.48:957][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.02.19-02.16.49:001][464]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.19-02.16.49:001][464]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.19-02.16.49:001][464]LightingResults: New page: Lighting Build
+[2021.02.19-02.16.49:001][464]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.02.19-02.16.49:002][464]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-02.16.49:002][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-02.16.49:002][464]MapCheck: New page: Map Check
+[2021.02.19-02.16.49:002][464]LightingResults: New page: Lighting Build
+[2021.02.19-02.16.49:014][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-02.16.49:017][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.02.19-02.16.49:018][464]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.19-02.16.49:022][464]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.19-02.16.49:022][464]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.19-02.16.49:038][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.02.19-02.16.49:053][464]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.19-02.16.49:053][464]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.02.19-02.16.49:053][464]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.053
