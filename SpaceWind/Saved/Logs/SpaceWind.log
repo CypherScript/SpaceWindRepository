@@ -2784,3 +2784,1212 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.19-00.03.41:885][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.02.19-00.03.41:931][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2021.02.19-00.03.41:950][635]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.02.19-00.05.32:861][371]LogSlate: Window 'Save Asset As' being destroyed
+[2021.02.19-00.05.32:906][371]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2021.02.19-00.06.00:929][496]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.06.05:360][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLevelSequence" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewLevelSequence.uasset" SILENT=true
+[2021.02.19-00.06.05:368][ 13]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/NewLevelSequenceB3D608654E70FF4B11DDD0B9E8734B23.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewLevelSequence.uasset'
+[2021.02.19-00.06.05:378][ 13]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.06.05:382][ 13]AssetCheck: New page: Asset Save: NewLevelSequence
+[2021.02.19-00.06.05:382][ 13]LogContentValidation: Display: Validating LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2021.02.19-00.06.22:246][981]LogSlate: Window 'Sequencer' being destroyed
+[2021.02.19-00.06.22:248][981]LogSlate: Window 'Sequencer' being destroyed
+[2021.02.19-00.06.24:953][269]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.06.25:006][269]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.06.25:012][269]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.06.25:012][269]LogFMOD: System sample rate = 48000
+[2021.02.19-00.06.25:012][269]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.06.25:040][269]LogFMOD: Loading Banks
+[2021.02.19-00.06.25:040][269]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.06.25:040][269]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.06.25:040][269]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.06.25:040][269]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.06.25:086][269]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.19-00.06.25:086][269]LogPlayLevel: [PlayLevel] Compiling Introduction before play...
+[2021.02.19-00.06.25:122][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.02.19-00.06.25:124][269]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2021.02.19-00.06.25:124][269]PIE: New page: PIE session: Introduction (Feb 18, 2021, 2:06:25 PM)
+[2021.02.19-00.06.25:124][269]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.06.25:125][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001159s)
+[2021.02.19-00.06.25:126][269]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.06.25:126][269]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2021.02.19-00.06.25:126][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/Introduction.Introduction to /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction (0.002171s)
+[2021.02.19-00.06.25:147][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.02.19-00.06.25:147][269]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.02.19-00.06.25:147][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.06.25:147][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.06.25:147][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.06.25:147][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.06.25:147][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.06.25:147][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.06.25:147][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.06.25:147][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.06.25:147][269]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.06.25:147][269]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.06.25:150][269]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.06.25:150][269]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.06.25:150][269]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.06.25:150][269]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.06.25:150][269]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.06.25:150][269]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.06.25:150][269]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.06.25:150][269]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.06.25:190][269]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.06.25:191][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.06.25:191][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.06.25:191][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.06.25:191][269]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.06.25:191][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.06.25:191][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.06.25:205][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.06.25:205][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.06.25:205][269]LogInit: FAudioDevice initialized.
+[2021.02.19-00.06.25:205][269]LogAudio: Display: Audio Device (ID: 22) registered with world 'Introduction'.
+[2021.02.19-00.06.25:213][269]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.06.25:214][269]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.06.25
+[2021.02.19-00.06.25:214][269]LogWorld: Bringing up level for play took: 0.000313
+[2021.02.19-00.06.25:214][269]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.02.19-00.06.25:217][269]PIE: Server logged in
+[2021.02.19-00.06.25:218][269]PIE: Play in editor total start time 0.254 seconds.
+[2021.02.19-00.06.30:829][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.06.30:829][896]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.06.30:829][896]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.06.30:829][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.06.30:841][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.06.30:845][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.06.30:867][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.06.30:867][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.06.30:868][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.06.30:907][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.02.19-00.06.30:928][897]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.02.19-00.07.08:438][328]LogEditorViewport: Clicking Background
+[2021.02.19-00.08.59:807][  6]LogEditorViewport: Clicking Background
+[2021.02.19-00.11.12:636][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.02.19-00.11.12:650][955]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Introduction_Auto578D74D2C48BF0E39EDAF3996D4B216F8.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Autosaves/Game/ThirdPerson/Levels/Introduction_Auto5.umap'
+[2021.02.19-00.11.12:651][955]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Levels/Introduction' took 0.040
+[2021.02.19-00.11.12:651][955]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2021.02.19-00.12.57:649][ 17]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.12.57:684][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.02.19-00.13.24:935][511]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.13.24:987][511]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.13.24:993][511]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.13.24:993][511]LogFMOD: System sample rate = 48000
+[2021.02.19-00.13.24:993][511]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.13.25:032][511]LogFMOD: Loading Banks
+[2021.02.19-00.13.25:032][511]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.13.25:032][511]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.13.25:032][511]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.13.25:032][511]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.13.25:077][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-00.13.25:077][511]PIE: New page: PIE session: Introduction (Feb 18, 2021, 2:13:25 PM)
+[2021.02.19-00.13.25:077][511]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.13.25:079][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001520s)
+[2021.02.19-00.13.25:079][511]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.13.25:080][511]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2021.02.19-00.13.25:080][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/Introduction.Introduction to /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction (0.002523s)
+[2021.02.19-00.13.25:100][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.02.19-00.13.25:101][511]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.02.19-00.13.25:101][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.13.25:101][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.13.25:101][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.13.25:101][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.13.25:101][511]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.13.25:101][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.13.25:101][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.13.25:101][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.13.25:101][511]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.13.25:101][511]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.13.25:103][511]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.13.25:103][511]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.13.25:103][511]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.13.25:104][511]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.13.25:104][511]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.13.25:104][511]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.13.25:104][511]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.13.25:104][511]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.13.25:133][511]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.13.25:133][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.13.25:133][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.13.25:133][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.13.25:133][511]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.13.25:134][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.13.25:134][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.13.25:148][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.13.25:148][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.13.25:148][511]LogInit: FAudioDevice initialized.
+[2021.02.19-00.13.25:148][511]LogAudio: Display: Audio Device (ID: 23) registered with world 'Introduction'.
+[2021.02.19-00.13.25:153][511]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.13.25:154][511]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.13.25
+[2021.02.19-00.13.25:154][511]LogWorld: Bringing up level for play took: 0.000323
+[2021.02.19-00.13.25:154][511]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.02.19-00.13.25:157][511]PIE: Server logged in
+[2021.02.19-00.13.25:158][511]PIE: Play in editor total start time 0.21 seconds.
+[2021.02.19-00.13.28:933][942]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.28:943][943]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.28:952][944]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.28:962][945]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.28:970][946]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.28:979][947]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.28:987][948]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.28:995][949]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:006][950]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:013][951]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:022][952]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:030][953]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:039][954]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:047][955]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:056][956]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:066][957]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:075][958]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:083][959]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:092][960]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:100][961]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:109][962]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:118][963]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:126][964]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:136][965]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:145][966]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:153][967]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:162][968]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:171][969]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:180][970]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:189][971]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:198][972]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:206][973]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:216][974]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:224][975]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:233][976]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:241][977]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:250][978]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:259][979]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:267][980]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:277][981]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:285][982]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:294][983]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:302][984]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:311][985]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:320][986]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:329][987]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:338][988]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:347][989]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:356][990]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:364][991]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:373][992]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:382][993]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:391][994]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:400][995]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:409][996]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:417][997]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:426][998]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:435][999]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:443][  0]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:452][  1]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:461][  2]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:470][  3]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:478][  4]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:487][  5]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:495][  6]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:505][  7]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:513][  8]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:522][  9]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:532][ 10]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:540][ 11]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:549][ 12]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:557][ 13]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:567][ 14]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:575][ 15]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:584][ 16]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:593][ 17]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:601][ 18]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:610][ 19]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:619][ 20]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:627][ 21]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:636][ 22]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:645][ 23]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:653][ 24]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:662][ 25]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:670][ 26]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:680][ 27]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:689][ 28]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:698][ 29]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:707][ 30]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:716][ 31]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:724][ 32]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:733][ 33]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:743][ 34]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:751][ 35]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:760][ 36]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:769][ 37]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:778][ 38]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:786][ 39]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:794][ 40]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:804][ 41]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:813][ 42]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:821][ 43]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:830][ 44]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:838][ 45]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:847][ 46]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:856][ 47]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:866][ 48]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:874][ 49]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:883][ 50]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:892][ 51]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:900][ 52]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:909][ 53]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:917][ 54]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:926][ 55]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.13.29:936][ 56]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.10:307][508]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2021.02.19-00.14.10:402][508]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:101][937]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:116][938]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:129][939]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:140][940]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:150][941]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:162][942]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:172][943]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:183][944]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:193][945]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:203][946]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:214][947]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:222][948]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:232][949]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:242][950]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:252][951]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:262][952]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:272][953]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:282][954]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:293][955]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:303][956]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:313][957]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:323][958]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:334][959]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:344][960]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:354][961]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:365][962]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:375][963]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:384][964]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:395][965]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:406][966]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:417][967]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:427][968]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:437][969]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:447][970]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:457][971]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:467][972]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:479][973]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:490][974]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:501][975]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:511][976]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:521][977]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:531][978]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:542][979]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:552][980]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:562][981]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:573][982]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:583][983]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:593][984]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:603][985]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:614][986]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:624][987]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:635][988]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:645][989]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:657][990]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:668][991]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:678][992]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:689][993]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:699][994]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:710][995]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:719][996]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:730][997]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:741][998]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:751][999]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:761][  0]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:772][  1]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:783][  2]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:793][  3]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:803][  4]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:814][  5]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:824][  6]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:834][  7]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:843][  8]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:853][  9]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:864][ 10]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:875][ 11]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:885][ 12]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:895][ 13]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:906][ 14]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:917][ 15]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:927][ 16]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:938][ 17]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:948][ 18]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:958][ 19]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:968][ 20]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:977][ 21]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:989][ 22]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.24:999][ 23]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.25:009][ 24]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.25:020][ 25]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.25:030][ 26]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.25:041][ 27]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.25:051][ 28]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.25:060][ 29]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.25:072][ 30]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.25:082][ 31]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.25:092][ 32]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.49:986][497]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.14.58:356][282]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:550][ 63]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:561][ 64]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:573][ 65]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:582][ 66]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:592][ 67]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:603][ 68]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:613][ 69]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:623][ 70]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:634][ 71]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:644][ 72]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:656][ 73]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:667][ 74]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:677][ 75]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:685][ 76]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:696][ 77]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:706][ 78]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:716][ 79]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:726][ 80]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:736][ 81]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:746][ 82]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:756][ 83]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:766][ 84]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:776][ 85]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:786][ 86]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:796][ 87]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:816][ 88]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:827][ 89]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:840][ 90]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:849][ 91]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:859][ 92]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:869][ 93]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:881][ 94]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:892][ 95]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:903][ 96]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:913][ 97]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:924][ 98]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:936][ 99]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:947][100]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:957][101]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:968][102]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:978][103]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:989][104]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.06:999][105]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.07:009][106]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.07:019][107]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.07:030][108]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.07:040][109]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.07:050][110]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.07:050][110]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.12:092][535]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.21:058][288]LogSlate: Window 'Render Movie Settings' being destroyed
+[2021.02.19-00.15.25:982][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLevelSequence" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewLevelSequence.uasset" SILENT=true
+[2021.02.19-00.15.25:988][712]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/NewLevelSequenceCA2996734435D33142D5E9B475ED014C.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewLevelSequence.uasset'
+[2021.02.19-00.15.25:989][712]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.25:996][712]AssetCheck: New page: Asset Save: NewLevelSequence
+[2021.02.19-00.15.25:996][712]LogContentValidation: Display: Validating LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2021.02.19-00.15.28:763][959]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Movies/Space_Wind_Intro.Space_Wind_Intro
+[2021.02.19-00.15.33:622][513]LogSlate: Window 'Space_Wind_Intro' being destroyed
+[2021.02.19-00.15.33:630][513]LogSlate: Window 'Space_Wind_Intro' being destroyed
+[2021.02.19-00.15.33:632][513]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.15.33:633][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.15.33:652][513]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.15.33:652][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.15.33:701][513]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.15.33:701][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.15.35:248][684]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.35:248][684]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.15.55:939][684]LogSlate: Window 'Sequencer' being destroyed
+[2021.02.19-00.15.55:943][684]LogSlate: Window 'Sequencer' being destroyed
+[2021.02.19-00.15.59:957][140]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Levels/Introduction.Introduction:PersistentLevel.Introduction
+[2021.02.19-00.16.04:540][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.16.04:540][556]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.16.04:541][556]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.16.04:541][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.16.04:558][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.16.04:565][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.16.04:594][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.16.04:594][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.16.04:595][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.16.04:614][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.16.04:661][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.02.19-00.16.04:694][557]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.02.19-00.16.05:817][672]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.16.05:879][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.02.19-00.16.06:284][716]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.16.06:316][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.02.19-00.16.06:490][733]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.16.06:523][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.02.19-00.16.06:634][742]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.16.06:667][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.02.19-00.16.06:799][754]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.16.06:832][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.02.19-00.16.06:981][768]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.16.07:014][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.02.19-00.16.08:637][929]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.16.08:686][929]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.16.08:690][929]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.16.08:690][929]LogFMOD: System sample rate = 48000
+[2021.02.19-00.16.08:690][929]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.16.08:719][929]LogFMOD: Loading Banks
+[2021.02.19-00.16.08:720][929]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.16.08:720][929]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.16.08:720][929]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.16.08:720][929]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.16.08:757][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-00.16.08:757][929]PIE: New page: PIE session: Introduction (Feb 18, 2021, 2:16:08 PM)
+[2021.02.19-00.16.08:757][929]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.16.08:759][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001477s)
+[2021.02.19-00.16.08:759][929]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.16.08:759][929]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2021.02.19-00.16.08:760][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/Introduction.Introduction to /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction (0.002396s)
+[2021.02.19-00.16.08:778][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.02.19-00.16.08:779][929]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.02.19-00.16.08:779][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.16.08:779][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.16.08:779][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.16.08:779][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.16.08:779][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.16.08:779][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.16.08:779][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.16.08:779][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.16.08:779][929]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.16.08:780][929]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.16.08:782][929]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.16.08:782][929]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.16.08:782][929]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.16.08:782][929]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.16.08:782][929]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.16.08:782][929]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.16.08:782][929]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.16.08:782][929]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.16.08:809][929]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.16.08:810][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.16.08:810][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.16.08:810][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.16.08:810][929]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.16.08:810][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.16.08:810][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.16.08:824][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.16.08:824][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.16.08:824][929]LogInit: FAudioDevice initialized.
+[2021.02.19-00.16.08:824][929]LogAudio: Display: Audio Device (ID: 24) registered with world 'Introduction'.
+[2021.02.19-00.16.08:834][929]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.16.08:835][929]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.16.08
+[2021.02.19-00.16.08:835][929]LogWorld: Bringing up level for play took: 0.000334
+[2021.02.19-00.16.08:835][929]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.02.19-00.16.08:837][929]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.16.08:838][929]LogMediaAssets: Error: Failed to validate media source Space_Wind_Intro (file://C:/Users/Sabrina/Desktop/Space Wind Intro.mp4)
+[2021.02.19-00.16.08:838][929]PIE: Server logged in
+[2021.02.19-00.16.08:838][929]PIE: Play in editor total start time 0.19 seconds.
+[2021.02.19-00.16.13:604][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.16.13:604][453]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.16.13:604][453]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.16.13:605][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.16.13:612][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.16.13:616][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.16.13:633][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.16.13:633][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.16.13:634][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.16.13:666][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.16.13:668][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.02.19-00.16.13:691][454]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.02.19-00.16.22:870][311]LogSlate: Window 'Save Asset As' being destroyed
+[2021.02.19-00.17.11:735][538]LogSlate: Window 'Save Asset As' being destroyed
+[2021.02.19-00.17.20:542][538]LogSlate: Window 'Create Media Player' being destroyed
+[2021.02.19-00.17.33:552][  8]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Movies/Space_Wind_Intro.Space_Wind_Intro
+[2021.02.19-00.17.54:883][535]LogSlate: Window 'Space_Wind_Intro' being destroyed
+[2021.02.19-00.17.54:890][535]LogSlate: Window 'Space_Wind_Intro' being destroyed
+[2021.02.19-00.17.54:900][535]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.17.54:900][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.18.27:318][930]LogSlate: Window 'Message' being destroyed
+[2021.02.19-00.18.27:326][930]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Movies/Space_Wind_Intro
+[2021.02.19-00.18.27:411][930]LogFactory: FactoryCreateFile: FileMediaSource with AndroidFileMediaSourceFactory (0 0 ../../../../../../Users/karen/Downloads/Space Wind Intro.mp4)
+[2021.02.19-00.18.29:136][121]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Movies/Space_Wind_Intro.Space_Wind_Intro
+[2021.02.19-00.18.31:831][418]LogSlate: Window 'Space_Wind_Intro' being destroyed
+[2021.02.19-00.18.31:839][418]LogSlate: Window 'Space_Wind_Intro' being destroyed
+[2021.02.19-00.18.41:631][556]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Levels/Introduction.Introduction:PersistentLevel.Introduction
+[2021.02.19-00.18.51:617][625]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2021.02.19-00.19.03:917][985]LogSlate: Window 'Sequencer' being destroyed
+[2021.02.19-00.19.03:921][985]LogSlate: Window 'Sequencer' being destroyed
+[2021.02.19-00.19.06:198][237]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.19.06:237][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.02.19-00.19.06:954][316]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.19.06:986][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.02.19-00.19.07:384][360]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.19.07:418][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.02.19-00.19.08:118][426]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.19.08:158][426]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.19.08:164][426]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.19.08:164][426]LogFMOD: System sample rate = 48000
+[2021.02.19-00.19.08:164][426]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.19.08:193][426]LogFMOD: Loading Banks
+[2021.02.19-00.19.08:193][426]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.19.08:193][426]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.19.08:193][426]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.19.08:193][426]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.19.08:237][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-00.19.08:237][426]PIE: New page: PIE session: Introduction (Feb 18, 2021, 2:19:08 PM)
+[2021.02.19-00.19.08:237][426]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.19.08:238][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001467s)
+[2021.02.19-00.19.08:239][426]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.19.08:239][426]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2021.02.19-00.19.08:239][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/Introduction.Introduction to /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction (0.002365s)
+[2021.02.19-00.19.08:257][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.02.19-00.19.08:258][426]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.02.19-00.19.08:258][426]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.19.08:258][426]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.19.08:258][426]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.19.08:258][426]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.19.08:258][426]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.19.08:258][426]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.19.08:258][426]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.19.08:258][426]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.19.08:258][426]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.19.08:258][426]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.19.08:260][426]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.19.08:260][426]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.19.08:261][426]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.19.08:261][426]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.19.08:261][426]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.19.08:261][426]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.19.08:261][426]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.19.08:261][426]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.19.08:288][426]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.19.08:288][426]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.19.08:288][426]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.19.08:288][426]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.19.08:289][426]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.19.08:289][426]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.19.08:289][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.19.08:307][426]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.19.08:307][426]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.19.08:307][426]LogInit: FAudioDevice initialized.
+[2021.02.19-00.19.08:307][426]LogAudio: Display: Audio Device (ID: 25) registered with world 'Introduction'.
+[2021.02.19-00.19.08:321][426]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.19.08:322][426]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.19.08
+[2021.02.19-00.19.08:322][426]LogWorld: Bringing up level for play took: 0.000409
+[2021.02.19-00.19.08:322][426]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.02.19-00.19.08:325][426]PIE: Server logged in
+[2021.02.19-00.19.08:326][426]PIE: Play in editor total start time 0.196 seconds.
+[2021.02.19-00.19.14:944][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.19.14:944][153]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.19.14:944][153]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.19.14:945][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.19.14:951][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.19.14:955][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.19.14:972][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.19.14:972][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.19.14:973][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.19.15:025][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.02.19-00.19.15:046][154]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.02.19-00.19.20:391][724]LogSlate: Window 'Introduction' being destroyed
+[2021.02.19-00.19.20:400][724]LogSlate: Window 'Introduction' being destroyed
+[2021.02.19-00.19.20:409][724]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.19.20:409][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.20.48:099][129]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Movies/Space_Wind_Intro.Space_Wind_Intro
+[2021.02.19-00.21.14:577][198]LogSlate: Window 'Space_Wind_Intro' being destroyed
+[2021.02.19-00.21.14:586][198]LogSlate: Window 'Space_Wind_Intro' being destroyed
+[2021.02.19-00.21.35:334][626]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/Movies/Intro.Intro
+[2021.02.19-00.21.35:387][626]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.02.19-00.21.35:412][626]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.02.19-00.21.35:412][626]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.02.19-00.21.35:412][626]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.02.19-00.21.35:412][626]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.02.19-00.21.35:438][626]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2021.02.19-00.22.05:735][284]LogSlate: Window 'Save Asset As' being destroyed
+[2021.02.19-00.22.05:784][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Intro" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Intro.uasset" SILENT=true
+[2021.02.19-00.22.05:790][284]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Intro523FC42841810293B88BB59BA8F29F76.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Intro.uasset'
+[2021.02.19-00.22.05:827][284]AssetCheck: New page: Asset Save: Intro
+[2021.02.19-00.22.05:827][284]LogContentValidation: Display: Validating MediaPlaylist /Game/Intro.Intro
+[2021.02.19-00.22.24:631][458]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Levels/Introduction.Introduction:PersistentLevel.Introduction
+[2021.02.19-00.22.29:947][982]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.22.29:984][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.02.19-00.22.31:063][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.22.31:127][ 95]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.22.31:132][ 95]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.22.31:132][ 95]LogFMOD: System sample rate = 48000
+[2021.02.19-00.22.31:132][ 95]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.22.31:160][ 95]LogFMOD: Loading Banks
+[2021.02.19-00.22.31:160][ 95]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.22.31:160][ 95]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.22.31:160][ 95]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.22.31:160][ 95]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.22.31:208][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-00.22.31:208][ 95]PIE: New page: PIE session: Introduction (Feb 18, 2021, 2:22:31 PM)
+[2021.02.19-00.22.31:208][ 95]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.22.31:209][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001382s)
+[2021.02.19-00.22.31:210][ 95]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.22.31:210][ 95]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2021.02.19-00.22.31:210][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/Introduction.Introduction to /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction (0.002309s)
+[2021.02.19-00.22.31:229][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.02.19-00.22.31:230][ 95]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.02.19-00.22.31:230][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.22.31:230][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.22.31:230][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.22.31:230][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.22.31:230][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.22.31:230][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.22.31:230][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.22.31:230][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.22.31:230][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.22.31:230][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.22.31:232][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.22.31:232][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.22.31:232][ 95]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.22.31:232][ 95]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.22.31:232][ 95]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.22.31:232][ 95]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.22.31:232][ 95]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.22.31:232][ 95]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.22.31:258][ 95]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.22.31:259][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.22.31:259][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.22.31:259][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.22.31:259][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.22.31:259][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.22.31:259][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.22.31:276][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.22.31:276][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.22.31:276][ 95]LogInit: FAudioDevice initialized.
+[2021.02.19-00.22.31:276][ 95]LogAudio: Display: Audio Device (ID: 26) registered with world 'Introduction'.
+[2021.02.19-00.22.31:315][ 95]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.22.31:316][ 95]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.22.31
+[2021.02.19-00.22.31:316][ 95]LogWorld: Bringing up level for play took: 0.000345
+[2021.02.19-00.22.31:316][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.02.19-00.22.31:319][ 95]PIE: Server logged in
+[2021.02.19-00.22.31:320][ 95]PIE: Play in editor total start time 0.246 seconds.
+[2021.02.19-00.22.38:435][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.22.38:435][893]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.22.38:435][893]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.22.38:436][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.22.38:447][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.22.38:451][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.22.38:473][893]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.22.38:473][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.22.38:474][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.22.38:497][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.22.38:499][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.02.19-00.22.38:525][894]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.02.19-00.23.41:750][283]LogSlate: Window 'Save Asset As' being destroyed
+[2021.02.19-00.24.07:707][277]LogSlate: Window 'Master Sequence Settings' being destroyed
+[2021.02.19-00.24.48:049][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.02.19-00.24.48:068][199]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Introduction_Auto6254C386C43F5C3D8CE0967BA4E0D90FA.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Autosaves/Game/ThirdPerson/Levels/Introduction_Auto6.umap'
+[2021.02.19-00.24.48:069][199]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Levels/Introduction' took 0.040
+[2021.02.19-00.24.48:069][199]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2021.02.19-00.24.48:070][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Movies/Space_Wind_Intro] ([1] browsable assets)...
+[2021.02.19-00.24.48:070][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movies/Space_Wind_Intro]
+[2021.02.19-00.24.48:075][199]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Space_Wind_Intro_Auto6BC96364147DFF48C240752B26EF91465.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Autosaves/Game/Movies/Space_Wind_Intro_Auto6.uasset'
+[2021.02.19-00.24.48:076][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewLevelSequence] ([1] browsable assets)...
+[2021.02.19-00.24.48:076][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewLevelSequence]
+[2021.02.19-00.24.48:081][199]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/NewLevelSequence_Auto6820B699648C94D39ADED2C80984AC990.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Autosaves/Game/NewLevelSequence_Auto6.uasset'
+[2021.02.19-00.24.48:082][199]LogFileHelpers: Auto-saving content packages took 0.013
+[2021.02.19-00.25.07:499][331]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.25.07:531][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.02.19-00.25.11:820][815]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.25.11:866][815]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.25.11:870][815]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.25.11:871][815]LogFMOD: System sample rate = 48000
+[2021.02.19-00.25.11:871][815]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.25.11:898][815]LogFMOD: Loading Banks
+[2021.02.19-00.25.11:898][815]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.25.11:898][815]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.25.11:898][815]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.25.11:898][815]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.25.11:937][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-00.25.11:937][815]PIE: New page: PIE session: Introduction (Feb 18, 2021, 2:25:11 PM)
+[2021.02.19-00.25.11:937][815]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.25.11:938][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001562s)
+[2021.02.19-00.25.11:939][815]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.25.11:939][815]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2021.02.19-00.25.11:939][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/Introduction.Introduction to /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction (0.002503s)
+[2021.02.19-00.25.11:958][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.02.19-00.25.11:959][815]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.02.19-00.25.11:959][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.25.11:959][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.25.11:959][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.25.11:959][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.25.11:959][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.25.11:959][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.25.11:959][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.25.11:959][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.25.11:959][815]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.25.11:959][815]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.25.11:962][815]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.25.11:962][815]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.25.11:962][815]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.25.11:962][815]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.25.11:962][815]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.25.11:962][815]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.25.11:962][815]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.25.11:962][815]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.25.11:988][815]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.25.11:988][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.25.11:988][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.25.11:989][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.25.11:989][815]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.25.11:989][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.25.11:989][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.25.11:990][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.25.11:990][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.25.11:990][815]LogInit: FAudioDevice initialized.
+[2021.02.19-00.25.11:990][815]LogAudio: Display: Audio Device (ID: 27) registered with world 'Introduction'.
+[2021.02.19-00.25.12:017][815]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.25.12:017][815]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.25.12
+[2021.02.19-00.25.12:018][815]LogWorld: Bringing up level for play took: 0.000353
+[2021.02.19-00.25.12:018][815]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.02.19-00.25.12:021][815]PIE: Server logged in
+[2021.02.19-00.25.12:021][815]PIE: Play in editor total start time 0.19 seconds.
+[2021.02.19-00.25.26:835][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.25.26:835][530]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.25.26:836][530]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.25.26:836][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.25.26:850][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.25.26:855][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.25.26:876][530]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.25.26:876][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.25.26:877][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.25.26:928][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.25.26:936][530]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.02.19-00.25.26:967][531]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.02.19-00.25.32:366][163]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.25.32:418][163]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.25.32:422][163]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.25.32:422][163]LogFMOD: System sample rate = 48000
+[2021.02.19-00.25.32:422][163]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.25.32:451][163]LogFMOD: Loading Banks
+[2021.02.19-00.25.32:451][163]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.25.32:451][163]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.25.32:451][163]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.25.32:451][163]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.25.32:496][163]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.19-00.25.32:496][163]LogPlayLevel: [PlayLevel] Compiling Introduction before play...
+[2021.02.19-00.25.32:527][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.02.19-00.25.32:528][163]LogPlayLevel: PlayLevel: Blueprint regeneration took 32 ms (1 blueprints)
+[2021.02.19-00.25.32:528][163]PIE: New page: PIE session: Introduction (Feb 18, 2021, 2:25:32 PM)
+[2021.02.19-00.25.32:528][163]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.25.32:529][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001016s)
+[2021.02.19-00.25.32:530][163]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.25.32:530][163]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2021.02.19-00.25.32:530][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/Introduction.Introduction to /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction (0.001954s)
+[2021.02.19-00.25.32:549][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.02.19-00.25.32:550][163]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.02.19-00.25.32:550][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.25.32:550][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.25.32:550][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.25.32:550][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.25.32:550][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.25.32:550][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.25.32:550][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.25.32:550][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.25.32:550][163]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.25.32:550][163]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.25.32:552][163]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.25.32:552][163]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.25.32:552][163]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.25.32:552][163]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.25.32:552][163]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.25.32:552][163]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.25.32:552][163]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.25.32:552][163]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.25.32:579][163]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.25.32:580][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.25.32:580][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.25.32:580][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.25.32:580][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.25.32:580][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.25.32:580][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.25.32:596][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.25.32:596][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.25.32:596][163]LogInit: FAudioDevice initialized.
+[2021.02.19-00.25.32:596][163]LogAudio: Display: Audio Device (ID: 28) registered with world 'Introduction'.
+[2021.02.19-00.25.32:611][163]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.25.32:612][163]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.25.32
+[2021.02.19-00.25.32:612][163]LogWorld: Bringing up level for play took: 0.000484
+[2021.02.19-00.25.32:612][163]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.02.19-00.25.32:615][163]PIE: Server logged in
+[2021.02.19-00.25.32:615][163]PIE: Play in editor total start time 0.239 seconds.
+[2021.02.19-00.25.36:832][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.25.36:832][643]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.25.36:832][643]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.25.36:832][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.25.36:837][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.25.36:841][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.25.36:859][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.25.36:859][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.25.36:860][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.25.36:912][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.02.19-00.25.36:933][644]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.02.19-00.25.41:501][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.02.19-00.25.42:836][172]LogSlate: Window 'Save Content' being destroyed
+[2021.02.19-00.25.42:899][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.02.19-00.25.42:909][172]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Introduction409DC06043C64C7EDCE7B4B8FCA57E83.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/Introduction.umap'
+[2021.02.19-00.25.42:926][172]LogFileHelpers: Saving map 'Introduction' took 0.045
+[2021.02.19-00.25.42:926][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLevelSequence" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewLevelSequence.uasset" SILENT=true
+[2021.02.19-00.25.42:932][172]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/NewLevelSequence9FF00AEA43272299457D0C8387DD078E.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewLevelSequence.uasset'
+[2021.02.19-00.25.42:933][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMediaPlayer" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewMediaPlayer.uasset" SILENT=true
+[2021.02.19-00.25.42:937][172]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/NewMediaPlayer6303C04040D232BA3D2548A16A835F5E.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewMediaPlayer.uasset'
+[2021.02.19-00.25.42:940][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMediaPlayer_Video" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewMediaPlayer_Video.uasset" SILENT=true
+[2021.02.19-00.25.42:944][172]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/NewMediaPlayer_VideoB8F3760D4468DD0E49A07BBEC40540F5.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/NewMediaPlayer_Video.uasset'
+[2021.02.19-00.25.42:945][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/Space_Wind_Intro" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Movies/Space_Wind_Intro.uasset" SILENT=true
+[2021.02.19-00.25.42:950][172]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Space_Wind_Intro73079D2A44E23D30F3ACD6AF2A9772EC.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Movies/Space_Wind_Intro.uasset'
+[2021.02.19-00.25.42:963][172]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.19-00.25.42:963][172]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/Introduction.Introduction
+[2021.02.19-00.25.42:963][172]LogContentValidation: Display: Validating FileMediaSource /Game/Movies/Space_Wind_Intro.Space_Wind_Intro
+[2021.02.19-00.25.42:963][172]LogContentValidation: Display: Validating MediaTexture /Game/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2021.02.19-00.25.42:963][172]LogContentValidation: Display: Validating MediaPlayer /Game/NewMediaPlayer.NewMediaPlayer
+[2021.02.19-00.25.42:963][172]LogContentValidation: Display: Validating LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2021.02.19-00.25.43:933][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.02.19-00.25.43:943][279]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Introduction67ACE0E9454DB3E3649B65AD4FC3CE06.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/Introduction.umap'
+[2021.02.19-00.25.43:972][279]AssetCheck: New page: Asset Save: Introduction
+[2021.02.19-00.25.43:972][279]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/Introduction.Introduction
+[2021.02.19-00.25.44:415][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.02.19-00.25.44:424][328]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Introduction686C4DA14258C5F5932ED2B49B08DC24.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/Introduction.umap'
+[2021.02.19-00.25.44:453][328]AssetCheck: New page: Asset Save: Introduction
+[2021.02.19-00.25.44:453][328]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/Introduction.Introduction
+[2021.02.19-00.25.57:801][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.02.19-00.25.57:851][900]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.19-00.25.57:851][900]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.19-00.25.57:851][900]LightingResults: New page: Lighting Build
+[2021.02.19-00.25.57:851][900]LoadErrors: New page: Loading map: TitleScreen.umap
+[2021.02.19-00.25.57:895][900]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.25.57:895][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.25.57:935][900]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.25.57:935][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.25.57:935][900]MapCheck: New page: Map Check
+[2021.02.19-00.25.57:935][900]LightingResults: New page: Lighting Build
+[2021.02.19-00.25.57:950][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.25.57:954][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.02.19-00.25.57:954][900]LogAudio: Display: Audio Device (ID: 1) registered with world 'TitleScreen'.
+[2021.02.19-00.25.57:956][900]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.19-00.25.57:956][900]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.19-00.25.57:974][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.02.19-00.25.57:991][900]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.19-00.25.57:991][900]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2021.02.19-00.25.57:991][900]LogFileHelpers: Loading map 'TitleScreen' took 0.140
+[2021.02.19-00.25.59:800][107]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.25.59:846][107]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.25.59:850][107]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.25.59:850][107]LogFMOD: System sample rate = 48000
+[2021.02.19-00.25.59:850][107]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.25.59:878][107]LogFMOD: Loading Banks
+[2021.02.19-00.25.59:878][107]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.25.59:878][107]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.25.59:878][107]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.25.59:878][107]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.25.59:916][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-00.25.59:916][107]PIE: New page: PIE session: TitleScreen (Feb 18, 2021, 2:25:59 PM)
+[2021.02.19-00.25.59:916][107]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.19-00.25.59:918][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002319s)
+[2021.02.19-00.25.59:919][107]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.19-00.25.59:919][107]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2021.02.19-00.25.59:919][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/TitleScreen.TitleScreen to /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen (0.003183s)
+[2021.02.19-00.25.59:935][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.02.19-00.25.59:936][107]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.02.19-00.25.59:936][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.25.59:936][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.25.59:936][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.25.59:936][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.25.59:936][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.25.59:936][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.25.59:936][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.25.59:936][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.25.59:937][107]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.25.59:937][107]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.25.59:939][107]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.25.59:939][107]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.25.59:939][107]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.25.59:939][107]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.25.59:939][107]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.25.59:939][107]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.25.59:939][107]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.25.59:939][107]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.25.59:964][107]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.25.59:964][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.25.59:964][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.25.59:964][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.25.59:965][107]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.25.59:965][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.25.59:965][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.25.59:981][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.25.59:981][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.25.59:981][107]LogInit: FAudioDevice initialized.
+[2021.02.19-00.25.59:981][107]LogAudio: Display: Audio Device (ID: 29) registered with world 'TitleScreen'.
+[2021.02.19-00.25.59:987][107]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.25.59:988][107]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.02.18-19.25.59
+[2021.02.19-00.25.59:988][107]LogWorld: Bringing up level for play took: 0.000487
+[2021.02.19-00.25.59:988][107]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.02.19-00.25.59:991][107]PIE: Server logged in
+[2021.02.19-00.25.59:992][107]PIE: Play in editor total start time 0.181 seconds.
+[2021.02.19-00.26.04:342][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.26.07:969][ 63]LogNet: Browse: /Game/ThirdPerson/Levels/Introduction
+[2021.02.19-00.26.07:969][ 63]LogLoad: LoadMap: /Game/ThirdPerson/Levels/Introduction
+[2021.02.19-00.26.07:969][ 63]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.19-00.26.07:970][ 63]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.26.07:970][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.26.08:020][ 63]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.26.08:022][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.02.19-00.26.08:028][ 63]LogAudio: Display: Audio Device (ID: 29) registered with world 'Introduction'.
+[2021.02.19-00.26.08:029][ 63]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.26.08:029][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.26.08:030][ 63]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.26.08
+[2021.02.19-00.26.08:031][ 63]LogWorld: Bringing up level for play took: 0.000471
+[2021.02.19-00.26.08:031][ 63]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.02.19-00.26.08:032][ 63]LogLoad: Took 0.063177 seconds to LoadMap(/Game/ThirdPerson/Levels/Introduction)
+[2021.02.19-00.26.58:466][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.26.58:466][ 90]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.26.58:466][ 90]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.26.58:466][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.26.58:479][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.26.58:483][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.26.58:498][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.26.58:498][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.26.58:499][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.26.58:529][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.02.19-00.26.58:554][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.02.19-00.27.03:412][648]LogSlate: Window 'Intro' being destroyed
+[2021.02.19-00.27.03:420][648]LogSlate: Window 'Intro' being destroyed
+[2021.02.19-00.27.06:578][  7]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Levels/TitleScreen.TitleScreen:PersistentLevel.TitleScreen
+[2021.02.19-00.27.43:713][167]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Levels/BP_TITLE_WIDGETS/Main_Menu.Main_Menu
+[2021.02.19-00.28.17:089][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.02.19-00.28.17:901][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.02.19-00.28.17:919][142]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen469CDFF044975EE12260819C28108B93.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap'
+[2021.02.19-00.28.17:948][142]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen_BuiltData4D3914EE4EAB11F27650149EE9298712.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen_BuiltData.uasset'
+[2021.02.19-00.28.17:963][142]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.19-00.28.17:963][142]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.19-00.28.17:963][142]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/Levels/TitleScreen_BuiltData.TitleScreen_BuiltData
+[2021.02.19-00.28.21:754][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.02.19-00.28.21:789][560]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/Introduction.Introduction
+[2021.02.19-00.28.21:789][560]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/Introduction.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.19-00.28.21:789][560]LightingResults: New page: Lighting Build
+[2021.02.19-00.28.21:790][560]LoadErrors: New page: Loading map: Introduction.umap
+[2021.02.19-00.28.21:808][560]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.28.21:808][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.28.21:847][560]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.28.21:847][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.28.21:847][560]MapCheck: New page: Map Check
+[2021.02.19-00.28.21:847][560]LightingResults: New page: Lighting Build
+[2021.02.19-00.28.21:864][560]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.28.21:868][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.02.19-00.28.21:869][560]LogAudio: Display: Audio Device (ID: 1) registered with world 'Introduction'.
+[2021.02.19-00.28.21:869][560]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.19-00.28.21:870][560]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.28.21:890][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.02.19-00.28.21:907][560]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.19-00.28.21:907][560]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2021.02.19-00.28.21:907][560]LogFileHelpers: Loading map 'Introduction' took 0.118
+[2021.02.19-00.28.27:809][222]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Levels/Introduction.Introduction:PersistentLevel.Introduction
+[2021.02.19-00.29.25:872][738]LogContentBrowser: Attempting asset rename: ThirdPersonExampleMap -> ThirdPersonExampleMap
+[2021.02.19-00.29.31:638][409]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.29.31:674][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.02.19-00.29.34:232][694]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.29.34:267][694]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.29.34:273][694]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.29.34:273][694]LogFMOD: System sample rate = 48000
+[2021.02.19-00.29.34:273][694]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.29.34:301][694]LogFMOD: Loading Banks
+[2021.02.19-00.29.34:301][694]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.29.34:301][694]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.29.34:301][694]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.29.34:301][694]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.29.34:347][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-00.29.34:347][694]PIE: New page: PIE session: Introduction (Feb 18, 2021, 2:29:34 PM)
+[2021.02.19-00.29.34:385][694]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.29.34:386][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001329s)
+[2021.02.19-00.29.34:387][694]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.29.34:387][694]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2021.02.19-00.29.34:387][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/Introduction.Introduction to /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction (0.002442s)
+[2021.02.19-00.29.34:410][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.02.19-00.29.34:411][694]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.02.19-00.29.34:411][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.29.34:411][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.29.34:411][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.29.34:411][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.29.34:411][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.29.34:411][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.29.34:411][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.29.34:411][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.29.34:412][694]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.29.34:412][694]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.29.34:414][694]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.29.34:414][694]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.29.34:414][694]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.29.34:414][694]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.29.34:414][694]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.29.34:414][694]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.29.34:414][694]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.29.34:414][694]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.29.34:441][694]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.29.34:441][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.29.34:441][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.29.34:441][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.29.34:442][694]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.29.34:442][694]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.29.34:442][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.29.34:459][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.29.34:459][694]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.29.34:459][694]LogInit: FAudioDevice initialized.
+[2021.02.19-00.29.34:459][694]LogAudio: Display: Audio Device (ID: 30) registered with world 'Introduction'.
+[2021.02.19-00.29.34:467][694]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.29.34:468][694]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.29.34
+[2021.02.19-00.29.34:468][694]LogWorld: Bringing up level for play took: 0.000306
+[2021.02.19-00.29.34:468][694]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.02.19-00.29.34:472][694]PIE: Server logged in
+[2021.02.19-00.29.34:472][694]PIE: Play in editor total start time 0.23 seconds.
+[2021.02.19-00.29.36:236][903]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.02.19-00.29.36:236][903]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.02.19-00.29.36:237][903]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.29.36:237][903]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.29.36:237][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.29.36:300][903]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.29.36:303][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.02.19-00.29.36:303][903]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-00.29.36:317][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013386s)
+[2021.02.19-00.29.36:318][903]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.19-00.29.36:318][903]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2021.02.19-00.29.36:318][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014528s)
+[2021.02.19-00.29.36:318][903]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonExampleMap'.
+[2021.02.19-00.29.36:318][903]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.29.36:327][903]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.18-19.29.36
+[2021.02.19-00.29.36:328][903]LogWorld: Bringing up level for play took: 0.009270
+[2021.02.19-00.29.36:330][903]LogLoad: Took 0.093549 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.02.19-00.29.40:543][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.29.40:543][378]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-00.29.40:544][378]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.29.40:544][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.29.40:558][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.29.40:562][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.29.40:585][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.29.40:585][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.29.40:587][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.29.40:616][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.29.40:619][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.02.19-00.29.40:643][379]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.02.19-00.29.52:763][718]LogAssetEditorSubsystem: Opening Asset editor for MediaTexture /Game/Movies/Intro_Video.Intro_Video
+[2021.02.19-00.30.05:079][162]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/Movies/Intro.Intro
+[2021.02.19-00.30.05:089][162]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2021.02.19-00.30.05:115][162]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.02.19-00.30.05:115][162]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.02.19-00.30.05:115][162]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.02.19-00.30.05:115][162]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.02.19-00.30.05:143][162]LogContentBrowser: Verbose: The majority of assets in the view are of type: MediaPlaylist
+[2021.02.19-00.30.58:254][  7]BlueprintLog: New page: Compile Introduction
+[2021.02.19-00.30.58:288][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.02.19-00.31.00:081][211]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-00.31.00:116][211]LogFMOD: Creating runtime Studio System
+[2021.02.19-00.31.00:120][211]LogFMOD: Default sample rate = 48000
+[2021.02.19-00.31.00:120][211]LogFMOD: System sample rate = 48000
+[2021.02.19-00.31.00:120][211]LogFMOD: Matching system sample rate 48000
+[2021.02.19-00.31.00:150][211]LogFMOD: Loading Banks
+[2021.02.19-00.31.00:150][211]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-00.31.00:150][211]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-00.31.00:150][211]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-00.31.00:150][211]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-00.31.00:187][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-00.31.00:187][211]PIE: New page: PIE session: Introduction (Feb 18, 2021, 2:31:00 PM)
+[2021.02.19-00.31.00:187][211]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.31.00:188][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001277s)
+[2021.02.19-00.31.00:189][211]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-00.31.00:189][211]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2021.02.19-00.31.00:189][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/Introduction.Introduction to /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction (0.002516s)
+[2021.02.19-00.31.00:210][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.02.19-00.31.00:211][211]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.02.19-00.31.00:211][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-00.31.00:211][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-00.31.00:211][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-00.31.00:211][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-00.31.00:211][211]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-00.31.00:211][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-00.31.00:211][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-00.31.00:211][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-00.31.00:211][211]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-00.31.00:211][211]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-00.31.00:214][211]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-00.31.00:214][211]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-00.31.00:214][211]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-00.31.00:214][211]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-00.31.00:214][211]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-00.31.00:214][211]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-00.31.00:214][211]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-00.31.00:214][211]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-00.31.00:242][211]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-00.31.00:242][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-00.31.00:242][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-00.31.00:242][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-00.31.00:242][211]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-00.31.00:243][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-00.31.00:243][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-00.31.00:261][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-00.31.00:261][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-00.31.00:261][211]LogInit: FAudioDevice initialized.
+[2021.02.19-00.31.00:261][211]LogAudio: Display: Audio Device (ID: 31) registered with world 'Introduction'.
+[2021.02.19-00.31.00:272][211]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.31.00:273][211]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-19.31.00
+[2021.02.19-00.31.00:274][211]LogWorld: Bringing up level for play took: 0.000341
+[2021.02.19-00.31.00:274][211]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.02.19-00.31.00:277][211]PIE: Server logged in
+[2021.02.19-00.31.00:277][211]PIE: Play in editor total start time 0.187 seconds.
+[2021.02.19-00.31.49:079][ 56]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.02.19-00.31.49:079][ 56]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.02.19-00.31.49:079][ 56]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-00.31.49:080][ 56]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.31.49:080][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.31.49:136][ 56]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.31.49:139][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.02.19-00.31.49:140][ 56]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-00.31.49:151][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011063s)
+[2021.02.19-00.31.49:152][ 56]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.19-00.31.49:152][ 56]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2021.02.19-00.31.49:152][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012350s)
+[2021.02.19-00.31.49:152][ 56]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonExampleMap'.
+[2021.02.19-00.31.49:152][ 56]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-00.31.49:169][ 56]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.18-19.31.49
+[2021.02.19-00.31.49:170][ 56]LogWorld: Bringing up level for play took: 0.017004
+[2021.02.19-00.31.49:171][ 56]LogLoad: Took 0.092441 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.02.19-00.31.51:300][307]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1105.941 Y=-408.721 Z=172.659] for [ProjectileBP_C]
+[2021.02.19-00.32.18:332][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.32.18:332][528]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-00.32.18:333][528]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-00.32.18:333][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.32.18:346][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-00.32.18:351][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-00.32.18:375][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-00.32.18:375][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.32.18:376][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-00.32.18:425][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-00.32.18:428][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.02.19-00.32.18:454][529]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.02.19-00.33.01:802][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.02.19-00.33.02:970][857]LogSlate: Window 'Save Content' being destroyed
+[2021.02.19-00.33.03:030][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.02.19-00.33.03:040][857]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Introduction08411E504681CED6F65A82A470D34794.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/Introduction.umap'
+[2021.02.19-00.33.03:058][857]LogFileHelpers: Saving map 'Introduction' took 0.047
+[2021.02.19-00.33.03:075][857]AssetCheck: New page: Asset Save: Introduction
+[2021.02.19-00.33.03:075][857]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/Introduction.Introduction
+[2021.02.19-00.33.03:796][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.02.19-00.33.03:807][935]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/IntroductionCC609427487C9C12822F789E3813863D.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/Introduction.umap'
+[2021.02.19-00.33.03:834][935]AssetCheck: New page: Asset Save: Introduction
+[2021.02.19-00.33.03:834][935]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/Introduction.Introduction
+[2021.02.19-00.33.04:098][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.02.19-00.33.04:107][961]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/IntroductionF0B6588D45AD4C9808C74EB080994897.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/Introduction.umap'
+[2021.02.19-00.33.04:136][961]AssetCheck: New page: Asset Save: Introduction
+[2021.02.19-00.33.04:136][961]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/Introduction.Introduction
+[2021.02.19-00.33.04:395][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.02.19-00.33.04:405][986]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Introduction52169CBB4F77164A27C119A433433243.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/Introduction.umap'
+[2021.02.19-00.33.04:432][986]AssetCheck: New page: Asset Save: Introduction
+[2021.02.19-00.33.04:432][986]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/Introduction.Introduction
+[2021.02.19-00.33.04:814][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.02.19-00.33.04:824][ 27]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Introduction498A86874B2584A812496387746663CB.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/Introduction.umap'
+[2021.02.19-00.33.04:853][ 27]AssetCheck: New page: Asset Save: Introduction
+[2021.02.19-00.33.04:853][ 27]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/Introduction.Introduction
+[2021.02.19-00.33.05:565][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.02.19-00.33.05:917][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
