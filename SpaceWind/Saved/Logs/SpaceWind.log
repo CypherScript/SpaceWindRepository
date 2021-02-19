@@ -4460,3 +4460,341 @@ An asset already exists at the import location: /Game/Movies/Space_Wind_Intro
 [2021.02.19-01.27.03:168][519]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.02.19-01.27.03:168][519]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
 [2021.02.19-01.27.03:168][519]LogFileHelpers: Loading map 'TitleScreen' took 0.109
+[2021.02.19-01.28.12:660][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.02.19-01.28.12:716][605]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.19-01.28.12:717][605]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.19-01.28.12:717][605]LightingResults: New page: Lighting Build
+[2021.02.19-01.28.12:717][605]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.02.19-01.28.12:755][605]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-01.28.12:755][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-01.28.12:755][605]MapCheck: New page: Map Check
+[2021.02.19-01.28.12:755][605]LightingResults: New page: Lighting Build
+[2021.02.19-01.28.12:772][605]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-01.28.12:774][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.02.19-01.28.12:775][605]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.19-01.28.12:780][605]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.19-01.28.12:780][605]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.19-01.28.12:801][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.02.19-01.28.12:817][605]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.19-01.28.12:818][605]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2021.02.19-01.28.12:818][605]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.101
+[2021.02.19-01.28.26:416][195]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.19-01.28.30:415][662]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.19-01.31.08:683][741]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-01.31.08:725][741]LogFMOD: Creating runtime Studio System
+[2021.02.19-01.31.08:729][741]LogFMOD: Default sample rate = 48000
+[2021.02.19-01.31.08:729][741]LogFMOD: System sample rate = 48000
+[2021.02.19-01.31.08:729][741]LogFMOD: Matching system sample rate 48000
+[2021.02.19-01.31.08:758][741]LogFMOD: Loading Banks
+[2021.02.19-01.31.08:758][741]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-01.31.08:758][741]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-01.31.08:758][741]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-01.31.08:758][741]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-01.31.08:796][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-01.31.08:796][741]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2021, 3:31:08 PM)
+[2021.02.19-01.31.08:796][741]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-01.31.08:811][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014771s)
+[2021.02.19-01.31.08:812][741]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.19-01.31.08:812][741]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2021.02.19-01.31.08:812][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015943s)
+[2021.02.19-01.31.08:832][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.02.19-01.31.08:839][741]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.02.19-01.31.08:839][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-01.31.08:839][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-01.31.08:839][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-01.31.08:839][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-01.31.08:839][741]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-01.31.08:839][741]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-01.31.08:839][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-01.31.08:839][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-01.31.08:839][741]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-01.31.08:839][741]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-01.31.08:841][741]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-01.31.08:841][741]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-01.31.08:841][741]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-01.31.08:841][741]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-01.31.08:841][741]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-01.31.08:842][741]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-01.31.08:842][741]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-01.31.08:842][741]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-01.31.08:869][741]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-01.31.08:869][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-01.31.08:869][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-01.31.08:869][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-01.31.08:869][741]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-01.31.08:869][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-01.31.08:869][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-01.31.08:885][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-01.31.08:885][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-01.31.08:885][741]LogInit: FAudioDevice initialized.
+[2021.02.19-01.31.08:885][741]LogAudio: Display: Audio Device (ID: 36) registered with world 'ThirdPersonExampleMap'.
+[2021.02.19-01.31.08:893][741]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-01.31.08:895][741]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.18-20.31.08
+[2021.02.19-01.31.08:895][741]LogWorld: Bringing up level for play took: 0.001365
+[2021.02.19-01.31.08:895][741]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.02.19-01.31.08:897][741]PIE: Server logged in
+[2021.02.19-01.31.08:898][741]PIE: Play in editor total start time 0.204 seconds.
+[2021.02.19-01.31.14:966][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-01.31.14:967][429]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-01.31.14:967][429]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-01.31.14:967][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-01.31.14:974][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-01.31.14:989][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-01.31.15:006][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-01.31.15:006][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-01.31.15:007][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-01.31.15:060][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.02.19-01.31.15:095][430]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.02.19-01.40.39:349][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.02.19-01.48.49:820][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (M_Planet13)
+[2021.02.19-01.48.54:892][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.02.19-01.48.56:094][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.02.19-01.48.57:862][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.02.19-01.48.58:663][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.02.19-01.48.59:273][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (M_Planet7)
+[2021.02.19-01.49.07:897][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (M_Planet8)
+[2021.02.19-01.49.14:606][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Final_SkySphere)
+[2021.02.19-01.49.15:604][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (M_Planet6)
+[2021.02.19-01.49.21:271][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (M_Planet3)
+[2021.02.19-01.49.28:721][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (M_Planet14)
+[2021.02.19-01.49.33:961][759]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Star.M_Star
+[2021.02.19-01.49.33:965][759]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 3 classes and 0 folders.
+[2021.02.19-01.49.33:966][759]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.34:220][759]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.34:225][759]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.34:234][759]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.02.19-01.49.34:234][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.02.19-01.49.34:234][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.02.19-01.49.34:234][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.02.19-01.49.34:236][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.19-01.49.34:656][760]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.02.19-01.49.34:752][762]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.02.19-01.49.34:780][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.02.19-01.49.34:799][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.02.19-01.49.35:048][782]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.02.19-01.49.35:127][789]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.02.19-01.49.35:256][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.02.19-01.49.35:272][797]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.02.19-01.49.35:337][803]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.02.19-01.49.35:352][804]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.02.19-01.49.35:352][804]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.02.19-01.49.35:352][804]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.02.19-01.49.35:352][804]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.19-01.49.40:717][383]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.40:723][383]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.40:737][384]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.02.19-01.49.40:737][384]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.02.19-01.49.40:737][384]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.02.19-01.49.40:737][384]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.02.19-01.49.41:093][415]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.02.19-01.49.41:211][426]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.02.19-01.49.41:277][432]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.02.19-01.49.41:289][433]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.02.19-01.49.41:549][455]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.02.19-01.49.41:839][482]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.02.19-01.49.41:839][482]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.02.19-01.49.41:839][482]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.02.19-01.49.41:839][482]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.19-01.49.43:833][694]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.43:839][694]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.43:855][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.02.19-01.49.43:855][695]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.02.19-01.49.43:855][695]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.02.19-01.49.43:855][695]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.02.19-01.49.44:200][723]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.02.19-01.49.44:326][733]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.02.19-01.49.44:379][737]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.02.19-01.49.44:392][738]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.02.19-01.49.44:645][757]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.02.19-01.49.44:929][783]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.02.19-01.49.44:929][783]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.02.19-01.49.44:929][783]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.02.19-01.49.44:929][783]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.19-01.49.48:346][155]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.48:352][155]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.48:373][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.02.19-01.49.48:373][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.02.19-01.49.48:373][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.02.19-01.49.48:373][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.02.19-01.49.48:711][186]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.02.19-01.49.48:836][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.02.19-01.49.48:900][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.02.19-01.49.48:901][204]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.02.19-01.49.49:154][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.02.19-01.49.49:444][253]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.02.19-01.49.49:444][253]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.02.19-01.49.49:444][253]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.02.19-01.49.49:444][253]MaterialEditorStats: Texture samplers: 2/16
+[2021.02.19-01.49.52:621][576]LogMaterialEditor: Applying material M_Star
+[2021.02.19-01.49.54:893][576]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.54:923][576]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.02.19-01.49.54:923][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.02.19-01.49.54:923][576]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.02.19-01.49.54:923][576]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.02.19-01.49.54:932][576]LogMaterial: Display: Missing cached shader map for material M_Star, compiling. 
+[2021.02.19-01.49.54:985][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.02.19-01.49.54:990][576]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.19-01.49.55:552][576]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.02.19-01.49.55:552][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.02.19-01.49.55:552][576]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.02.19-01.49.55:552][576]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.02.19-01.49.55:552][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.02.19-01.49.55:847][576]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.02.19-01.49.55:847][576]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.02.19-01.49.55:847][576]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.02.19-01.49.55:847][576]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.02.19-01.49.55:847][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.02.19-01.49.55:847][576]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.02.19-01.49.55:853][576]TextureStreamingBuild: Display: Compiling optional shaders took 0.866 seconds.
+[2021.02.19-01.49.55:884][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.02.19-01.49.56:240][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.02.19-01.49.56:573][618]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.02.19-01.49.57:093][670]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.02.19-01.49.57:093][670]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.02.19-01.49.57:093][670]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.02.19-01.49.57:093][670]MaterialEditorStats: Texture samplers: 3/16
+[2021.02.19-01.50.03:105][290]LogMaterialEditor: Saving and Compiling material M_Star
+[2021.02.19-01.50.03:136][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Star" FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Materials/M_Star.uasset" SILENT=true
+[2021.02.19-01.50.03:144][290]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/M_StarB857FD08499C65BB8C25B2BE66861277.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Materials/M_Star.uasset'
+[2021.02.19-01.50.03:157][290]AssetCheck: New page: Asset Save: M_Star
+[2021.02.19-01.50.03:157][290]LogContentValidation: Display: Validating Material /Game/Materials/M_Star.M_Star
+[2021.02.19-01.50.04:300][404]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-01.50.04:300][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-01.50.05:838][543]LogSlate: Window 'PlayerCharacterBP' being destroyed
+[2021.02.19-01.50.05:844][543]LogSlate: Window 'PlayerCharacterBP' being destroyed
+[2021.02.19-01.50.05:853][543]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-01.50.05:853][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-01.50.38:305][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.02.19-01.50.38:339][464]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap_Auto84060A6FA49E148FDE39B59936896EAA9.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2021.02.19-01.50.38:344][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.082
+[2021.02.19-01.50.38:344][464]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2021.02.19-02.00.31:925][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.02.19-02.00.33:279][335]LogSlate: Window 'Save Content' being destroyed
+[2021.02.19-02.00.33:316][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.02.19-02.00.33:341][335]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMapB3D686164AB57943F14136A1ABF27110.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.19-02.00.33:358][335]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.055
+[2021.02.19-02.00.33:373][335]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.19-02.00.33:373][335]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.19-02.00.34:451][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.02.19-02.00.34:475][457]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap4436D42C44097A18F0D8E78C9891A970.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.19-02.00.34:502][457]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.19-02.00.34:502][457]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.19-02.00.36:212][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.02.19-02.00.36:250][655]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.19-02.00.36:250][655]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.19-02.00.36:250][655]LightingResults: New page: Lighting Build
+[2021.02.19-02.00.36:250][655]LoadErrors: New page: Loading map: TitleScreen.umap
+[2021.02.19-02.00.36:251][655]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-02.00.36:251][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-02.00.36:251][655]MapCheck: New page: Map Check
+[2021.02.19-02.00.36:251][655]LightingResults: New page: Lighting Build
+[2021.02.19-02.00.36:264][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-02.00.36:267][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.02.19-02.00.36:267][655]LogAudio: Display: Audio Device (ID: 1) registered with world 'TitleScreen'.
+[2021.02.19-02.00.36:269][655]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.19-02.00.36:269][655]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.19-02.00.36:284][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.02.19-02.00.36:298][655]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.19-02.00.36:299][655]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2021.02.19-02.00.36:299][655]LogFileHelpers: Loading map 'TitleScreen' took 0.049
+[2021.02.19-02.00.46:998][932]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-02.00.47:057][932]LogFMOD: Creating runtime Studio System
+[2021.02.19-02.00.47:064][932]LogFMOD: Default sample rate = 48000
+[2021.02.19-02.00.47:064][932]LogFMOD: System sample rate = 48000
+[2021.02.19-02.00.47:064][932]LogFMOD: Matching system sample rate 48000
+[2021.02.19-02.00.47:091][932]LogFMOD: Loading Banks
+[2021.02.19-02.00.47:091][932]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.19-02.00.47:091][932]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.19-02.00.47:091][932]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.19-02.00.47:091][932]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.19-02.00.47:135][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-02.00.47:135][932]PIE: New page: PIE session: TitleScreen (Feb 18, 2021, 4:00:47 PM)
+[2021.02.19-02.00.47:135][932]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.19-02.00.47:137][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002306s)
+[2021.02.19-02.00.47:138][932]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.19-02.00.47:138][932]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2021.02.19-02.00.47:138][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/TitleScreen.TitleScreen to /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen (0.003207s)
+[2021.02.19-02.00.47:152][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.02.19-02.00.47:155][932]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.02.19-02.00.47:155][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-02.00.47:155][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-02.00.47:155][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-02.00.47:155][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-02.00.47:155][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-02.00.47:155][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-02.00.47:155][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-02.00.47:155][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-02.00.47:155][932]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-02.00.47:155][932]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-02.00.47:157][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-02.00.47:157][932]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-02.00.47:157][932]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.19-02.00.47:157][932]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.19-02.00.47:157][932]LogAudioMixer: Display: 4: BackLeft
+[2021.02.19-02.00.47:157][932]LogAudioMixer: Display: 5: BackRight
+[2021.02.19-02.00.47:157][932]LogAudioMixer: Display: 6: SideLeft
+[2021.02.19-02.00.47:157][932]LogAudioMixer: Display: 7: SideRight
+[2021.02.19-02.00.47:185][932]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.19-02.00.47:185][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-02.00.47:185][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-02.00.47:185][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-02.00.47:185][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-02.00.47:185][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-02.00.47:185][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.19-02.00.47:201][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-02.00.47:201][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-02.00.47:201][932]LogInit: FAudioDevice initialized.
+[2021.02.19-02.00.47:201][932]LogAudio: Display: Audio Device (ID: 37) registered with world 'TitleScreen'.
+[2021.02.19-02.00.47:206][932]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-02.00.47:208][932]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.02.18-21.00.47
+[2021.02.19-02.00.47:208][932]LogWorld: Bringing up level for play took: 0.000623
+[2021.02.19-02.00.47:208][932]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.02.19-02.00.47:211][932]PIE: Server logged in
+[2021.02.19-02.00.47:211][932]PIE: Play in editor total start time 0.204 seconds.
+[2021.02.19-02.00.56:364][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-02.01.07:431][353]LogNet: Browse: /Game/ThirdPerson/Levels/Introduction
+[2021.02.19-02.01.07:431][353]LogLoad: LoadMap: /Game/ThirdPerson/Levels/Introduction
+[2021.02.19-02.01.07:431][353]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.19-02.01.07:432][353]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-02.01.07:432][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-02.01.07:476][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-02.01.07:479][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.02.19-02.01.07:486][353]LogAudio: Display: Audio Device (ID: 37) registered with world 'Introduction'.
+[2021.02.19-02.01.07:487][353]LogAIModule: Creating AISystem for world Introduction
+[2021.02.19-02.01.07:487][353]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-02.01.07:488][353]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_Introduction.Introduction up for play (max tick rate 0) at 2021.02.18-21.01.07
+[2021.02.19-02.01.07:488][353]LogWorld: Bringing up level for play took: 0.000418
+[2021.02.19-02.01.07:489][353]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.02.19-02.01.07:490][353]LogLoad: Took 0.058754 seconds to LoadMap(/Game/ThirdPerson/Levels/Introduction)
+[2021.02.19-02.01.56:433][223]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.02.19-02.01.56:433][223]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.02.19-02.01.56:433][223]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_Introduction
+[2021.02.19-02.01.56:434][223]LogWorld: UWorld::CleanupWorld for Introduction, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-02.01.56:434][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-02.01.56:476][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-02.01.56:478][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.02.19-02.01.56:490][223]LogAudio: Display: Audio Device (ID: 37) registered with world 'ThirdPersonExampleMap'.
+[2021.02.19-02.01.56:491][223]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.19-02.01.56:491][223]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-02.01.56:506][223]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.18-21.01.56
+[2021.02.19-02.01.56:506][223]LogWorld: Bringing up level for play took: 0.014373
+[2021.02.19-02.01.56:507][223]LogLoad: Took 0.074162 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2021.02.19-02.02.24:678][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-02.02.24:679][581]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-02.02.24:679][581]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-02.02.24:679][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-02.02.24:693][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-02.02.24:698][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-02.02.24:711][581]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-02.02.24:712][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-02.02.24:713][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-02.02.24:754][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-02.02.24:757][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.02.19-02.02.24:783][582]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.02.19-02.02.37:042][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.02.19-02.02.38:115][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.02.19-02.02.38:132][145]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen6604D1194B1FF88A2B05279628C4360E.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap'
+[2021.02.19-02.02.38:160][145]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen_BuiltData4424DE4849FC7A8425CB7D85306A5584.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen_BuiltData.uasset'
+[2021.02.19-02.02.38:170][145]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.19-02.02.38:170][145]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.19-02.02.38:170][145]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/Levels/TitleScreen_BuiltData.TitleScreen_BuiltData
