@@ -1179,3 +1179,173 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.02.22-23.12.53:746][623]LogContentValidation: Display: Validating Skeleton /Game/Animations/sailboatplayerloop_Skeleton.sailboatplayerloop_Skeleton
 [2021.02.22-23.12.53:746][623]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/sailboatplayerloop_PhysicsAsset.sailboatplayerloop_PhysicsAsset
 [2021.02.22-23.12.53:746][623]LogContentValidation: Display: Validating AnimSequence /Game/Animations/sailboatplayerloop_Anim.sailboatplayerloop_Anim
+[2021.02.22-23.13.52:241][505]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\siren\Desktop\Space Wind\Animations\Sailboat_FBX_Asset.fbx)
+[2021.02.22-23.13.52:253][505]LogFbx: Loading FBX Scene from C:\Users\siren\Desktop\Space Wind\Animations\Sailboat_FBX_Asset.fbx
+[2021.02.22-23.13.52:297][505]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.22-23.13.57:038][505]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster1) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster2) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster3) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster4) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster5) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster6) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster7) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster8) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster9) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster10) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster11) - flag
+[2021.02.22-23.13.57:054][505]LogFbx: Valid bind pose for Pose (skinCluster14) - flag
+[2021.02.22-23.13.57:055][505]LogFbx: Triangulating skeletal mesh flag
+[2021.02.22-23.13.57:056][505]LogFbx: Triangulating skeletal mesh Sail_port
+[2021.02.22-23.13.57:060][505]LogFbx: Triangulating skeletal mesh box3
+[2021.02.22-23.13.57:064][505]LogFbx: Triangulating skeletal mesh box2
+[2021.02.22-23.13.57:067][505]LogFbx: Triangulating skeletal mesh box1
+[2021.02.22-23.13.57:071][505]LogFbx: Triangulating skeletal mesh anchor
+[2021.02.22-23.13.57:092][505]LogFbx: Triangulating skeletal mesh barrel_l
+[2021.02.22-23.13.57:115][505]LogFbx: Triangulating skeletal mesh barrel_r
+[2021.02.22-23.13.57:138][505]LogFbx: Triangulating skeletal mesh chains
+[2021.02.22-23.13.57:148][505]LogFbx: Triangulating skeletal mesh mainBoat_Mast
+[2021.02.22-23.13.57:284][505]LogFbx: Triangulating skeletal mesh Rope_bot
+[2021.02.22-23.13.57:293][505]LogFbx: Triangulating skeletal mesh Rope_top
+[2021.02.22-23.13.57:314][505]LogFbx: Warning: Bones digested - 58  Depth of hierarchy - 21
+[2021.02.22-23.13.57:518][505]LogSkeletalMesh: Section 0: Material=0, 9402 triangles
+[2021.02.22-23.13.57:525][505]LogSkeletalMesh: Building Skeletal Mesh Sailboat_FBX_Asset...
+[2021.02.22-23.13.57:703][505]LogSkeletalMesh: Section 0: Material=0, 9402 triangles
+[2021.02.22-23.13.57:716][505]LogSkeletalMesh: Built Skeletal Mesh [0.19s] /Game/Animations/Sailboat_FBX_Asset.Sailboat_FBX_Asset
+[2021.02.22-23.13.57:736][505]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/sailboatplayerloop_Anim.sailboatplayerloop_Anim
+[2021.02.22-23.13.57:737][505]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/sailboatplayerloop_Anim.sailboatplayerloop_Anim
+[2021.02.22-23.13.57:741][505]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-23.13.57:741][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(0) sailBoat_Asset
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(1) rig
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(2) rootJoint
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(3) chainJoint
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(4) anchorJoint
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(5) flagJoint
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(6) flagJoint1
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(7) flagJoint2
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(8) flagJoint3
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(9) flagJoint4
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(10) botRopeJoint
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(11) botRopeJoint1
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(12) botRopeJoint2
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(13) botRopeJoint3
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(14) botRopeJoint4
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(15) botRopeJoint5
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(16) botRopeJoint6
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(17) botRopeJoint7
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(18) botRopeJoint8
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(19) botRopeJoint9
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(20) botRopeJoint10
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(21) botRopeJoint11
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(22) botRopeJoint12
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(23) botRopeJoint13
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(24) botRopeJoint14
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(25) botRopeJoint15
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(26) topRopeJoint
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(27) topRopeJoint1
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(28) topRopeJoint2
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(29) topRopeJoint3
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(30) topRopeJoint4
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(31) topRopeJoint5
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(32) topRopeJoint6
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(33) topRopeJoint7
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(34) topRopeJoint8
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(35) topRopeJoint9
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(36) topRopeJoint10
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(37) topRopeJoint11
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(38) topRopeJoint12
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(39) topRopeJoint13
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(40) topRopeJoint14
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(41) topRopeJoint15
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(42) topRopeJoint16
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(43) topRopeJoint17
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(44) sailJoint
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(45) geo
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(46) flag
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(47) Sail_port
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(48) box3
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(49) box2
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(50) box1
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(51) anchor
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(52) barrel_l
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(53) barrel_r
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(54) chains
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(55) mainBoat_Mast
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(56) Rope_bot
+[2021.02.22-23.13.57:752][505]LogFbx: SortedLinks :(57) Rope_top
+[2021.02.22-23.13.57:752][505]LogFbx: Parsing AnimStack Take 001
+[2021.02.22-23.13.58:054][505]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'M_Sailboat' was renamed 'M_Sailboat_ncl1_1' 
+[2021.02.22-23.13.58:054][505]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.02.22-23.13.58:054][505]FBXImport: Warning: The following bones are missing from the bind pose:
+flagJoint4  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.02.22-23.13.58:092][506]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Sailboat_FBX_Asset_Anim.Sailboat_FBX_Asset_Anim
+[2021.02.22-23.13.58:092][506]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/sailboatplayerloop_Anim.sailboatplayerloop_Anim
+[2021.02.22-23.14.00:755][652]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Animations/Sailboat_FBX_Asset.Sailboat_FBX_Asset
+[2021.02.22-23.14.00:758][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.22-23.14.01:035][652]LogSlate: Took 0.005802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.22-23.14.01:083][652]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2021.02.22-23.14.19:989][778]LogSlate: Window 'Sailboat_FBX_Asset' being destroyed
+[2021.02.22-23.14.19:995][778]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-23.14.19:995][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-23.14.37:357][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.22-23.14.41:251][810]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-23.14.41:350][810]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Sailboat_FBX_Asset0B96A6BD4A497C0431760BBAC0397D19.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Animations/Sailboat_FBX_Asset.uasset'
+[2021.02.22-23.14.41:377][810]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Sailboat_FBX_Asset_Anim43CD34EF46382C720302888BCF1C5641.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Animations/Sailboat_FBX_Asset_Anim.uasset'
+[2021.02.22-23.14.41:410][810]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Sailboat_FBX_Asset_PhysicsAsset98617F9B41095CF522B1628027B49D8F.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Animations/Sailboat_FBX_Asset_PhysicsAsset.uasset'
+[2021.02.22-23.14.41:442][810]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/sailboatplayerloop_AnimA616E1F04030DF8C0C6D799A5A470A2B.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Animations/sailboatplayerloop_Anim.uasset'
+[2021.02.22-23.14.41:450][810]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/sailboatplayerloop_SkeletonF867E42C441BE9225A0090A3D4F11F46.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Animations/sailboatplayerloop_Skeleton.uasset'
+[2021.02.22-23.14.41:719][810]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.22-23.14.41:719][810]Cmd: MAP LOAD FILE="../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.22-23.14.41:719][810]LightingResults: New page: Lighting Build
+[2021.02.22-23.14.41:720][810]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 6 classes and 0 folders.
+[2021.02.22-23.14.41:720][810]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.02.22-23.14.41:758][810]LogWorld: UWorld::CleanupWorld for AnimationTest, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-23.14.41:759][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-23.14.41:759][810]MapCheck: New page: Map Check
+[2021.02.22-23.14.41:759][810]LightingResults: New page: Lighting Build
+[2021.02.22-23.14.41:767][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.02.22-23.14.41:767][810]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.22-23.14.41:823][810]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.22-23.14.41:823][810]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.22-23.14.41:831][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.02.22-23.14.41:847][810]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.22-23.14.41:847][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2021.02.22-23.14.41:847][810]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.128
+[2021.02.22-23.14.41:872][810]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.22-23.14.41:872][810]LogContentValidation: Display: Validating Skeleton /Game/Animations/sailboatplayerloop_Skeleton.sailboatplayerloop_Skeleton
+[2021.02.22-23.14.41:872][810]LogContentValidation: Display: Validating AnimSequence /Game/Animations/sailboatplayerloop_Anim.sailboatplayerloop_Anim
+[2021.02.22-23.14.41:872][810]LogContentValidation: Display: Validating AnimSequence /Game/Animations/Sailboat_FBX_Asset_Anim.Sailboat_FBX_Asset_Anim
+[2021.02.22-23.14.41:872][810]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/Sailboat_FBX_Asset_PhysicsAsset.Sailboat_FBX_Asset_PhysicsAsset
+[2021.02.22-23.14.41:872][810]LogContentValidation: Display: Validating SkeletalMesh /Game/Animations/Sailboat_FBX_Asset.Sailboat_FBX_Asset
+[2021.02.22-23.14.44:209][943]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2021.02.22-23.15.14:537][749]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2021.02.22-23.15.19:261][ 32]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-23.15.30:128][684]Cmd: DELETE
+[2021.02.22-23.15.30:128][684]Cmd: ACTOR DELETE
+[2021.02.22-23.15.30:136][684]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.02.22-23.15.30:141][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.02.22-23.15.30:146][684]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.02.22-23.15.56:875][283]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Sailboat_FBX_Asset)
+[2021.02.22-23.16.43:085][ 51]Cmd: DELETE
+[2021.02.22-23.16.43:085][ 51]Cmd: ACTOR DELETE
+[2021.02.22-23.16.43:087][ 51]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.02.22-23.16.43:092][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.22-23.16.43:094][ 51]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.02.22-23.16.58:329][962]Cmd: DELETE
+[2021.02.22-23.16.58:329][962]Cmd: ACTOR DELETE
+[2021.02.22-23.16.58:331][962]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.02.22-23.16.58:336][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.02.22-23.16.58:337][962]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.02.22-23.17.01:414][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.22-23.17.01:467][144]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap055BD8FA436660E2885B75AB745DCF7A.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.22-23.17.01:498][144]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.22-23.17.01:498][144]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.22-23.17.07:144][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.02.22-23.17.07:196][480]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap4E6E0106424185DF4B4192AA638386A9.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.22-23.17.07:223][480]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.22-23.17.07:223][480]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.22-23.17.09:208][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
