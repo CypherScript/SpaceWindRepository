@@ -1963,3 +1963,1660 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.23-00.17.00:734][ 96]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMapD9196757488FC6F2768014916A7F53B6.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
 [2021.02.23-00.17.00:762][ 96]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.02.23-00.17.00:762][ 96]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-00.35.13:101][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.02.23-00.35.14:488][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.23-00.35.14:520][918]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMapB4BC829D438BE742F561C2B416E5D469.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.23-00.35.14:548][918]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.23-00.35.14:548][918]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-00.35.19:695][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.02.23-00.35.19:732][455]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.23-00.35.19:732][455]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.23-00.35.19:732][455]LightingResults: New page: Lighting Build
+[2021.02.23-00.35.19:732][455]LoadErrors: New page: Loading map: TitleScreen.umap
+[2021.02.23-00.35.19:773][455]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.35.19:773][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.35.19:773][455]MapCheck: New page: Map Check
+[2021.02.23-00.35.19:773][455]LightingResults: New page: Lighting Build
+[2021.02.23-00.35.19:816][455]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-00.35.19:821][455]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.02.23-00.35.19:823][455]LogAudio: Display: Audio Device (ID: 1) registered with world 'TitleScreen'.
+[2021.02.23-00.35.19:824][455]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.23-00.35.19:824][455]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.23-00.35.19:865][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.02.23-00.35.19:880][455]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.23-00.35.19:881][455]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2021.02.23-00.35.19:881][455]LogFileHelpers: Loading map 'TitleScreen' took 0.149
+[2021.02.23-00.35.26:922][285]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.23-00.35.29:255][546]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.23-00.35.45:717][465]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-00.35.45:764][465]LogFMOD: Creating runtime Studio System
+[2021.02.23-00.35.45:783][465]LogFMOD: Default sample rate = 48000
+[2021.02.23-00.35.45:783][465]LogFMOD: System sample rate = 48000
+[2021.02.23-00.35.45:783][465]LogFMOD: Matching system sample rate 48000
+[2021.02.23-00.35.45:826][465]LogFMOD: Loading Banks
+[2021.02.23-00.35.45:826][465]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-00.35.45:826][465]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-00.35.45:826][465]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-00.35.45:864][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-00.35.45:864][465]PIE: New page: PIE session: TitleScreen (Feb 22, 2021, 2:35:45 PM)
+[2021.02.23-00.35.45:864][465]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.35.45:867][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002841s)
+[2021.02.23-00.35.45:868][465]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.23-00.35.45:868][465]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2021.02.23-00.35.45:868][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/TitleScreen.TitleScreen to /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen (0.003829s)
+[2021.02.23-00.35.45:910][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.02.23-00.35.45:913][465]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.02.23-00.35.45:914][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-00.35.45:914][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-00.35.45:914][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-00.35.45:914][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-00.35.45:914][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-00.35.45:914][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-00.35.45:914][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-00.35.45:914][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-00.35.45:914][465]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-00.35.45:914][465]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-00.35.45:916][465]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-00.35.45:916][465]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-00.35.45:916][465]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-00.35.45:916][465]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-00.35.45:916][465]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-00.35.45:916][465]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-00.35.45:916][465]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-00.35.45:916][465]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-00.35.45:942][465]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-00.35.45:942][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-00.35.45:942][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-00.35.45:942][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-00.35.45:942][465]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-00.35.45:942][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-00.35.45:942][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-00.35.45:958][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-00.35.45:958][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-00.35.45:958][465]LogInit: FAudioDevice initialized.
+[2021.02.23-00.35.45:958][465]LogAudio: Display: Audio Device (ID: 15) registered with world 'TitleScreen'.
+[2021.02.23-00.35.45:966][465]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-00.35.45:968][465]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.02.22-19.35.45
+[2021.02.23-00.35.45:968][465]LogWorld: Bringing up level for play took: 0.000508
+[2021.02.23-00.35.45:968][465]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.02.23-00.35.45:972][465]PIE: Server logged in
+[2021.02.23-00.35.45:972][465]PIE: Play in editor total start time 0.245 seconds.
+[2021.02.23-00.36.00:188][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.36.00:188][150]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.36.00:188][150]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.36.00:189][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.36.00:201][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-00.36.00:228][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.36.00:269][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.36.00:269][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.36.00:270][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.36.00:312][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.02.23-00.36.00:349][151]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.02.23-00.36.06:889][924]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-00.36.06:923][924]LogFMOD: Creating runtime Studio System
+[2021.02.23-00.36.06:928][924]LogFMOD: Default sample rate = 48000
+[2021.02.23-00.36.06:928][924]LogFMOD: System sample rate = 48000
+[2021.02.23-00.36.06:928][924]LogFMOD: Matching system sample rate 48000
+[2021.02.23-00.36.06:956][924]LogFMOD: Loading Banks
+[2021.02.23-00.36.06:956][924]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-00.36.06:956][924]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-00.36.06:956][924]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-00.36.07:004][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-00.36.07:004][924]PIE: New page: PIE session: TitleScreen (Feb 22, 2021, 2:36:07 PM)
+[2021.02.23-00.36.07:004][924]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.36.07:006][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002571s)
+[2021.02.23-00.36.07:007][924]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.23-00.36.07:007][924]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2021.02.23-00.36.07:007][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/TitleScreen.TitleScreen to /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen (0.003433s)
+[2021.02.23-00.36.07:047][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.02.23-00.36.07:050][924]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.02.23-00.36.07:050][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-00.36.07:050][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-00.36.07:050][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-00.36.07:050][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-00.36.07:050][924]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-00.36.07:050][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-00.36.07:050][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-00.36.07:050][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-00.36.07:051][924]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-00.36.07:051][924]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-00.36.07:053][924]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-00.36.07:053][924]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-00.36.07:053][924]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-00.36.07:053][924]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-00.36.07:053][924]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-00.36.07:053][924]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-00.36.07:053][924]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-00.36.07:053][924]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-00.36.07:080][924]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-00.36.07:081][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-00.36.07:081][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-00.36.07:081][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-00.36.07:081][924]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-00.36.07:081][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-00.36.07:081][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-00.36.07:096][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-00.36.07:096][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-00.36.07:096][924]LogInit: FAudioDevice initialized.
+[2021.02.23-00.36.07:096][924]LogAudio: Display: Audio Device (ID: 16) registered with world 'TitleScreen'.
+[2021.02.23-00.36.07:102][924]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-00.36.07:104][924]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.02.22-19.36.07
+[2021.02.23-00.36.07:104][924]LogWorld: Bringing up level for play took: 0.000510
+[2021.02.23-00.36.07:104][924]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.02.23-00.36.07:106][924]PIE: Server logged in
+[2021.02.23-00.36.07:107][924]PIE: Play in editor total start time 0.206 seconds.
+[2021.02.23-00.36.11:894][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.36.11:894][480]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.36.11:895][480]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.36.11:895][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.36.11:908][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-00.36.11:927][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.36.11:964][480]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-00.36.11:964][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.36.11:965][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.36.12:014][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.36.12:019][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.02.23-00.36.12:057][481]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.02.23-00.36.37:165][427]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-00.36.37:213][427]LogFMOD: Creating runtime Studio System
+[2021.02.23-00.36.37:217][427]LogFMOD: Default sample rate = 48000
+[2021.02.23-00.36.37:217][427]LogFMOD: System sample rate = 48000
+[2021.02.23-00.36.37:217][427]LogFMOD: Matching system sample rate 48000
+[2021.02.23-00.36.37:245][427]LogFMOD: Loading Banks
+[2021.02.23-00.36.37:245][427]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-00.36.37:245][427]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-00.36.37:245][427]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-00.36.37:283][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-00.36.37:283][427]PIE: New page: PIE session: TitleScreen (Feb 22, 2021, 2:36:37 PM)
+[2021.02.23-00.36.37:283][427]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.36.37:286][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002852s)
+[2021.02.23-00.36.37:286][427]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.23-00.36.37:287][427]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2021.02.23-00.36.37:287][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/TitleScreen.TitleScreen to /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen (0.003765s)
+[2021.02.23-00.36.37:328][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.02.23-00.36.37:332][427]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.02.23-00.36.37:332][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-00.36.37:332][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-00.36.37:332][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-00.36.37:333][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-00.36.37:333][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-00.36.37:333][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-00.36.37:333][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-00.36.37:333][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-00.36.37:333][427]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-00.36.37:333][427]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-00.36.37:335][427]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-00.36.37:335][427]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-00.36.37:335][427]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-00.36.37:335][427]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-00.36.37:335][427]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-00.36.37:335][427]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-00.36.37:335][427]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-00.36.37:335][427]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-00.36.37:361][427]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-00.36.37:361][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-00.36.37:361][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-00.36.37:361][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-00.36.37:361][427]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-00.36.37:361][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-00.36.37:361][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-00.36.37:377][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-00.36.37:377][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-00.36.37:377][427]LogInit: FAudioDevice initialized.
+[2021.02.23-00.36.37:377][427]LogAudio: Display: Audio Device (ID: 17) registered with world 'TitleScreen'.
+[2021.02.23-00.36.37:387][427]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-00.36.37:388][427]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.02.22-19.36.37
+[2021.02.23-00.36.37:388][427]LogWorld: Bringing up level for play took: 0.000537
+[2021.02.23-00.36.37:388][427]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.02.23-00.36.37:391][427]PIE: Server logged in
+[2021.02.23-00.36.37:391][427]PIE: Play in editor total start time 0.215 seconds.
+[2021.02.23-00.36.38:843][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.36.38:844][581]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.36.38:844][581]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.36.38:845][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.36.38:863][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-00.36.38:882][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.36.38:922][581]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-00.36.38:923][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.36.38:924][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.36.38:945][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.36.38:949][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.02.23-00.36.38:985][582]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.02.23-00.37.21:749][778]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Levels/TitleScreen.TitleScreen:PersistentLevel.RoidField_2.InstancedStaticMesh' 
+[2021.02.23-00.37.21:773][781]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/ThirdPerson/Levels/TitleScreen.TitleScreen:PersistentLevel.RoidField_2.InstancedStaticMesh)
+[2021.02.23-00.37.22:258][839]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Levels/TitleScreen.TitleScreen:PersistentLevel.RoidField_2.InstancedStaticMesh' 
+[2021.02.23-00.37.22:290][843]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/ThirdPerson/Levels/TitleScreen.TitleScreen:PersistentLevel.RoidField_2.InstancedStaticMesh)
+[2021.02.23-00.37.27:412][455]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.23-00.37.38:765][801]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-00.37.38:804][801]LogFMOD: Creating runtime Studio System
+[2021.02.23-00.37.38:810][801]LogFMOD: Default sample rate = 48000
+[2021.02.23-00.37.38:810][801]LogFMOD: System sample rate = 48000
+[2021.02.23-00.37.38:810][801]LogFMOD: Matching system sample rate 48000
+[2021.02.23-00.37.38:839][801]LogFMOD: Loading Banks
+[2021.02.23-00.37.38:840][801]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-00.37.38:840][801]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-00.37.38:840][801]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-00.37.38:884][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-00.37.38:884][801]PIE: New page: PIE session: TitleScreen (Feb 22, 2021, 2:37:38 PM)
+[2021.02.23-00.37.38:884][801]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.37.38:886][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003003s)
+[2021.02.23-00.37.38:887][801]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.23-00.37.38:887][801]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2021.02.23-00.37.38:887][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/TitleScreen.TitleScreen to /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen (0.003898s)
+[2021.02.23-00.37.38:930][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.02.23-00.37.38:935][801]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.02.23-00.37.38:935][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-00.37.38:935][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-00.37.38:935][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-00.37.38:935][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-00.37.38:935][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-00.37.38:935][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-00.37.38:935][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-00.37.38:935][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-00.37.38:936][801]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-00.37.38:936][801]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-00.37.38:938][801]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-00.37.38:938][801]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-00.37.38:938][801]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-00.37.38:938][801]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-00.37.38:938][801]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-00.37.38:938][801]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-00.37.38:938][801]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-00.37.38:938][801]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-00.37.38:964][801]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-00.37.38:964][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-00.37.38:964][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-00.37.38:964][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-00.37.38:965][801]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-00.37.38:965][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-00.37.38:965][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-00.37.38:980][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-00.37.38:980][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-00.37.38:980][801]LogInit: FAudioDevice initialized.
+[2021.02.23-00.37.38:980][801]LogAudio: Display: Audio Device (ID: 18) registered with world 'TitleScreen'.
+[2021.02.23-00.37.38:991][801]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-00.37.38:992][801]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.02.22-19.37.38
+[2021.02.23-00.37.38:992][801]LogWorld: Bringing up level for play took: 0.000558
+[2021.02.23-00.37.38:992][801]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.02.23-00.37.38:995][801]PIE: Server logged in
+[2021.02.23-00.37.38:995][801]PIE: Play in editor total start time 0.219 seconds.
+[2021.02.23-00.37.42:238][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.37.42:238][174]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.37.42:239][174]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.37.42:239][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.37.42:250][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-00.37.42:267][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.37.42:306][174]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-00.37.42:306][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.37.42:307][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.37.42:342][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.37.42:346][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.02.23-00.37.42:377][175]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.02.23-00.37.47:434][764]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-00.37.47:484][764]LogFMOD: Creating runtime Studio System
+[2021.02.23-00.37.47:487][764]LogFMOD: Default sample rate = 48000
+[2021.02.23-00.37.47:487][764]LogFMOD: System sample rate = 48000
+[2021.02.23-00.37.47:487][764]LogFMOD: Matching system sample rate 48000
+[2021.02.23-00.37.47:515][764]LogFMOD: Loading Banks
+[2021.02.23-00.37.47:516][764]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-00.37.47:516][764]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-00.37.47:516][764]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-00.37.47:554][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-00.37.47:554][764]PIE: New page: PIE session: TitleScreen (Feb 22, 2021, 2:37:47 PM)
+[2021.02.23-00.37.47:554][764]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.37.47:557][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003270s)
+[2021.02.23-00.37.47:558][764]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.23-00.37.47:558][764]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2021.02.23-00.37.47:558][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/TitleScreen.TitleScreen to /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen (0.004299s)
+[2021.02.23-00.37.47:602][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.02.23-00.37.47:604][764]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.02.23-00.37.47:604][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-00.37.47:604][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-00.37.47:604][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-00.37.47:604][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-00.37.47:604][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-00.37.47:604][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-00.37.47:604][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-00.37.47:604][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-00.37.47:605][764]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-00.37.47:605][764]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-00.37.47:607][764]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-00.37.47:607][764]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-00.37.47:607][764]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-00.37.47:607][764]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-00.37.47:607][764]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-00.37.47:607][764]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-00.37.47:607][764]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-00.37.47:607][764]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-00.37.47:633][764]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-00.37.47:633][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-00.37.47:633][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-00.37.47:633][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-00.37.47:633][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-00.37.47:633][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-00.37.47:633][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-00.37.47:649][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-00.37.47:649][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-00.37.47:649][764]LogInit: FAudioDevice initialized.
+[2021.02.23-00.37.47:649][764]LogAudio: Display: Audio Device (ID: 19) registered with world 'TitleScreen'.
+[2021.02.23-00.37.47:659][764]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-00.37.47:660][764]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.02.22-19.37.47
+[2021.02.23-00.37.47:661][764]LogWorld: Bringing up level for play took: 0.000564
+[2021.02.23-00.37.47:661][764]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.02.23-00.37.47:662][764]PIE: Server logged in
+[2021.02.23-00.37.47:663][764]PIE: Play in editor total start time 0.219 seconds.
+[2021.02.23-00.37.53:091][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.37.59:965][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.37.59:966][218]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.37.59:966][218]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.37.59:966][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.37.59:978][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-00.37.59:994][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.38.00:033][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-00.38.00:033][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.38.00:034][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.38.00:054][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.38.00:058][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.02.23-00.38.00:089][219]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.02.23-00.38.01:814][417]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-00.38.01:863][417]LogFMOD: Creating runtime Studio System
+[2021.02.23-00.38.01:867][417]LogFMOD: Default sample rate = 48000
+[2021.02.23-00.38.01:867][417]LogFMOD: System sample rate = 48000
+[2021.02.23-00.38.01:867][417]LogFMOD: Matching system sample rate 48000
+[2021.02.23-00.38.01:894][417]LogFMOD: Loading Banks
+[2021.02.23-00.38.01:894][417]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-00.38.01:894][417]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-00.38.01:894][417]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-00.38.01:933][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-00.38.01:933][417]PIE: New page: PIE session: TitleScreen (Feb 22, 2021, 2:38:01 PM)
+[2021.02.23-00.38.01:933][417]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.38.01:936][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003075s)
+[2021.02.23-00.38.01:937][417]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.23-00.38.01:937][417]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2021.02.23-00.38.01:937][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/TitleScreen.TitleScreen to /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen (0.004097s)
+[2021.02.23-00.38.01:976][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.02.23-00.38.01:978][417]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.02.23-00.38.01:978][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-00.38.01:978][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-00.38.01:978][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-00.38.01:978][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-00.38.01:978][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-00.38.01:978][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-00.38.01:978][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-00.38.01:978][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-00.38.01:978][417]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-00.38.01:978][417]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-00.38.01:980][417]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-00.38.01:981][417]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-00.38.01:981][417]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-00.38.01:981][417]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-00.38.01:981][417]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-00.38.01:981][417]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-00.38.01:981][417]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-00.38.01:981][417]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-00.38.02:005][417]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-00.38.02:006][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-00.38.02:006][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-00.38.02:006][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-00.38.02:006][417]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-00.38.02:006][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-00.38.02:006][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-00.38.02:021][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-00.38.02:021][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-00.38.02:021][417]LogInit: FAudioDevice initialized.
+[2021.02.23-00.38.02:021][417]LogAudio: Display: Audio Device (ID: 20) registered with world 'TitleScreen'.
+[2021.02.23-00.38.02:028][417]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-00.38.02:029][417]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.02.22-19.38.02
+[2021.02.23-00.38.02:029][417]LogWorld: Bringing up level for play took: 0.000540
+[2021.02.23-00.38.02:030][417]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.02.23-00.38.02:032][417]PIE: Server logged in
+[2021.02.23-00.38.02:033][417]PIE: Play in editor total start time 0.208 seconds.
+[2021.02.23-00.38.04:964][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.38.04:964][748]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.38.04:964][748]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.38.04:965][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.38.04:972][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-00.38.04:988][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.38.05:027][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.38.05:027][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.38.05:028][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.38.05:073][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.02.23-00.38.05:103][749]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.02.23-00.38.05:341][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Final_SkySphere)
+[2021.02.23-00.38.07:300][  5]LogEditorViewport: Clicking on Actor (LMB): RoidField_C (RoidField)
+[2021.02.23-00.38.37:699][631]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-00.38.37:753][631]LogFMOD: Creating runtime Studio System
+[2021.02.23-00.38.37:759][631]LogFMOD: Default sample rate = 48000
+[2021.02.23-00.38.37:759][631]LogFMOD: System sample rate = 48000
+[2021.02.23-00.38.37:759][631]LogFMOD: Matching system sample rate 48000
+[2021.02.23-00.38.37:789][631]LogFMOD: Loading Banks
+[2021.02.23-00.38.37:789][631]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-00.38.37:789][631]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-00.38.37:789][631]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-00.38.37:833][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-00.38.37:833][631]PIE: New page: PIE session: TitleScreen (Feb 22, 2021, 2:38:37 PM)
+[2021.02.23-00.38.37:833][631]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.38.37:836][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003208s)
+[2021.02.23-00.38.37:837][631]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.23-00.38.37:837][631]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2021.02.23-00.38.37:837][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/TitleScreen.TitleScreen to /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen (0.004223s)
+[2021.02.23-00.38.37:882][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.02.23-00.38.37:886][631]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.02.23-00.38.37:886][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-00.38.37:886][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-00.38.37:886][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-00.38.37:886][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-00.38.37:886][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-00.38.37:886][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-00.38.37:886][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-00.38.37:886][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-00.38.37:887][631]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-00.38.37:887][631]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-00.38.37:889][631]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-00.38.37:889][631]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-00.38.37:889][631]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-00.38.37:889][631]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-00.38.37:889][631]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-00.38.37:889][631]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-00.38.37:889][631]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-00.38.37:889][631]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-00.38.37:915][631]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-00.38.37:915][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-00.38.37:915][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-00.38.37:915][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-00.38.37:915][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-00.38.37:915][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-00.38.37:915][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-00.38.37:931][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-00.38.37:931][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-00.38.37:931][631]LogInit: FAudioDevice initialized.
+[2021.02.23-00.38.37:931][631]LogAudio: Display: Audio Device (ID: 21) registered with world 'TitleScreen'.
+[2021.02.23-00.38.37:942][631]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-00.38.37:943][631]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.02.22-19.38.37
+[2021.02.23-00.38.37:943][631]LogWorld: Bringing up level for play took: 0.000680
+[2021.02.23-00.38.37:943][631]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.02.23-00.38.37:946][631]PIE: Server logged in
+[2021.02.23-00.38.37:947][631]PIE: Play in editor total start time 0.237 seconds.
+[2021.02.23-00.38.48:381][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.38.52:447][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.38.52:447][340]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_TitleScreen
+[2021.02.23-00.38.52:447][340]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.38.52:447][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.38.52:452][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-00.38.52:464][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.38.52:501][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-00.38.52:502][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.38.52:503][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-00.38.52:535][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-00.38.52:540][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.02.23-00.38.52:572][341]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.02.23-00.38.58:112][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.02.23-00.38.59:492][980]LogSlate: Window 'Save Content' being destroyed
+[2021.02.23-00.38.59:559][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.02.23-00.38.59:578][980]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen9889068447E548224BEBBFA8233B5EC4.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap'
+[2021.02.23-00.38.59:594][980]LogFileHelpers: Saving map 'TitleScreen' took 0.074
+[2021.02.23-00.38.59:607][980]AssetCheck: New page: Asset Save: TitleScreen
+[2021.02.23-00.38.59:607][980]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.23-00.39.00:609][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.02.23-00.39.00:628][ 90]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen60091DFC466D69E3A9B347B019C27D79.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap'
+[2021.02.23-00.39.00:657][ 90]AssetCheck: New page: Asset Save: TitleScreen
+[2021.02.23-00.39.00:657][ 90]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.23-00.39.13:187][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.23-00.41.00:187][980]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Environment/RoidField.RoidField
+[2021.02.23-00.41.03:295][234]LogSlate: Window 'RoidField' being destroyed
+[2021.02.23-00.41.03:301][234]LogSlate: Window 'RoidField' being destroyed
+[2021.02.23-00.41.03:316][234]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.41.03:316][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.41.03:396][234]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.41.03:396][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.41.03:416][234]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.41.03:416][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.41.03:461][234]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.41.03:461][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.41.03:478][234]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.41.03:478][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.41.03:524][234]LogCascade: Quitting Cascade. FXSystem=0x000001E984007B80
+[2021.02.23-00.41.03:542][234]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.41.03:542][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.41.03:584][234]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.23-00.41.03:584][234]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.41.03:584][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.41.22:086][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Environment/RoidField.RoidField
+[2021.02.23-00.41.24:966][617]LogSlate: Window 'RoidField' being destroyed
+[2021.02.23-00.41.24:973][617]LogSlate: Window 'RoidField' being destroyed
+[2021.02.23-00.41.24:988][617]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.41.24:988][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.41.28:351][  8]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Environment/RoidField.RoidField
+[2021.02.23-00.41.41:921][320]LogSlate: Window 'RoidField' being destroyed
+[2021.02.23-00.41.41:928][320]LogSlate: Window 'RoidField' being destroyed
+[2021.02.23-00.41.41:944][320]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.41.41:944][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.43.37:843][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Final_SkySphere)
+[2021.02.23-00.43.40:945][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.02.23-00.43.42:106][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.02.23-00.43.42:127][687]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen8F1ADBA84F3B33E060ADDDB12E3D7C6A.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap'
+[2021.02.23-00.43.42:153][687]AssetCheck: New page: Asset Save: TitleScreen
+[2021.02.23-00.43.42:153][687]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.23-00.43.42:331][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.02.23-00.43.42:349][702]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen66B8EAC74395C5035E015D8F386E1037.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap'
+[2021.02.23-00.43.42:373][702]AssetCheck: New page: Asset Save: TitleScreen
+[2021.02.23-00.43.42:373][702]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.23-00.43.42:631][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.02.23-00.43.42:648][728]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen51B9D9E6492CC2AFEDD218B920164284.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap'
+[2021.02.23-00.43.42:672][728]AssetCheck: New page: Asset Save: TitleScreen
+[2021.02.23-00.43.42:673][728]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.23-00.43.42:915][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.02.23-00.43.42:932][752]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/TitleScreen7EB57728417C1F93BE9EABA78FF6063F.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap'
+[2021.02.23-00.43.42:959][752]AssetCheck: New page: Asset Save: TitleScreen
+[2021.02.23-00.43.42:959][752]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.23-00.47.12:602][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.02.23-00.47.12:683][597]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-00.47.12:684][597]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.23-00.47.12:684][597]LightingResults: New page: Lighting Build
+[2021.02.23-00.47.12:684][597]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.02.23-00.47.12:714][597]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-00.47.12:714][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-00.47.12:714][597]MapCheck: New page: Map Check
+[2021.02.23-00.47.12:714][597]LightingResults: New page: Lighting Build
+[2021.02.23-00.47.12:730][597]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-00.47.12:733][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.02.23-00.47.12:733][597]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-00.47.12:742][597]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.23-00.47.12:742][597]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-00.47.12:761][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.02.23-00.47.12:778][597]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.23-00.47.12:778][597]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2021.02.23-00.47.12:778][597]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.094
+[2021.02.23-00.59.15:261][728]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.02.23-00.59.15:276][728]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.02.23-01.02.00:297][ 30]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2021.02.23-01.02.00:299][ 30]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.02.23-01.02.06:187][673]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player/HUD/NewWidgetBlueprint.NewWidgetBlueprint
+[2021.02.23-01.07.00:172][111]LogSlate: Took 0.010026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.02.23-01.09.30:046][149]LogEditorTransaction: Undo Remove Widget
+[2021.02.23-01.10.02:522][ 73]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2021.02.23-01.10.02:547][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.02.23-01.13.12:405][656]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PauseMenu
+[2021.02.23-01.13.12:432][656]LogMetaData: Removing '/Game/Blueprints/Player/HUD/PauseMenu.SKEL_PauseMenu_C' ref from Metadata '/Game/Blueprints/Player/HUD/NewWidgetBlueprint.PackageMetaData'
+[2021.02.23-01.13.12:432][656]LogMetaData: Removing '/Game/Blueprints/Player/HUD/PauseMenu.PauseMenu_C' ref from Metadata '/Game/Blueprints/Player/HUD/NewWidgetBlueprint.PackageMetaData'
+[2021.02.23-01.13.12:432][656]LogMetaData: Removing '/Game/Blueprints/Player/HUD/PauseMenu.PauseMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Player/HUD/NewWidgetBlueprint.PackageMetaData'
+[2021.02.23-01.13.12:432][656]LogMetaData: Removing '/Game/Blueprints/Player/HUD/PauseMenu.PauseMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Player/HUD/NewWidgetBlueprint.PackageMetaData'
+[2021.02.23-01.13.12:432][656]LogMetaData: Removing '/Game/Blueprints/Player/HUD/PauseMenu.PauseMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Player/HUD/NewWidgetBlueprint.PackageMetaData'
+[2021.02.23-01.13.12:432][656]LogMetaData: Removing '/Game/Blueprints/Player/HUD/PauseMenu.SKEL_PauseMenu_C:PreConstruct' ref from Metadata '/Game/Blueprints/Player/HUD/NewWidgetBlueprint.PackageMetaData'
+[2021.02.23-01.13.12:432][656]LogMetaData: Removing '/Game/Blueprints/Player/HUD/PauseMenu.SKEL_PauseMenu_C:Construct' ref from Metadata '/Game/Blueprints/Player/HUD/NewWidgetBlueprint.PackageMetaData'
+[2021.02.23-01.13.12:432][656]LogMetaData: Removing '/Game/Blueprints/Player/HUD/PauseMenu.SKEL_PauseMenu_C:Tick' ref from Metadata '/Game/Blueprints/Player/HUD/NewWidgetBlueprint.PackageMetaData'
+[2021.02.23-01.13.12:458][656]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PauseMenuC80B787C4DB8D36A2C19529CB1A3A954.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/PauseMenu.uasset'
+[2021.02.23-01.13.12:535][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.02.23-01.13.12:566][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.02.23-01.13.12:584][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.02.23-01.13.12:615][656]AssetCheck: New page: Asset Save: PauseMenu
+[2021.02.23-01.13.12:615][656]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.23-01.13.14:323][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.02.23-01.13.15:285][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.02.23-01.13.15:316][943]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap852B813A4B6BD01E1E9E378B1007CD34.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.23-01.13.15:342][943]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.23-01.13.15:342][943]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.13.21:680][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.02.23-01.13.21:712][643]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/TitleScreen.TitleScreen
+[2021.02.23-01.13.21:712][643]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.23-01.13.21:712][643]LightingResults: New page: Lighting Build
+[2021.02.23-01.13.21:712][643]LoadErrors: New page: Loading map: TitleScreen.umap
+[2021.02.23-01.13.21:713][643]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.13.21:713][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.13.21:713][643]MapCheck: New page: Map Check
+[2021.02.23-01.13.21:713][643]LightingResults: New page: Lighting Build
+[2021.02.23-01.13.21:731][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.13.21:735][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.02.23-01.13.21:736][643]LogAudio: Display: Audio Device (ID: 1) registered with world 'TitleScreen'.
+[2021.02.23-01.13.21:738][643]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.23-01.13.21:738][643]LogAIModule: Creating AISystem for world TitleScreen
+[2021.02.23-01.13.21:758][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.02.23-01.13.21:774][643]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.23-01.13.21:774][643]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2021.02.23-01.13.21:774][643]LogFileHelpers: Loading map 'TitleScreen' took 0.062
+[2021.02.23-01.13.24:750][983]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Levels/BP_TITLE_WIDGETS/Main_Menu.Main_Menu
+[2021.02.23-01.13.56:616][911]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.13.56:616][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.13.56:628][911]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.13.56:628][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.14.02:147][510]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Levels/TitleScreen.TitleScreen:PersistentLevel.TitleScreen
+[2021.02.23-01.14.02:451][511]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {16982897-2e7f-401e-aab2-e76fe18d6dd1}
+
+[2021.02.23-01.14.56:035][167]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.23-01.15.58:629][309]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.23-01.15.58:635][309]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.23-01.16.18:500][141]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.23-01.19.32:211][499]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.02.23-01.19.32:300][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.02.23-01.21.02:485][996]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.02.23-01.21.02:549][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.02.23-01.22.39:298][170]BlueprintLog: New page: Compile PauseMenu
+[2021.02.23-01.22.39:336][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.02.23-01.24.11:504][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.02.23-01.24.11:507][904]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Levels/TitleScreen' took 0.036
+[2021.02.23-01.24.11:508][904]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.02.23-01.24.11:527][904]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.02.23-01.24.11:527][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.02.23-01.24.11:561][904]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonCharacter_Auto3A9531D2E489F58C2D8F9F6A7BAD0FC7D.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2021.02.23-01.24.11:562][904]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/HUD/PauseMenu] ([1] browsable assets)...
+[2021.02.23-01.24.11:562][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/HUD/PauseMenu]
+[2021.02.23-01.24.11:574][904]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PauseMenu_Auto37177724C453BD211645924A50FCBF506.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Autosaves/Game/Blueprints/Player/HUD/PauseMenu_Auto3.uasset'
+[2021.02.23-01.24.11:575][904]LogFileHelpers: Auto-saving content packages took 0.067
+[2021.02.23-01.25.10:195][ 85]BlueprintLog: New page: Compile PauseMenu
+[2021.02.23-01.25.10:231][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.02.23-01.26.05:939][958]BlueprintLog: New page: Compile PauseMenu
+[2021.02.23-01.26.05:979][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.02.23-01.26.41:992][277]BlueprintLog: New page: Compile PauseMenu
+[2021.02.23-01.26.42:030][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.02.23-01.26.42:778][345]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PauseMenuE59365E94DA383B223549A84688B9B44.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/PauseMenu.uasset'
+[2021.02.23-01.26.42:789][345]AssetCheck: New page: Asset Save: PauseMenu
+[2021.02.23-01.26.42:789][345]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.23-01.27.08:322][714]BlueprintLog: New page: Compile PauseMenu
+[2021.02.23-01.27.08:372][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.02.23-01.27.08:777][741]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PauseMenu4DC1D827434B7ECFFA3B668ED5483861.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/PauseMenu.uasset'
+[2021.02.23-01.27.08:790][741]AssetCheck: New page: Asset Save: PauseMenu
+[2021.02.23-01.27.08:790][741]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.23-01.27.24:921][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.02.23-01.27.26:787][450]LogSlate: Window 'Save Content' being destroyed
+[2021.02.23-01.27.26:869][450]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonCharacter9A403D9C4B89BD4A7F8CD7B9581CEEC7.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.02.23-01.27.26:917][450]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.27.26:917][450]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.23-01.27.26:917][450]LightingResults: New page: Lighting Build
+[2021.02.23-01.27.26:918][450]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.02.23-01.27.26:966][450]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.27.26:966][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.27.27:021][450]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.27.27:021][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.27.27:021][450]MapCheck: New page: Map Check
+[2021.02.23-01.27.27:021][450]LightingResults: New page: Lighting Build
+[2021.02.23-01.27.27:047][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.27.27:054][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.02.23-01.27.27:055][450]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.27.27:064][450]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.23-01.27.27:064][450]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.27.27:095][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.02.23-01.27.27:112][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.23-01.27.27:112][450]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2021.02.23-01.27.27:112][450]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.196
+[2021.02.23-01.27.27:140][450]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.02.23-01.27.27:140][450]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.23-01.27.28:069][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.02.23-01.27.28:103][533]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap024A7D1D46253F5EC419B3B87704C0E2.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.23-01.27.28:130][533]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.23-01.27.28:130][533]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.27.34:537][786]LogTemp: Repeating last play command: Standalone Game
+[2021.02.23-01.27.34:575][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.02.23-01.28.07:226][130]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.28.07:230][130]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.28.07:230][130]LogFMOD: System sample rate = 48000
+[2021.02.23-01.28.07:230][130]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.28.07:260][130]LogFMOD: Loading Banks
+[2021.02.23-01.28.07:260][130]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.28.07:260][130]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.28.07:260][130]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.28.07:307][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.28.07:307][130]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:28:07 PM)
+[2021.02.23-01.28.07:307][130]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.28.07:320][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012835s)
+[2021.02.23-01.28.07:321][130]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.28.07:321][130]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2021.02.23-01.28.07:321][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013960s)
+[2021.02.23-01.28.07:352][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.02.23-01.28.07:354][130]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.02.23-01.28.07:354][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.28.07:354][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.28.07:354][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.28.07:354][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.28.07:354][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.28.07:354][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.28.07:354][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.28.07:354][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.28.07:354][130]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.28.07:354][130]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.28.07:357][130]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.28.07:357][130]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.28.07:357][130]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.28.07:357][130]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.28.07:357][130]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.28.07:357][130]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.28.07:358][130]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.28.07:358][130]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.28.07:384][130]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.28.07:385][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.28.07:385][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.28.07:385][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.28.07:385][130]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.28.07:385][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.28.07:385][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.28.07:401][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.28.07:401][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.28.07:401][130]LogInit: FAudioDevice initialized.
+[2021.02.23-01.28.07:401][130]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.28.07:411][130]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.28.07:411][130]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.28.07
+[2021.02.23-01.28.07:413][130]LogWorld: Bringing up level for play took: 0.001277
+[2021.02.23-01.28.07:413][130]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.02.23-01.28.07:415][130]PIE: Server logged in
+[2021.02.23-01.28.07:416][130]PIE: Play in editor total start time 0.227 seconds.
+[2021.02.23-01.28.38:813][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.28.38:814][789]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.28.38:814][789]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.28.38:814][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.28.38:825][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.28.38:830][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.28.38:856][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.28.38:856][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.28.38:857][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.28.38:888][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.28.38:891][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.02.23-01.28.38:926][790]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.02.23-01.29.47:964][724]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.29.48:026][724]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.29.48:042][724]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.29.48:042][724]LogFMOD: System sample rate = 48000
+[2021.02.23-01.29.48:042][724]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.29.48:099][724]LogFMOD: Loading Banks
+[2021.02.23-01.29.48:099][724]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.29.48:099][724]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.29.48:099][724]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.29.48:136][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.29.48:136][724]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:29:48 PM)
+[2021.02.23-01.29.48:136][724]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.29.48:147][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010417s)
+[2021.02.23-01.29.48:147][724]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.29.48:148][724]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2021.02.23-01.29.48:148][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011839s)
+[2021.02.23-01.29.48:177][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.02.23-01.29.48:183][724]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.02.23-01.29.48:183][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.29.48:183][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.29.48:183][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.29.48:183][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.29.48:183][724]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.29.48:183][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.29.48:183][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.29.48:184][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.29.48:184][724]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.29.48:184][724]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.29.48:187][724]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.29.48:187][724]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.29.48:187][724]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.29.48:187][724]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.29.48:187][724]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.29.48:187][724]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.29.48:187][724]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.29.48:187][724]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.29.48:216][724]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.29.48:216][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.29.48:217][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.29.48:217][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.29.48:217][724]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.29.48:217][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.29.48:217][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.29.48:232][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.29.48:232][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.29.48:232][724]LogInit: FAudioDevice initialized.
+[2021.02.23-01.29.48:232][724]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.29.48:242][724]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.29.48:243][724]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.29.48
+[2021.02.23-01.29.48:244][724]LogWorld: Bringing up level for play took: 0.001352
+[2021.02.23-01.29.48:244][724]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.02.23-01.29.48:246][724]PIE: Server logged in
+[2021.02.23-01.29.48:247][724]PIE: Play in editor total start time 0.269 seconds.
+[2021.02.23-01.29.49:957][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.29.49:957][904]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.29.49:957][904]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.29.49:958][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.29.49:973][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.29.49:984][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.29.50:021][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.29.50:021][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.29.50:022][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.29.50:050][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.02.23-01.29.50:074][905]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.02.23-01.30.27:624][673]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.30.27:687][673]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.30.27:704][673]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.30.27:704][673]LogFMOD: System sample rate = 48000
+[2021.02.23-01.30.27:704][673]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.30.27:786][673]LogFMOD: Loading Banks
+[2021.02.23-01.30.27:787][673]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.30.27:787][673]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.30.27:787][673]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.30.27:825][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.30.27:825][673]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:30:27 PM)
+[2021.02.23-01.30.27:825][673]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.30.27:835][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010130s)
+[2021.02.23-01.30.27:836][673]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.30.27:836][673]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2021.02.23-01.30.27:836][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011229s)
+[2021.02.23-01.30.27:865][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.02.23-01.30.27:871][673]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.02.23-01.30.27:871][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.30.27:871][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.30.27:871][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.30.27:871][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.30.27:871][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.30.27:871][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.30.27:871][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.30.27:871][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.30.27:872][673]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.30.27:872][673]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.30.27:874][673]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.30.27:874][673]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.30.27:874][673]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.30.27:874][673]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.30.27:874][673]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.30.27:874][673]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.30.27:874][673]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.30.27:874][673]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.30.27:900][673]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.30.27:900][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.30.27:900][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.30.27:900][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.30.27:901][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.30.27:901][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.30.27:901][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.30.27:916][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.30.27:916][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.30.27:916][673]LogInit: FAudioDevice initialized.
+[2021.02.23-01.30.27:916][673]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.30.27:925][673]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.30.27:927][673]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.30.27
+[2021.02.23-01.30.27:927][673]LogWorld: Bringing up level for play took: 0.001254
+[2021.02.23-01.30.27:927][673]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.02.23-01.30.27:929][673]PIE: Server logged in
+[2021.02.23-01.30.27:930][673]PIE: Play in editor total start time 0.294 seconds.
+[2021.02.23-01.30.31:127][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.30.31:127][ 33]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.30.31:127][ 33]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.30.31:128][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.30.31:145][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.30.31:152][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.30.31:180][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.30.31:181][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.30.31:182][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.30.31:215][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.02.23-01.30.31:240][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.02.23-01.31.08:290][333]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.02.23-01.31.42:468][142]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.02.23-01.31.42:516][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.02.23-01.32.47:070][ 37]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.02.23-01.32.47:073][ 37]LogBlueprint: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\ThirdPerson\Levels\ThirdPersonExampleMap.umap: [Compiler] Could not find a variable named "PauseMenu" in 'ThirdPersonExampleMap_C'.
+Make sure 'ThirdPersonExampleMap_C' has been compiled for  Set PauseMenu
+[2021.02.23-01.32.47:073][ 37]LogBlueprint: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\ThirdPerson\Levels\ThirdPersonExampleMap.umap: [Compiler] Could not find a variable named "PauseMenu" in 'ThirdPersonExampleMap_C'.
+Make sure 'ThirdPersonExampleMap_C' has been compiled for  Get PauseMenu
+[2021.02.23-01.32.47:074][ 37]LogBlueprint: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\ThirdPerson\Levels\ThirdPersonExampleMap.umap: [Compiler] Could not find a variable named "PauseMenu" in 'ThirdPersonExampleMap_C'.
+Make sure 'ThirdPersonExampleMap_C' has been compiled for  Get PauseMenu
+[2021.02.23-01.32.47:074][ 37]LogBlueprint: Warning: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\ThirdPerson\Levels\ThirdPersonExampleMap.umap: [Compiler] Could not find a variable named "PauseMenu" in 'ThirdPersonExampleMap_C'.
+Make sure 'ThirdPersonExampleMap_C' has been compiled for  Get PauseMenu
+[2021.02.23-01.32.47:075][ 37]LogBlueprint: Error: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\ThirdPerson\Levels\ThirdPersonExampleMap.umap: [Compiler] The property associated with  Pause Menu  could not be found in '/Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap_C'
+[2021.02.23-01.32.47:075][ 37]LogBlueprint: Error: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\ThirdPerson\Levels\ThirdPersonExampleMap.umap: [Compiler] The property associated with  Pause Menu  could not be found in '/Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap_C'
+[2021.02.23-01.32.47:075][ 37]LogBlueprint: Error: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\ThirdPerson\Levels\ThirdPersonExampleMap.umap: [Compiler] The property associated with  Pause Menu  could not be found in '/Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap_C'
+[2021.02.23-01.32.47:075][ 37]LogBlueprint: Error: [AssetLog] C:\Users\karen\Documents\GitHub\SpaceWindRepository\SpaceWind\Content\ThirdPerson\Levels\ThirdPersonExampleMap.umap: [Compiler] The property associated with  Pause Menu  could not be found in '/Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap_C'
+[2021.02.23-01.32.47:131][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.02.23-01.33.04:926][589]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.02.23-01.33.04:977][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.23-01.33.43:744][ 81]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.02.23-01.33.43:795][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.02.23-01.34.13:696][642]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.02.23-01.34.13:749][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.02.23-01.34.15:452][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.02.23-01.34.15:490][791]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap2B1FD0654C266EDD1422998B96554998.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.23-01.34.15:510][791]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.087
+[2021.02.23-01.34.15:522][791]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.23-01.34.15:522][791]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.34.17:175][950]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.34.17:227][950]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.34.17:246][950]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.34.17:246][950]LogFMOD: System sample rate = 48000
+[2021.02.23-01.34.17:246][950]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.34.17:309][950]LogFMOD: Loading Banks
+[2021.02.23-01.34.17:309][950]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.34.17:309][950]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.34.17:309][950]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.34.17:366][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.34.17:366][950]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:34:17 PM)
+[2021.02.23-01.34.17:366][950]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.34.17:385][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019436s)
+[2021.02.23-01.34.17:386][950]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.34.17:386][950]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2021.02.23-01.34.17:387][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020627s)
+[2021.02.23-01.34.17:417][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.02.23-01.34.17:418][950]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.02.23-01.34.17:418][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.34.17:418][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.34.17:418][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.34.17:418][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.34.17:418][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.34.17:418][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.34.17:418][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.34.17:418][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.34.17:419][950]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.34.17:419][950]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.34.17:421][950]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.34.17:421][950]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.34.17:421][950]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.34.17:421][950]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.34.17:421][950]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.34.17:421][950]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.34.17:421][950]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.34.17:421][950]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.34.17:447][950]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.34.17:448][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.34.17:448][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.34.17:448][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.34.17:448][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.34.17:448][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.34.17:448][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.34.17:464][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.34.17:464][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.34.17:464][950]LogInit: FAudioDevice initialized.
+[2021.02.23-01.34.17:464][950]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.34.17:470][950]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.34.17:472][950]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.34.17
+[2021.02.23-01.34.17:472][950]LogWorld: Bringing up level for play took: 0.001355
+[2021.02.23-01.34.17:472][950]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.02.23-01.34.17:475][950]PIE: Server logged in
+[2021.02.23-01.34.17:475][950]PIE: Play in editor total start time 0.286 seconds.
+[2021.02.23-01.34.30:628][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.34.30:628][503]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.34.30:629][503]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.34.30:629][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.34.30:636][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.34.30:643][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.34.30:674][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.34.30:674][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.34.30:675][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.34.30:721][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.02.23-01.34.30:747][504]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.02.23-01.35.38:071][100]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.23-01.36.06:566][569]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.23-01.36.06:630][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.02.23-01.36.57:102][203]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.23-01.36.57:168][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.02.23-01.37.05:148][883]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.37.05:186][883]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.37.05:192][883]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.37.05:192][883]LogFMOD: System sample rate = 48000
+[2021.02.23-01.37.05:192][883]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.37.05:232][883]LogFMOD: Loading Banks
+[2021.02.23-01.37.05:232][883]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.37.05:232][883]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.37.05:232][883]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.37.05:267][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.37.05:267][883]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:37:05 PM)
+[2021.02.23-01.37.05:315][883]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.37.05:328][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012740s)
+[2021.02.23-01.37.05:329][883]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.37.05:329][883]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2021.02.23-01.37.05:329][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013886s)
+[2021.02.23-01.37.05:363][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.02.23-01.37.05:364][883]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.02.23-01.37.05:364][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.37.05:364][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.37.05:364][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.37.05:364][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.37.05:364][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.37.05:364][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.37.05:364][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.37.05:364][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.37.05:364][883]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.37.05:364][883]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.37.05:367][883]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.37.05:367][883]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.37.05:367][883]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.37.05:367][883]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.37.05:367][883]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.37.05:367][883]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.37.05:367][883]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.37.05:367][883]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.37.05:393][883]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.37.05:394][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.37.05:394][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.37.05:394][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.37.05:394][883]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.37.05:394][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.37.05:394][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.37.05:409][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.37.05:409][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.37.05:409][883]LogInit: FAudioDevice initialized.
+[2021.02.23-01.37.05:409][883]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.37.05:415][883]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.37.05:417][883]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.37.05
+[2021.02.23-01.37.05:417][883]LogWorld: Bringing up level for play took: 0.001323
+[2021.02.23-01.37.05:417][883]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.02.23-01.37.05:420][883]PIE: Server logged in
+[2021.02.23-01.37.05:420][883]PIE: Play in editor total start time 0.258 seconds.
+[2021.02.23-01.37.29:728][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.37.29:728][675]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.37.29:728][675]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.37.29:729][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.37.29:741][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.37.29:747][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.37.29:779][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.37.29:779][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.37.29:780][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.37.29:817][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.37.29:821][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.02.23-01.37.29:853][676]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.02.23-01.41.21:315][561]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.23-01.41.21:382][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.02.23-01.41.23:177][726]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.41.23:216][726]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.41.23:234][726]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.41.23:234][726]LogFMOD: System sample rate = 48000
+[2021.02.23-01.41.23:234][726]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.41.23:293][726]LogFMOD: Loading Banks
+[2021.02.23-01.41.23:293][726]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.41.23:293][726]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.41.23:293][726]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.41.23:336][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.41.23:336][726]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:41:23 PM)
+[2021.02.23-01.41.23:336][726]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.41.23:350][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013758s)
+[2021.02.23-01.41.23:351][726]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.41.23:351][726]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2021.02.23-01.41.23:351][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015062s)
+[2021.02.23-01.41.23:385][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.02.23-01.41.23:386][726]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.02.23-01.41.23:387][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.41.23:387][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.41.23:387][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.41.23:387][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.41.23:387][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.41.23:387][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.41.23:387][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.41.23:387][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.41.23:387][726]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.41.23:387][726]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.41.23:389][726]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.41.23:389][726]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.41.23:389][726]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.41.23:389][726]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.41.23:389][726]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.41.23:389][726]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.41.23:389][726]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.41.23:389][726]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.41.23:418][726]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.41.23:418][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.41.23:418][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.41.23:418][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.41.23:418][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.41.23:418][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.41.23:418][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.41.23:434][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.41.23:434][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.41.23:434][726]LogInit: FAudioDevice initialized.
+[2021.02.23-01.41.23:434][726]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.41.23:442][726]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.41.23:444][726]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.41.23
+[2021.02.23-01.41.23:444][726]LogWorld: Bringing up level for play took: 0.001296
+[2021.02.23-01.41.23:444][726]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.02.23-01.41.23:446][726]PIE: Server logged in
+[2021.02.23-01.41.23:447][726]PIE: Play in editor total start time 0.258 seconds.
+[2021.02.23-01.41.28:044][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.41.28:044][253]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.41.28:045][253]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.41.28:045][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.41.28:065][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.41.28:072][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.41.28:104][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.41.28:105][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.41.28:106][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.41.28:136][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.41.28:140][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.02.23-01.41.28:166][254]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.02.23-01.41.33:359][800]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.23-01.42.33:120][269]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.23-01.42.33:125][269]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.23-01.42.34:310][392]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.42.34:357][392]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.42.34:361][392]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.42.34:361][392]LogFMOD: System sample rate = 48000
+[2021.02.23-01.42.34:361][392]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.42.34:387][392]LogFMOD: Loading Banks
+[2021.02.23-01.42.34:387][392]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.42.34:387][392]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.42.34:387][392]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.42.34:426][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.42.34:426][392]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:42:34 PM)
+[2021.02.23-01.42.34:426][392]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.42.34:439][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013205s)
+[2021.02.23-01.42.34:440][392]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.42.34:440][392]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2021.02.23-01.42.34:440][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014375s)
+[2021.02.23-01.42.34:475][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.02.23-01.42.34:477][392]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.02.23-01.42.34:478][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.42.34:478][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.42.34:478][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.42.34:478][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.42.34:478][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.42.34:478][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.42.34:478][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.42.34:478][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.42.34:478][392]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.42.34:478][392]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.42.34:480][392]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.42.34:480][392]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.42.34:480][392]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.42.34:480][392]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.42.34:480][392]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.42.34:480][392]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.42.34:481][392]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.42.34:481][392]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.42.34:507][392]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.42.34:508][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.42.34:508][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.42.34:508][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.42.34:508][392]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.42.34:508][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.42.34:508][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.42.34:523][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.42.34:523][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.42.34:523][392]LogInit: FAudioDevice initialized.
+[2021.02.23-01.42.34:523][392]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.42.34:533][392]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.42.34:535][392]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.42.34
+[2021.02.23-01.42.34:535][392]LogWorld: Bringing up level for play took: 0.001248
+[2021.02.23-01.42.34:535][392]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.02.23-01.42.34:538][392]PIE: Server logged in
+[2021.02.23-01.42.34:538][392]PIE: Play in editor total start time 0.215 seconds.
+[2021.02.23-01.42.40:726][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.42.40:726][111]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.42.40:726][111]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.42.40:727][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.42.40:745][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.42.40:753][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.42.40:784][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.42.40:784][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.42.40:785][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.42.40:813][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.42.40:817][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.02.23-01.42.40:842][112]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.02.23-01.42.42:612][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.02.23-01.42.47:715][315]LogSlate: Window 'Save Content' being destroyed
+[2021.02.23-01.42.47:825][315]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBPACA122E74A64DC9F1DD624A874CDFD1D.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.23-01.42.47:857][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.23-01.42.47:893][315]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap20E8B954483CE5B24366EE83D1430764.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.23-01.42.47:910][315]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.083
+[2021.02.23-01.42.47:936][315]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.42.47:937][315]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.23-01.42.47:937][315]LightingResults: New page: Lighting Build
+[2021.02.23-01.42.47:937][315]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.02.23-01.42.47:986][315]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.42.47:986][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.42.48:026][315]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.42.48:026][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.42.48:026][315]MapCheck: New page: Map Check
+[2021.02.23-01.42.48:026][315]LightingResults: New page: Lighting Build
+[2021.02.23-01.42.48:054][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.42.48:062][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.02.23-01.42.48:113][315]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.42.48:113][315]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.42.48:127][315]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.23-01.42.48:160][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.02.23-01.42.48:177][315]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.23-01.42.48:177][315]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2021.02.23-01.42.48:177][315]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.241
+[2021.02.23-01.42.48:209][315]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.23-01.42.48:209][315]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.23-01.42.48:209][315]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.42.51:134][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Final_SkySphere)
+[2021.02.23-01.42.52:156][731]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.42.52:197][731]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.42.52:214][731]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.42.52:214][731]LogFMOD: System sample rate = 48000
+[2021.02.23-01.42.52:214][731]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.42.52:261][731]LogFMOD: Loading Banks
+[2021.02.23-01.42.52:262][731]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.42.52:262][731]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.42.52:262][731]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.42.52:307][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.42.52:307][731]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:42:52 PM)
+[2021.02.23-01.42.52:307][731]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.42.52:327][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020014s)
+[2021.02.23-01.42.52:328][731]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.42.52:328][731]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2021.02.23-01.42.52:328][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021037s)
+[2021.02.23-01.42.52:358][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.02.23-01.42.52:363][731]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.02.23-01.42.52:363][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.42.52:363][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.42.52:363][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.42.52:363][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.42.52:363][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.42.52:363][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.42.52:363][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.42.52:363][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.42.52:364][731]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.42.52:364][731]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.42.52:366][731]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.42.52:366][731]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.42.52:366][731]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.42.52:366][731]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.42.52:366][731]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.42.52:366][731]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.42.52:366][731]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.42.52:366][731]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.42.52:392][731]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.42.52:392][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.42.52:392][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.42.52:392][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.42.52:392][731]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.42.52:392][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.42.52:392][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.42.52:408][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.42.52:408][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.42.52:408][731]LogInit: FAudioDevice initialized.
+[2021.02.23-01.42.52:408][731]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.42.52:417][731]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.42.52:419][731]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.42.52
+[2021.02.23-01.42.52:419][731]LogWorld: Bringing up level for play took: 0.001294
+[2021.02.23-01.42.52:419][731]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.02.23-01.42.52:422][731]PIE: Server logged in
+[2021.02.23-01.42.52:422][731]PIE: Play in editor total start time 0.253 seconds.
+[2021.02.23-01.42.55:621][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.42.55:621][ 94]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.42.55:621][ 94]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.42.55:622][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.42.55:640][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.42.55:664][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.42.55:692][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.42.55:692][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.42.55:693][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.42.55:727][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.02.23-01.42.55:771][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.02.23-01.42.56:777][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.02.23-01.42.56:803][192]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.42.56:803][192]Cmd: MAP LOAD FILE="../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.23-01.42.56:803][192]LightingResults: New page: Lighting Build
+[2021.02.23-01.42.56:803][192]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.02.23-01.42.56:804][192]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.42.56:804][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.42.56:805][192]MapCheck: New page: Map Check
+[2021.02.23-01.42.56:805][192]LightingResults: New page: Lighting Build
+[2021.02.23-01.42.56:833][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.42.56:836][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.02.23-01.42.56:855][192]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.42.56:856][192]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.42.56:872][192]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.23-01.42.56:905][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.02.23-01.42.56:921][192]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.23-01.42.56:921][192]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2021.02.23-01.42.56:921][192]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.118
+[2021.02.23-01.43.03:468][832]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.02.23-01.43.31:606][ 65]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.02.23-01.43.31:666][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.02.23-01.43.34:528][327]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.43.34:588][327]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.43.34:605][327]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.43.34:605][327]LogFMOD: System sample rate = 48000
+[2021.02.23-01.43.34:605][327]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.43.34:657][327]LogFMOD: Loading Banks
+[2021.02.23-01.43.34:657][327]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.43.34:657][327]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.43.34:658][327]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.43.34:697][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.43.34:697][327]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:43:34 PM)
+[2021.02.23-01.43.34:725][327]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.43.34:738][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012402s)
+[2021.02.23-01.43.34:738][327]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.43.34:739][327]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2021.02.23-01.43.34:739][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013608s)
+[2021.02.23-01.43.34:772][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.02.23-01.43.34:773][327]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.02.23-01.43.34:773][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.43.34:773][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.43.34:773][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.43.34:773][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.43.34:773][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.43.34:773][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.43.34:773][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.43.34:773][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.43.34:773][327]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.43.34:773][327]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.43.34:776][327]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.43.34:776][327]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.43.34:776][327]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.43.34:776][327]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.43.34:776][327]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.43.34:776][327]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.43.34:776][327]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.43.34:776][327]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.43.34:802][327]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.43.34:803][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.43.34:803][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.43.34:803][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.43.34:803][327]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.43.34:803][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.43.34:803][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.43.34:819][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.43.34:819][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.43.34:819][327]LogInit: FAudioDevice initialized.
+[2021.02.23-01.43.34:819][327]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.43.34:825][327]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.43.34:827][327]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.43.34
+[2021.02.23-01.43.34:827][327]LogWorld: Bringing up level for play took: 0.001344
+[2021.02.23-01.43.34:827][327]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.02.23-01.43.34:830][327]PIE: Server logged in
+[2021.02.23-01.43.34:830][327]PIE: Play in editor total start time 0.288 seconds.
+[2021.02.23-01.43.47:387][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.43.47:387][810]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.43.47:388][810]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.43.47:388][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.43.47:409][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.43.47:420][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.43.47:459][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.43.47:459][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.43.47:460][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.43.47:489][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.43.47:493][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.02.23-01.43.47:517][811]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.02.23-01.45.59:098][480]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.23-01.45.59:163][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.02.23-01.46.01:691][728]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.46.01:737][728]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.46.01:753][728]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.46.01:753][728]LogFMOD: System sample rate = 48000
+[2021.02.23-01.46.01:753][728]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.46.01:827][728]LogFMOD: Loading Banks
+[2021.02.23-01.46.01:827][728]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.46.01:827][728]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.46.01:827][728]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.46.01:867][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.46.01:867][728]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:46:01 PM)
+[2021.02.23-01.46.01:905][728]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.46.01:920][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015169s)
+[2021.02.23-01.46.01:921][728]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.46.01:921][728]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2021.02.23-01.46.01:921][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016382s)
+[2021.02.23-01.46.01:955][728]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.02.23-01.46.01:956][728]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.02.23-01.46.01:956][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.46.01:956][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.46.01:956][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.46.01:956][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.46.01:956][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.46.01:956][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.46.01:956][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.46.01:956][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.46.01:957][728]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.46.01:957][728]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.46.01:959][728]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.46.01:959][728]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.46.01:959][728]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.46.01:959][728]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.46.01:959][728]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.46.01:959][728]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.46.01:959][728]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.46.01:959][728]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.46.01:984][728]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.46.01:985][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.46.01:985][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.46.01:985][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.46.01:985][728]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.46.01:985][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.46.01:985][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.46.02:000][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.46.02:000][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.46.02:000][728]LogInit: FAudioDevice initialized.
+[2021.02.23-01.46.02:000][728]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.46.02:009][728]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.46.02:011][728]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.46.02
+[2021.02.23-01.46.02:011][728]LogWorld: Bringing up level for play took: 0.001291
+[2021.02.23-01.46.02:012][728]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.02.23-01.46.02:014][728]PIE: Server logged in
+[2021.02.23-01.46.02:014][728]PIE: Play in editor total start time 0.31 seconds.
+[2021.02.23-01.46.07:624][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.46.07:624][378]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.46.07:624][378]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.46.07:624][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.46.07:636][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.46.07:641][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.46.07:670][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.46.07:671][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.46.07:672][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.46.07:698][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.46.07:702][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.02.23-01.46.07:728][379]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.02.23-01.47.02:702][827]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.02.23-01.47.02:767][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.02.23-01.47.04:787][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.47.04:827][ 10]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.47.04:833][ 10]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.47.04:833][ 10]LogFMOD: System sample rate = 48000
+[2021.02.23-01.47.04:833][ 10]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.47.04:874][ 10]LogFMOD: Loading Banks
+[2021.02.23-01.47.04:874][ 10]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.47.04:874][ 10]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.47.04:874][ 10]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.47.04:917][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.47.04:917][ 10]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:47:04 PM)
+[2021.02.23-01.47.04:917][ 10]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.47.04:928][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010611s)
+[2021.02.23-01.47.04:928][ 10]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.47.04:929][ 10]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2021.02.23-01.47.04:929][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011697s)
+[2021.02.23-01.47.04:963][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.02.23-01.47.04:964][ 10]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.02.23-01.47.04:964][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.47.04:964][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.47.04:964][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.47.04:964][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.47.04:964][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.47.04:964][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.47.04:964][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.47.04:964][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.47.04:965][ 10]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.47.04:965][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.47.04:967][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.47.04:967][ 10]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.47.04:967][ 10]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.47.04:967][ 10]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.47.04:967][ 10]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.47.04:967][ 10]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.47.04:967][ 10]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.47.04:967][ 10]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.47.04:995][ 10]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.47.04:995][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.47.04:995][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.47.04:995][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.47.04:995][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.47.04:995][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.47.04:995][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.47.05:011][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.47.05:011][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.47.05:011][ 10]LogInit: FAudioDevice initialized.
+[2021.02.23-01.47.05:011][ 10]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.47.05:020][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.47.05:022][ 10]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.47.05
+[2021.02.23-01.47.05:022][ 10]LogWorld: Bringing up level for play took: 0.001285
+[2021.02.23-01.47.05:022][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.02.23-01.47.05:025][ 10]PIE: Server logged in
+[2021.02.23-01.47.05:025][ 10]PIE: Play in editor total start time 0.226 seconds.
+[2021.02.23-01.47.10:063][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.47.10:063][579]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.47.10:063][579]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.47.10:064][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.47.10:078][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.47.10:083][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.47.10:114][579]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.47.10:114][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.47.10:115][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.47.10:155][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.47.10:159][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.02.23-01.47.10:183][580]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.02.23-01.50.02:094][506]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.23-01.50.02:160][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.02.23-01.50.04:238][686]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.50.04:277][686]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.50.04:281][686]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.50.04:281][686]LogFMOD: System sample rate = 48000
+[2021.02.23-01.50.04:281][686]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.50.04:306][686]LogFMOD: Loading Banks
+[2021.02.23-01.50.04:306][686]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.50.04:306][686]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.50.04:306][686]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.50.04:348][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.50.04:348][686]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:50:04 PM)
+[2021.02.23-01.50.04:348][686]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.50.04:360][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011840s)
+[2021.02.23-01.50.04:361][686]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.50.04:361][686]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2021.02.23-01.50.04:361][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012839s)
+[2021.02.23-01.50.04:395][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.02.23-01.50.04:396][686]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.02.23-01.50.04:396][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.50.04:396][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.50.04:396][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.50.04:396][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.50.04:396][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.50.04:396][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.50.04:396][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.50.04:396][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.50.04:396][686]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.50.04:396][686]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.50.04:399][686]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.50.04:399][686]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.50.04:399][686]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.50.04:399][686]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.50.04:399][686]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.50.04:399][686]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.50.04:399][686]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.50.04:399][686]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.50.04:426][686]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.50.04:427][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.50.04:427][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.50.04:427][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.50.04:427][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.50.04:427][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.50.04:427][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.50.04:443][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.50.04:443][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.50.04:443][686]LogInit: FAudioDevice initialized.
+[2021.02.23-01.50.04:443][686]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.50.04:449][686]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.50.04:451][686]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.50.04
+[2021.02.23-01.50.04:451][686]LogWorld: Bringing up level for play took: 0.001299
+[2021.02.23-01.50.04:451][686]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.02.23-01.50.04:454][686]PIE: Server logged in
+[2021.02.23-01.50.04:454][686]PIE: Play in editor total start time 0.203 seconds.
+[2021.02.23-01.50.09:371][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.50.09:371][247]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.50.09:371][247]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.50.09:373][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.50.09:414][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.50.09:425][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.50.09:464][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.50.09:464][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.50.09:465][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.50.09:504][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.50.09:508][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.02.23-01.50.09:532][248]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.02.23-01.50.32:167][465]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.02.23-01.50.32:222][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.02.23-01.50.38:169][975]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.23-01.50.38:217][975]LogFMOD: Creating runtime Studio System
+[2021.02.23-01.50.38:233][975]LogFMOD: Default sample rate = 48000
+[2021.02.23-01.50.38:233][975]LogFMOD: System sample rate = 48000
+[2021.02.23-01.50.38:233][975]LogFMOD: Matching system sample rate 48000
+[2021.02.23-01.50.38:271][975]LogFMOD: Loading Banks
+[2021.02.23-01.50.38:271][975]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-01.50.38:271][975]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-01.50.38:271][975]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-01.50.38:316][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.23-01.50.38:316][975]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2021, 3:50:38 PM)
+[2021.02.23-01.50.38:316][975]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.50.38:328][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012345s)
+[2021.02.23-01.50.38:329][975]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.23-01.50.38:330][975]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2021.02.23-01.50.38:330][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013632s)
+[2021.02.23-01.50.38:362][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.02.23-01.50.38:364][975]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.02.23-01.50.38:364][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.23-01.50.38:364][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.23-01.50.38:364][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.23-01.50.38:364][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.23-01.50.38:364][975]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.23-01.50.38:364][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.23-01.50.38:364][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.23-01.50.38:364][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.23-01.50.38:364][975]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.23-01.50.38:364][975]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.23-01.50.38:367][975]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-01.50.38:367][975]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-01.50.38:367][975]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.23-01.50.38:367][975]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.23-01.50.38:367][975]LogAudioMixer: Display: 4: BackLeft
+[2021.02.23-01.50.38:367][975]LogAudioMixer: Display: 5: BackRight
+[2021.02.23-01.50.38:367][975]LogAudioMixer: Display: 6: SideLeft
+[2021.02.23-01.50.38:367][975]LogAudioMixer: Display: 7: SideRight
+[2021.02.23-01.50.38:394][975]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.02.23-01.50.38:394][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.23-01.50.38:394][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.23-01.50.38:394][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.23-01.50.38:394][975]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.23-01.50.38:394][975]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.23-01.50.38:394][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.23-01.50.38:410][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.23-01.50.38:410][975]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.23-01.50.38:410][975]LogInit: FAudioDevice initialized.
+[2021.02.23-01.50.38:410][975]LogAudio: Display: Audio Device (ID: 34) registered with world 'ThirdPersonExampleMap'.
+[2021.02.23-01.50.38:416][975]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.23-01.50.38:418][975]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.22-20.50.38
+[2021.02.23-01.50.38:418][975]LogWorld: Bringing up level for play took: 0.001262
+[2021.02.23-01.50.38:418][975]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.02.23-01.50.38:421][975]PIE: Server logged in
+[2021.02.23-01.50.38:421][975]PIE: Play in editor total start time 0.239 seconds.
+[2021.02.23-01.50.39:996][162]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.23-01.50.39:997][162]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.02.23-01.50.39:997][162]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.02.23-01.50.55:049][948]LogPackageName: SearchForPackageOnDisk took   0.093s, but failed to resolve TtileScreen.umap.
+[2021.02.23-01.50.55:050][948]LogLevel: Warning: WARNING: The map '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' does not exist.
+[2021.02.23-01.50.55:135][948]LogPackageName: SearchForPackageOnDisk took   0.084s, but failed to resolve TtileScreen.umap.
+[2021.02.23-01.50.55:135][948]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.02.23-01.50.55:135][948]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.02.23-01.50.55:135][948]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2021.02.23-01.50.55:135][948]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2021.02.23-01.50.55:135][948]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.02.23-01.50.55:135][948]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2021.02.23-01.50.55:135][948]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2021.02.23-01.50.55:261][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.50.55:261][948]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.23-01.50.55:261][948]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-01.50.55:261][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.50.55:277][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.23-01.50.55:282][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-01.50.55:312][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.23-01.50.55:312][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.50.55:313][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.23-01.50.55:353][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-01.50.55:357][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.02.23-01.50.55:473][949]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.02.23-01.51.04:945][ 70]LogSlate: Window 'Message Log' being destroyed
+[2021.02.23-01.51.04:952][ 70]LogSlate: Window 'Message Log' being destroyed
+[2021.02.23-01.51.07:207][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.02.23-01.51.08:460][318]LogSlate: Window 'Save Content' being destroyed
+[2021.02.23-01.51.08:541][318]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBPD6438E6D4B05D920773838A9542617A1.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.23-01.51.08:580][318]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonCharacter9DC40ED643CDF898C4B3C0875637E5F7.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.02.23-01.51.08:610][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.23-01.51.08:647][318]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap146C39A74092E0EDE9ECB89009D41891.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.23-01.51.08:664][318]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.083
+[2021.02.23-01.51.08:678][318]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.23-01.51.08:678][318]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.23-01.51.08:678][318]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.23-01.51.08:678][318]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.51.09:183][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.02.23-01.51.09:220][369]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap2ECDDA644BC100FCBE731EB51C72F6F3.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.23-01.51.09:247][369]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.23-01.51.09:247][369]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.51.09:514][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.23-01.51.09:550][394]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMapEC493AC54AC35E05C6A50AA54B9726E3.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.23-01.51.09:577][394]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.23-01.51.09:578][394]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.23-01.51.09:829][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.23-01.51.09:866][418]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMapE4D6DCCC43FB6CEC34459E9CFD9E04B9.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.23-01.51.09:894][418]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.23-01.51.09:894][418]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
