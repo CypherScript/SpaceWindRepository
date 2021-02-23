@@ -1490,3 +1490,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.23-02.44.57:195][228]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
 [2021.02.23-02.44.57:195][228]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
 [2021.02.23-02.44.57:195][228]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.02.23-02.46.37:688][ 20]LogFMOD: File has changed: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.23-02.46.37:744][ 20]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/BankLookup0C129D1743BF7C8EFA351785AFDB5600.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.02.23-02.46.37:753][ 20]LogFMOD: Loading strings bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/Master.strings.bank
+[2021.02.23-02.46.37:755][ 20]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Treasure_Open
+[2021.02.23-02.46.37:755][ 20]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {ed618e2b-94de-4e74-b309-11914d8c1db5}
+
+[2021.02.23-02.46.37:755][ 20]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {ed618e2b-94de-4e74-b309-11914d8c1db5}
+
+[2021.02.23-02.46.37:790][ 20]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {ed618e2b-94de-4e74-b309-11914d8c1db5}
+
+[2021.02.23-02.46.37:795][ 20]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Treasure_Open8F4FFB7F49CDC6157F08BD976D4429D3.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Events/SFX/Treasure_Open.uasset'
+[2021.02.23-02.46.37:804][ 20]LogFMOD: Warning: e:\jk\workspace\2.1_UE4.26_Win64\studio_api\src\fmod_objectlookup.h(122) - Lookup failed for EventModel: {ed618e2b-94de-4e74-b309-11914d8c1db5}
+
+[2021.02.23-02.46.37:825][ 20]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/AssetLookup7A148E914B043F07EC9E09A2CB77253C.tmp' to '../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.02.23-02.46.37:943][ 20]LogFMOD: Display: Loaded bank lookup
+[2021.02.23-02.46.37:943][ 20]LogFMOD: Display: Loaded asset lookup
+[2021.02.23-02.46.37:954][ 20]LogFMOD: Default sample rate = 48000
+[2021.02.23-02.46.37:954][ 20]LogFMOD: System sample rate = 48000
+[2021.02.23-02.46.37:954][ 20]LogFMOD: Matching system sample rate 48000
+[2021.02.23-02.46.38:000][ 20]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-02.46.38:000][ 20]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.23-02.46.38:000][ 20]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-02.46.38:000][ 20]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-02.46.38:158][ 20]LogFMOD: Default sample rate = 48000
+[2021.02.23-02.46.38:158][ 20]LogFMOD: System sample rate = 48000
+[2021.02.23-02.46.38:158][ 20]LogFMOD: Matching system sample rate 48000
+[2021.02.23-02.46.38:189][ 20]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.23-02.46.38:189][ 20]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.23-02.46.38:189][ 20]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.23-02.46.38:189][ 20]LogFMOD: Loading bank: ../../../../../../Users/karen/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.23-02.46.38:248][ 20]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.23-02.46.38:248][ 20]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.02.23-02.46.38:248][ 20]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.02.23-02.46.38:248][ 20]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Treasure_Open.Treasure_Open
