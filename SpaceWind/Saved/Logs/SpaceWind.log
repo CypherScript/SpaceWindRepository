@@ -1231,3 +1231,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.23-12.27.18:742][771]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/sailboatplayerloop_v4_PhysicsAsset.sailboatplayerloop_v4_PhysicsAsset
 [2021.02.23-12.27.18:742][771]LogContentValidation: Display: Validating Skeleton /Game/Animations/sailboatplayerloop_v4_Skeleton.sailboatplayerloop_v4_Skeleton
 [2021.02.23-12.27.18:742][771]LogContentValidation: Display: Validating SkeletalMesh /Game/Animations/sailboatplayerloop_v4.sailboatplayerloop_v4
+[2021.02.23-12.29.57:702][287]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.02.23-12.30.04:937][287]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.02.23-12.30.51:685][287]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.02.23-12.30.51:692][287]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.02.23-12.30.51:699][287]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.02.23-12.31.09:189][336]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> playerloop_AnimBP
+[2021.02.23-12.31.09:202][336]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.02.23-12.31.16:193][754]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/playerloop_AnimBP.playerloop_AnimBP
+[2021.02.23-12.31.16:200][754]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.23-12.31.16:415][754]LogTexture: Display: Building textures: T_particles (AutoDXT, 512X512)
+[2021.02.23-12.31.16:418][754]LogClass: Warning: Enum '/Game/Particles_Wind_Control_System/Blueprints/Enumerations/P_Leaves_Enum.P_Leaves_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.02.23-12.31.16:454][754]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.02.23-12.33.34:628][ 27]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/sailboatplayerloop_v4_Anim.sailboatplayerloop_v4_Anim
+[2021.02.23-12.33.34:631][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.23-12.33.34:922][ 27]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.23-12.36.09:058][577]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/playerloop_AnimBP3EA74487413EA1366B7AD4B47254E1BD.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Animations/playerloop_AnimBP.uasset'
+[2021.02.23-12.36.09:071][577]AssetCheck: New page: Asset Save: playerloop_AnimBP
+[2021.02.23-12.36.09:071][577]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/playerloop_AnimBP.playerloop_AnimBP
+[2021.02.23-12.36.11:263][707]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-12.36.11:263][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-12.36.11:274][707]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-12.36.11:274][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-12.36.11:358][707]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-12.36.11:358][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-12.36.13:167][810]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/sailboatplayerloop_v4_Anim1B3994AF42FCE045A6DB93AB089370CD.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Animations/sailboatplayerloop_v4_Anim.uasset'
+[2021.02.23-12.36.13:178][810]AssetCheck: New page: Asset Save: sailboatplayerloop_v4_Anim
+[2021.02.23-12.36.13:178][810]LogContentValidation: Display: Validating AnimSequence /Game/Animations/sailboatplayerloop_v4_Anim.sailboatplayerloop_v4_Anim
+[2021.02.23-12.36.21:657][318]LogSlate: Window 'sailboatplayerloop_v4_Anim' being destroyed
+[2021.02.23-12.36.21:661][318]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-12.36.21:661][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-12.36.21:683][318]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-12.36.21:683][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-12.36.21:751][318]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-12.36.21:751][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-12.36.24:161][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.02.23-12.36.24:171][459]LogSavePackage: Moving '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/AnimationTestC38C0196476DFE20373BAF86660851B8.tmp' to '../../../../../../Users/siren/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Animations/AnimationTest.umap'
+[2021.02.23-12.36.24:197][459]AssetCheck: New page: Asset Save: AnimationTest
+[2021.02.23-12.36.24:197][459]LogContentValidation: Display: Validating World /Game/Animations/AnimationTest.AnimationTest
+[2021.02.23-12.36.26:739][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
