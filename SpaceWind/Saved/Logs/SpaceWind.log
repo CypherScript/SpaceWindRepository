@@ -926,3 +926,956 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.25-02.28.18:742][480]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap21E0E0E64CBCCC01C8A66697A6FB492D.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
 [2021.02.25-02.28.18:774][480]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.02.25-02.28.18:774][480]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.25-02.28.59:904][ 67]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.25-02.28.59:964][ 67]LogClass: Warning: Enum '/Game/Particles_Wind_Control_System/Blueprints/Enumerations/P_Leaves_Enum.P_Leaves_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.02.25-02.28.59:991][ 67]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.02.25-02.29.00:978][ 67]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.25-02.29.34:702][ 70]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.25-02.29.54:676][253]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.02.25-02.30.04:482][838]BlueprintLog: New page: Compile PauseMenu
+[2021.02.25-02.30.04:527][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.02.25-02.30.04:561][838]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.25-02.30.08:507][ 62]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.25-02.31.40:166][477]BlueprintLog: New page: Compile PauseMenu
+[2021.02.25-02.31.40:197][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.02.25-02.31.48:022][944]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.31.48:027][944]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.31.48:029][944]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.31.48:029][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.31.48:045][944]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.31.48:045][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.31.48:990][998]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-02.31.49:032][998]LogFMOD: Creating runtime Studio System
+[2021.02.25-02.31.49:037][998]LogFMOD: Default sample rate = 48000
+[2021.02.25-02.31.49:037][998]LogFMOD: System sample rate = 48000
+[2021.02.25-02.31.49:037][998]LogFMOD: Matching system sample rate 48000
+[2021.02.25-02.31.49:064][998]LogFMOD: Loading Banks
+[2021.02.25-02.31.49:064][998]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.25-02.31.49:064][998]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.25-02.31.49:064][998]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.25-02.31.49:064][998]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.25-02.31.49:103][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-02.31.49:103][998]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 24, 2021, 4:31:49 PM)
+[2021.02.25-02.31.49:104][998]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.25-02.31.49:105][998]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.25-02.31.49:105][998]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.31.49:118][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012651s)
+[2021.02.25-02.31.49:119][998]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-02.31.49:119][998]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2021.02.25-02.31.49:119][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013816s)
+[2021.02.25-02.31.49:160][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.02.25-02.31.49:162][998]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.25-02.31.49:162][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-02.31.49:162][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-02.31.49:162][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-02.31.49:162][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-02.31.49:162][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-02.31.49:162][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-02.31.49:162][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-02.31.49:162][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-02.31.49:162][998]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-02.31.49:162][998]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-02.31.49:165][998]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-02.31.49:165][998]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-02.31.49:165][998]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.25-02.31.49:165][998]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.25-02.31.49:165][998]LogAudioMixer: Display: 4: BackLeft
+[2021.02.25-02.31.49:165][998]LogAudioMixer: Display: 5: BackRight
+[2021.02.25-02.31.49:165][998]LogAudioMixer: Display: 6: SideLeft
+[2021.02.25-02.31.49:165][998]LogAudioMixer: Display: 7: SideRight
+[2021.02.25-02.31.49:182][998]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.25-02.31.49:183][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-02.31.49:183][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-02.31.49:183][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-02.31.49:183][998]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-02.31.49:183][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-02.31.49:183][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.25-02.31.49:197][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-02.31.49:197][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-02.31.49:197][998]LogInit: FAudioDevice initialized.
+[2021.02.25-02.31.49:197][998]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-02.31.49:305][998]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-02.31.49:308][998]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.24-21.31.49
+[2021.02.25-02.31.49:308][998]LogWorld: Bringing up level for play took: 0.001956
+[2021.02.25-02.31.49:308][998]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.02.25-02.31.49:314][998]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.25-02.31.49:315][998]PIE: Server logged in
+[2021.02.25-02.31.49:316][998]PIE: Play in editor total start time 0.313 seconds.
+[2021.02.25-02.31.49:318][998]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:558][999]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:572][  0]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:589][  1]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:605][  2]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:622][  3]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:639][  4]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:656][  5]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:672][  6]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:689][  7]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:706][  8]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:722][  9]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:739][ 10]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:756][ 11]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:772][ 12]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:789][ 13]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:806][ 14]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:822][ 15]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:840][ 16]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:856][ 17]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:872][ 18]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:890][ 19]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:906][ 20]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:923][ 21]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:940][ 22]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:955][ 23]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:972][ 24]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.49:988][ 25]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:006][ 26]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:023][ 27]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:039][ 28]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:056][ 29]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:072][ 30]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:089][ 31]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:105][ 32]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:123][ 33]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:139][ 34]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:156][ 35]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:172][ 36]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:189][ 37]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:206][ 38]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:223][ 39]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:239][ 40]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:256][ 41]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:273][ 42]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:289][ 43]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:305][ 44]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:322][ 45]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:339][ 46]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:355][ 47]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:372][ 48]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:389][ 49]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:406][ 50]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:422][ 51]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:439][ 52]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:455][ 53]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:472][ 54]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:489][ 55]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:506][ 56]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:522][ 57]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:539][ 58]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:556][ 59]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:572][ 60]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:589][ 61]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:605][ 62]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:622][ 63]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:639][ 64]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:655][ 65]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:672][ 66]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:689][ 67]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:705][ 68]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:722][ 69]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:739][ 70]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:756][ 71]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:772][ 72]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:789][ 73]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:806][ 74]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:823][ 75]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:839][ 76]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:856][ 77]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:872][ 78]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:889][ 79]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:906][ 80]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:923][ 81]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:939][ 82]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:956][ 83]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:973][ 84]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.50:989][ 85]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:005][ 86]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:022][ 87]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:039][ 88]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:055][ 89]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:072][ 90]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:089][ 91]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:106][ 92]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:122][ 93]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:139][ 94]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:156][ 95]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:173][ 96]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:189][ 97]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:206][ 98]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:223][ 99]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:239][100]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:256][101]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:273][102]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:289][103]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:306][104]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:323][105]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:339][106]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:356][107]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:373][108]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:389][109]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:406][110]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:423][111]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:439][112]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:456][113]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:473][114]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:490][115]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:507][116]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:523][117]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:540][118]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:557][119]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:573][120]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:590][121]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:607][122]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:622][123]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:639][124]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:656][125]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:673][126]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:689][127]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:706][128]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:723][129]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:739][130]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:756][131]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:773][132]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:789][133]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:806][134]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:823][135]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:839][136]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:856][137]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:873][138]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:889][139]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:906][140]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:923][141]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:940][142]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:956][143]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:973][144]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.51:989][145]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:006][146]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:022][147]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:041][148]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:055][149]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:072][150]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:089][151]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:106][152]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:122][153]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:139][154]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:156][155]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:173][156]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:189][157]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:206][158]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:222][159]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:239][160]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:256][161]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:272][162]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:289][163]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:306][164]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:322][165]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:339][166]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:356][167]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:373][168]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:389][169]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:406][170]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:423][171]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:439][172]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:456][173]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:473][174]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:489][175]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:505][176]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:522][177]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:539][178]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:556][179]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:573][180]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:590][181]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.31.52:606][182]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.25-02.31.52:606][182]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.02.25-02.31.52:606][182]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.02.25-02.31.52:606][182]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.32.05:229][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.32.05:229][931]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.32.05:229][931]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.32.05:230][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.32.05:238][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-02.32.05:243][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.32.05:268][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.25-02.32.05:269][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.32.05:270][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.32.05:290][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.32.05:334][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.02.25-02.32.05:362][932]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.02.25-02.32.06:725][ 12]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.25-02.33.12:741][608]BlueprintLog: New page: Compile PauseMenu
+[2021.02.25-02.33.12:791][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.02.25-02.33.13:207][626]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PauseMenu1EF9ABCA4C49806DD8F9D199E251CD25.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/PauseMenu.uasset'
+[2021.02.25-02.33.13:219][626]AssetCheck: New page: Asset Save: PauseMenu
+[2021.02.25-02.33.13:219][626]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.25-02.33.13:901][667]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.33.13:905][667]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.33.13:908][667]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.33.13:908][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.33.13:921][667]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.33.13:921][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.33.15:716][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Final_SkySphere)
+[2021.02.25-02.33.16:185][797]Cmd: DELETE
+[2021.02.25-02.33.16:185][797]Cmd: ACTOR DELETE
+[2021.02.25-02.33.16:193][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.25-02.33.16:212][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.02.25-02.33.16:214][797]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.02.25-02.33.18:156][914]Cmd: TRANSACTION UNDO
+[2021.02.25-02.33.18:156][914]LogEditorTransaction: Undo Delete Actors
+[2021.02.25-02.33.18:601][931]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2021.02.25-02.33.18:710][938]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2021.02.25-02.33.19:480][984]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-02.33.19:532][984]LogFMOD: Creating runtime Studio System
+[2021.02.25-02.33.19:536][984]LogFMOD: Default sample rate = 48000
+[2021.02.25-02.33.19:536][984]LogFMOD: System sample rate = 48000
+[2021.02.25-02.33.19:536][984]LogFMOD: Matching system sample rate 48000
+[2021.02.25-02.33.19:562][984]LogFMOD: Loading Banks
+[2021.02.25-02.33.19:562][984]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.25-02.33.19:562][984]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.25-02.33.19:563][984]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.25-02.33.19:563][984]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.25-02.33.19:602][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-02.33.19:602][984]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 24, 2021, 4:33:19 PM)
+[2021.02.25-02.33.19:602][984]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.33.19:614][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012247s)
+[2021.02.25-02.33.19:615][984]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-02.33.19:616][984]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2021.02.25-02.33.19:616][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013757s)
+[2021.02.25-02.33.19:632][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.02.25-02.33.19:633][984]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.02.25-02.33.19:633][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-02.33.19:633][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-02.33.19:633][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-02.33.19:633][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-02.33.19:633][984]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-02.33.19:633][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-02.33.19:633][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-02.33.19:633][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-02.33.19:633][984]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-02.33.19:633][984]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-02.33.19:636][984]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-02.33.19:636][984]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-02.33.19:636][984]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.25-02.33.19:636][984]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.25-02.33.19:636][984]LogAudioMixer: Display: 4: BackLeft
+[2021.02.25-02.33.19:636][984]LogAudioMixer: Display: 5: BackRight
+[2021.02.25-02.33.19:636][984]LogAudioMixer: Display: 6: SideLeft
+[2021.02.25-02.33.19:636][984]LogAudioMixer: Display: 7: SideRight
+[2021.02.25-02.33.19:653][984]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.25-02.33.19:653][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-02.33.19:653][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-02.33.19:653][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-02.33.19:653][984]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-02.33.19:653][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-02.33.19:654][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.25-02.33.19:667][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-02.33.19:667][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-02.33.19:667][984]LogInit: FAudioDevice initialized.
+[2021.02.25-02.33.19:667][984]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-02.33.19:672][984]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-02.33.19:675][984]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.24-21.33.19
+[2021.02.25-02.33.19:675][984]LogWorld: Bringing up level for play took: 0.001896
+[2021.02.25-02.33.19:675][984]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.02.25-02.33.19:677][984]PIE: Server logged in
+[2021.02.25-02.33.19:678][984]PIE: Play in editor total start time 0.185 seconds.
+[2021.02.25-02.33.19:678][984]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:705][985]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:722][986]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:740][987]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:755][988]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:772][989]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:789][990]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:805][991]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:822][992]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:839][993]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:855][994]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:873][995]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:889][996]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:906][997]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:922][998]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:938][999]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:956][  0]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:972][  1]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.19:989][  2]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:006][  3]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:022][  4]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:038][  5]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:055][  6]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:072][  7]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:089][  8]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:105][  9]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:122][ 10]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:139][ 11]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:155][ 12]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:172][ 13]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:189][ 14]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:205][ 15]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:221][ 16]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:238][ 17]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:254][ 18]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:271][ 19]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:288][ 20]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:305][ 21]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:321][ 22]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:338][ 23]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:355][ 24]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:372][ 25]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:388][ 26]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:405][ 27]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:422][ 28]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:438][ 29]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:455][ 30]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:472][ 31]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:488][ 32]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:505][ 33]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:522][ 34]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:539][ 35]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:555][ 36]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:572][ 37]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:589][ 38]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:604][ 39]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:621][ 40]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:638][ 41]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:655][ 42]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:671][ 43]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:688][ 44]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:705][ 45]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:722][ 46]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:738][ 47]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:755][ 48]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:772][ 49]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:788][ 50]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:805][ 51]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:822][ 52]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:838][ 53]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:855][ 54]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:872][ 55]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:889][ 56]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:905][ 57]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:922][ 58]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:939][ 59]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:956][ 60]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:971][ 61]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.20:988][ 62]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:004][ 63]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:021][ 64]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:038][ 65]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:055][ 66]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:071][ 67]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:088][ 68]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:105][ 69]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:122][ 70]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:138][ 71]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:155][ 72]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:172][ 73]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:188][ 74]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:206][ 75]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:222][ 76]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:239][ 77]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:255][ 78]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:272][ 79]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:289][ 80]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:305][ 81]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:322][ 82]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:338][ 83]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:355][ 84]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:372][ 85]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:388][ 86]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:405][ 87]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:424][ 88]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:438][ 89]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:455][ 90]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:471][ 91]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:488][ 92]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:505][ 93]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:522][ 94]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:538][ 95]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:555][ 96]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:571][ 97]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:588][ 98]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:605][ 99]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:621][100]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:638][101]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:655][102]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:671][103]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:688][104]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:705][105]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:722][106]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:738][107]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:755][108]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:772][109]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:789][110]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:805][111]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:822][112]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:839][113]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:855][114]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:873][115]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:889][116]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:904][117]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:921][118]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.21:938][119]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.25-02.33.21:938][119]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.02.25-02.33.21:938][119]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.02.25-02.33.21:939][119]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.33.34:010][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.33.34:010][833]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.33.34:010][833]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.33.34:011][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.33.34:016][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-02.33.34:030][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.33.34:044][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.33.34:045][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.33.34:046][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.33.34:065][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.02.25-02.33.34:120][834]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.02.25-02.33.36:666][985]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.25-02.33.56:914][161]LogEditorTransaction: Undo Resize Widget
+[2021.02.25-02.33.57:477][182]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.25-02.34.01:037][389]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.25-02.34.04:172][573]BlueprintLog: New page: Compile PauseMenu
+[2021.02.25-02.34.04:200][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.02.25-02.34.05:202][625]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PauseMenu67FFD0F640B76765734B98B385A72B06.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/PauseMenu.uasset'
+[2021.02.25-02.34.05:212][625]AssetCheck: New page: Asset Save: PauseMenu
+[2021.02.25-02.34.05:212][625]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.25-02.34.05:767][658]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.25-02.34.05:769][658]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.34.05:772][658]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.34.05:775][658]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.34.05:776][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.34.05:790][658]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.34.05:790][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.34.07:082][733]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-02.34.07:107][733]LogPlayLevel: Warning: Cancelling Open Transaction 'Edit Slider Bar Color' to start PIE session.
+[2021.02.25-02.34.07:152][733]LogFMOD: Creating runtime Studio System
+[2021.02.25-02.34.07:156][733]LogFMOD: Default sample rate = 48000
+[2021.02.25-02.34.07:157][733]LogFMOD: System sample rate = 48000
+[2021.02.25-02.34.07:157][733]LogFMOD: Matching system sample rate 48000
+[2021.02.25-02.34.07:183][733]LogFMOD: Loading Banks
+[2021.02.25-02.34.07:183][733]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.25-02.34.07:183][733]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.25-02.34.07:183][733]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.25-02.34.07:183][733]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.25-02.34.07:222][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-02.34.07:222][733]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 24, 2021, 4:34:07 PM)
+[2021.02.25-02.34.07:222][733]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.34.07:234][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012175s)
+[2021.02.25-02.34.07:235][733]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-02.34.07:235][733]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2021.02.25-02.34.07:235][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013476s)
+[2021.02.25-02.34.07:257][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.02.25-02.34.07:258][733]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.02.25-02.34.07:258][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-02.34.07:258][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-02.34.07:258][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-02.34.07:258][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-02.34.07:258][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-02.34.07:258][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-02.34.07:258][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-02.34.07:258][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-02.34.07:258][733]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-02.34.07:258][733]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-02.34.07:261][733]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-02.34.07:261][733]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-02.34.07:261][733]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.25-02.34.07:261][733]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.25-02.34.07:261][733]LogAudioMixer: Display: 4: BackLeft
+[2021.02.25-02.34.07:261][733]LogAudioMixer: Display: 5: BackRight
+[2021.02.25-02.34.07:261][733]LogAudioMixer: Display: 6: SideLeft
+[2021.02.25-02.34.07:261][733]LogAudioMixer: Display: 7: SideRight
+[2021.02.25-02.34.07:287][733]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.25-02.34.07:287][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-02.34.07:287][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-02.34.07:287][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-02.34.07:287][733]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-02.34.07:287][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-02.34.07:287][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.25-02.34.07:301][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-02.34.07:301][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-02.34.07:301][733]LogInit: FAudioDevice initialized.
+[2021.02.25-02.34.07:301][733]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-02.34.07:306][733]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-02.34.07:309][733]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.24-21.34.07
+[2021.02.25-02.34.07:309][733]LogWorld: Bringing up level for play took: 0.001888
+[2021.02.25-02.34.07:309][733]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.02.25-02.34.07:312][733]PIE: Server logged in
+[2021.02.25-02.34.07:312][733]PIE: Play in editor total start time 0.217 seconds.
+[2021.02.25-02.34.07:313][733]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:351][734]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:369][735]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:388][736]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:410][737]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:430][738]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:452][739]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:473][740]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:493][741]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:509][742]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:527][743]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:548][744]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:569][745]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:590][746]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:606][747]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:625][748]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:639][749]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:657][750]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:673][751]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:690][752]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:706][753]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:723][754]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:740][755]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:756][756]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:773][757]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:790][758]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:806][759]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:823][760]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:840][761]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:856][762]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:873][763]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:890][764]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:907][765]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:923][766]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:939][767]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:956][768]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:972][769]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.07:989][770]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:006][771]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:023][772]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:039][773]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:056][774]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:073][775]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:089][776]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:106][777]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:123][778]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:140][779]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:156][780]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:173][781]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:190][782]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:206][783]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:223][784]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:240][785]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:256][786]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:273][787]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:290][788]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:306][789]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:322][790]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:339][791]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:356][792]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:372][793]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:389][794]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:406][795]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:423][796]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:440][797]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:456][798]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:473][799]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:490][800]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:506][801]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:523][802]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:540][803]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.08:556][804]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.25-02.34.08:557][804]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.02.25-02.34.08:557][804]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.02.25-02.34.08:557][804]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.34.23:303][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.34.23:303][678]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.34.23:303][678]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.34.23:304][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.34.23:315][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-02.34.23:318][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.34.23:332][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.34.23:332][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.34.23:333][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.34.23:368][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.02.25-02.34.23:402][679]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.02.25-02.34.25:277][788]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.25-02.34.51:253][109]LogEditorTransaction: Undo Reset to Default
+[2021.02.25-02.34.51:592][120]Cmd: TRANSACTION UNDO
+[2021.02.25-02.34.51:592][120]LogEditorTransaction: Undo Reset to Default
+[2021.02.25-02.34.51:946][135]Cmd: TRANSACTION UNDO
+[2021.02.25-02.34.51:946][135]LogEditorTransaction: Undo Reset to Default
+[2021.02.25-02.34.52:358][157]Cmd: TRANSACTION UNDO
+[2021.02.25-02.34.52:358][157]LogEditorTransaction: Undo Reset to Default
+[2021.02.25-02.35.01:875][671]BlueprintLog: New page: Compile PauseMenu
+[2021.02.25-02.35.01:902][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.02.25-02.35.02:408][695]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PauseMenuFA6980E64369E59DE2BBAC9FF3A9319D.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/PauseMenu.uasset'
+[2021.02.25-02.35.02:418][695]AssetCheck: New page: Asset Save: PauseMenu
+[2021.02.25-02.35.02:418][695]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.25-02.35.03:628][767]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.35.03:631][767]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.35.03:635][767]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.35.03:635][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.35.03:648][767]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.35.03:648][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.35.04:596][821]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-02.35.04:642][821]LogFMOD: Creating runtime Studio System
+[2021.02.25-02.35.04:646][821]LogFMOD: Default sample rate = 48000
+[2021.02.25-02.35.04:646][821]LogFMOD: System sample rate = 48000
+[2021.02.25-02.35.04:646][821]LogFMOD: Matching system sample rate 48000
+[2021.02.25-02.35.04:674][821]LogFMOD: Loading Banks
+[2021.02.25-02.35.04:674][821]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.25-02.35.04:674][821]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.25-02.35.04:674][821]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.25-02.35.04:674][821]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.25-02.35.04:712][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-02.35.04:712][821]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 24, 2021, 4:35:04 PM)
+[2021.02.25-02.35.04:712][821]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.35.04:724][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012475s)
+[2021.02.25-02.35.04:725][821]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-02.35.04:726][821]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2021.02.25-02.35.04:726][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013819s)
+[2021.02.25-02.35.04:746][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.02.25-02.35.04:747][821]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.02.25-02.35.04:747][821]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-02.35.04:747][821]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-02.35.04:747][821]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-02.35.04:747][821]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-02.35.04:747][821]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-02.35.04:747][821]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-02.35.04:747][821]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-02.35.04:747][821]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-02.35.04:747][821]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-02.35.04:747][821]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-02.35.04:750][821]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-02.35.04:750][821]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-02.35.04:750][821]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.25-02.35.04:750][821]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.25-02.35.04:750][821]LogAudioMixer: Display: 4: BackLeft
+[2021.02.25-02.35.04:750][821]LogAudioMixer: Display: 5: BackRight
+[2021.02.25-02.35.04:750][821]LogAudioMixer: Display: 6: SideLeft
+[2021.02.25-02.35.04:750][821]LogAudioMixer: Display: 7: SideRight
+[2021.02.25-02.35.04:776][821]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.25-02.35.04:776][821]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-02.35.04:776][821]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-02.35.04:776][821]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-02.35.04:776][821]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-02.35.04:776][821]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-02.35.04:776][821]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.25-02.35.04:790][821]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-02.35.04:790][821]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-02.35.04:790][821]LogInit: FAudioDevice initialized.
+[2021.02.25-02.35.04:790][821]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-02.35.04:794][821]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-02.35.04:797][821]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.24-21.35.04
+[2021.02.25-02.35.04:797][821]LogWorld: Bringing up level for play took: 0.001873
+[2021.02.25-02.35.04:797][821]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.02.25-02.35.04:799][821]PIE: Server logged in
+[2021.02.25-02.35.04:800][821]PIE: Play in editor total start time 0.19 seconds.
+[2021.02.25-02.35.04:800][821]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:826][822]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:842][823]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:858][824]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:875][825]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:891][826]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:908][827]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:925][828]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:941][829]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:958][830]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:975][831]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.04:991][832]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:008][833]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:024][834]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:041][835]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:058][836]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:074][837]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:091][838]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:108][839]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:124][840]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:141][841]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:158][842]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:174][843]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:192][844]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:208][845]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:225][846]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:243][847]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:258][848]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:274][849]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:291][850]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:308][851]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:325][852]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:342][853]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:358][854]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:374][855]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:391][856]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:408][857]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:425][858]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:441][859]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:457][860]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:474][861]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:491][862]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:508][863]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:524][864]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:541][865]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:558][866]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:575][867]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:591][868]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:608][869]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:624][870]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:641][871]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:658][872]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:675][873]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:691][874]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:708][875]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:724][876]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:741][877]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:758][878]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.05:775][879]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.25-02.35.05:775][879]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.02.25-02.35.05:775][879]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.02.25-02.35.05:775][879]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.13:114][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.35.13:114][309]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.35.13:114][309]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.35.13:115][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.35.13:125][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-02.35.13:129][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.35.13:142][309]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.25-02.35.13:142][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.35.13:143][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.35.13:175][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.35.13:177][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.02.25-02.35.13:205][310]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.02.25-02.35.13:901][350]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.25-02.35.19:358][587]BlueprintLog: New page: Compile PauseMenu
+[2021.02.25-02.35.19:384][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.02.25-02.35.20:040][620]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PauseMenuFFF97C0C4BC8D36C64BD1CB7E3C36327.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/HUD/PauseMenu.uasset'
+[2021.02.25-02.35.20:051][620]AssetCheck: New page: Asset Save: PauseMenu
+[2021.02.25-02.35.20:051][620]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player/HUD/PauseMenu.PauseMenu
+[2021.02.25-02.35.20:807][665]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.35.20:810][665]LogSlate: Window 'PauseMenu' being destroyed
+[2021.02.25-02.35.20:813][665]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.35.20:813][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.35.20:828][665]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.35.20:828][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.35.22:187][743]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-02.35.22:242][743]LogFMOD: Creating runtime Studio System
+[2021.02.25-02.35.22:246][743]LogFMOD: Default sample rate = 48000
+[2021.02.25-02.35.22:246][743]LogFMOD: System sample rate = 48000
+[2021.02.25-02.35.22:246][743]LogFMOD: Matching system sample rate 48000
+[2021.02.25-02.35.22:273][743]LogFMOD: Loading Banks
+[2021.02.25-02.35.22:274][743]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.25-02.35.22:274][743]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.25-02.35.22:274][743]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.25-02.35.22:274][743]LogFMOD: Loading bank: ../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.25-02.35.22:313][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-02.35.22:313][743]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 24, 2021, 4:35:22 PM)
+[2021.02.25-02.35.22:313][743]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.35.22:326][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013010s)
+[2021.02.25-02.35.22:327][743]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-02.35.22:327][743]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2021.02.25-02.35.22:327][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014257s)
+[2021.02.25-02.35.22:349][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.02.25-02.35.22:350][743]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.02.25-02.35.22:350][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-02.35.22:350][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-02.35.22:350][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-02.35.22:350][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-02.35.22:350][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-02.35.22:350][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-02.35.22:350][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-02.35.22:350][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-02.35.22:350][743]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-02.35.22:350][743]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-02.35.22:353][743]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-02.35.22:353][743]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-02.35.22:353][743]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.25-02.35.22:353][743]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.25-02.35.22:353][743]LogAudioMixer: Display: 4: BackLeft
+[2021.02.25-02.35.22:353][743]LogAudioMixer: Display: 5: BackRight
+[2021.02.25-02.35.22:353][743]LogAudioMixer: Display: 6: SideLeft
+[2021.02.25-02.35.22:353][743]LogAudioMixer: Display: 7: SideRight
+[2021.02.25-02.35.22:371][743]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.25-02.35.22:371][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-02.35.22:371][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-02.35.22:371][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-02.35.22:371][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-02.35.22:371][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-02.35.22:371][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.25-02.35.22:385][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-02.35.22:385][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-02.35.22:385][743]LogInit: FAudioDevice initialized.
+[2021.02.25-02.35.22:385][743]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-02.35.22:394][743]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-02.35.22:396][743]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.24-21.35.22
+[2021.02.25-02.35.22:396][743]LogWorld: Bringing up level for play took: 0.001932
+[2021.02.25-02.35.22:396][743]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.02.25-02.35.22:399][743]PIE: Server logged in
+[2021.02.25-02.35.22:399][743]PIE: Play in editor total start time 0.198 seconds.
+[2021.02.25-02.35.22:399][743]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:426][744]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:441][745]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:458][746]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:475][747]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:492][748]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:509][749]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:525][750]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:542][751]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:558][752]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:575][753]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:592][754]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:608][755]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:625][756]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:642][757]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:658][758]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:676][759]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:691][760]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:708][761]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:725][762]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:741][763]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:758][764]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:775][765]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:791][766]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:811][767]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:825][768]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:842][769]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:858][770]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:875][771]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:892][772]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:908][773]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:925][774]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:942][775]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:958][776]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:975][777]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.22:992][778]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:008][779]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:025][780]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:042][781]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:058][782]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:075][783]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:092][784]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:109][785]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:126][786]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:142][787]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:159][788]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:175][789]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:192][790]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:209][791]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:225][792]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:242][793]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:258][794]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:275][795]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:292][796]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.23:309][797]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.02.25-02.35.23:309][797]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.02.25-02.35.23:309][797]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.02.25-02.35.23:309][797]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.25-02.35.37:131][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.02.25-02.35.37:179][625]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap40DD9B414F96455FEC9DAD8405AFADAC.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.25-02.35.37:207][625]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.25-02.35.37:207][625]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.25-02.35.39:187][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.35.39:187][734]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-02.35.39:188][734]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-02.35.39:188][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.35.39:195][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-02.35.39:199][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-02.35.39:213][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.25-02.35.39:213][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.35.39:214][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-02.35.39:246][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-02.35.39:251][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.02.25-02.35.39:283][735]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.02.25-02.35.40:200][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.02.25-02.35.40:247][786]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMapBEE5220E4F692472607A73BDB4721D7A.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.25-02.35.40:276][786]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.25-02.35.40:276][786]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.25-02.35.49:089][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.02.25-02.35.49:139][909]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMapB6ABC73945AA77BC6666078F4B26A43C.tmp' to '../../../../../../Users/Sabrina/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.25-02.35.49:170][909]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.25-02.35.49:170][909]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
