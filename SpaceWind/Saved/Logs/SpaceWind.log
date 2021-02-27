@@ -6408,3 +6408,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.27-21.22.49:224][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.02.27-21.22.49:228][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
 [2021.02.27-21.22.49:274][  0]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.02.27-21.23.24:360][585]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player/HUD/CancerPuzzleScreen.CancerPuzzleScreen
+[2021.02.27-21.23.35:426][932]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player/HUD/AriesPuzzleScreen.AriesPuzzleScreen
+[2021.02.27-21.23.52:025][479]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.27-21.23.52:244][479]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2021.02.27-21.23.52:870][494]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBPDF6BEDFE49E37625254E509AB90507A5.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.27-21.23.52:889][494]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2021.02.27-21.23.52:889][494]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
