@@ -13187,3 +13187,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.27-06.21.04:100][835]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap1C3CC07D4E1D1CF897F8C4A47FDBD497.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
 [2021.02.27-06.21.04:156][835]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.02.27-06.21.04:156][835]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.27-06.21.54:985][681]BlueprintLog: New page: Compile PlayerCharacterBP
+[2021.02.27-06.21.55:165][681]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.02.27-06.21.56:110][708]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBP0179792E44CBECDE4D6BA3A2F595229D.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
+[2021.02.27-06.21.56:129][708]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2021.02.27-06.21.56:129][708]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
