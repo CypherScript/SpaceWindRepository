@@ -25895,3 +25895,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-07.24.02:070][259]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/PlayerCharacterBP23CA229742883E6F39D04EAE37A5A0F7.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/Blueprints/Player/PlayerCharacterBP.uasset'
 [2021.02.28-07.24.02:094][259]AssetCheck: New page: Asset Save: PlayerCharacterBP
 [2021.02.28-07.24.02:094][259]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/PlayerCharacterBP.PlayerCharacterBP
+[2021.02.28-07.30.30:511][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.02.28-07.30.30:657][532]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap_Auto1F3D717024AD271CBCB166EA34F19EBA1.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/Autosaves/Game/ThirdPerson/Levels/ThirdPersonExampleMap_Auto1.umap'
+[2021.02.28-07.30.30:661][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Levels/ThirdPersonExampleMap' took 0.209
+[2021.02.28-07.30.30:661][532]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.209
+[2021.02.28-07.32.03:029][249]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-07.32.03:097][249]LogFMOD: Creating runtime Studio System
+[2021.02.28-07.32.03:104][249]LogFMOD: Default sample rate = 48000
+[2021.02.28-07.32.03:104][249]LogFMOD: System sample rate = 48000
+[2021.02.28-07.32.03:104][249]LogFMOD: Matching system sample rate 48000
+[2021.02.28-07.32.03:144][249]LogFMOD: Loading Banks
+[2021.02.28-07.32.03:144][249]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/AMB.bank
+[2021.02.28-07.32.03:144][249]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/BGM.bank
+[2021.02.28-07.32.03:144][249]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/SFX.bank
+[2021.02.28-07.32.03:144][249]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/FMOD/Desktop/UI.bank
+[2021.02.28-07.32.03:187][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-07.32.03:187][249]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 27, 2021, 9:32:03 PM)
+[2021.02.28-07.32.03:187][249]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.28-07.32.03:212][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024912s)
+[2021.02.28-07.32.03:214][249]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.28-07.32.03:214][249]LogPlayLevel: PIE: World Init took: (0.002069s)
+[2021.02.28-07.32.03:214][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027200s)
+[2021.02.28-07.32.03:283][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.02.28-07.32.03:287][249]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.02.28-07.32.03:287][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-07.32.03:287][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-07.32.03:287][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-07.32.03:287][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-07.32.03:287][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-07.32.03:287][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-07.32.03:287][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-07.32.03:287][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-07.32.03:288][249]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-07.32.03:288][249]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-07.32.03:293][249]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-07.32.03:293][249]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-07.32.03:293][249]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.28-07.32.03:293][249]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.28-07.32.03:293][249]LogAudioMixer: Display: 4: BackLeft
+[2021.02.28-07.32.03:293][249]LogAudioMixer: Display: 5: BackRight
+[2021.02.28-07.32.03:293][249]LogAudioMixer: Display: 6: SideLeft
+[2021.02.28-07.32.03:294][249]LogAudioMixer: Display: 7: SideRight
+[2021.02.28-07.32.03:324][249]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.02.28-07.32.03:325][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-07.32.03:325][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-07.32.03:325][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-07.32.03:326][249]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-07.32.03:326][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.28-07.32.03:326][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.02.28-07.32.03:345][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.28-07.32.03:345][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.28-07.32.03:345][249]LogInit: FAudioDevice initialized.
+[2021.02.28-07.32.03:345][249]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2021.02.28-07.32.03:353][249]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.28-07.32.03:358][249]LogWorld: Bringing World /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.02.28-02.32.03
+[2021.02.28-07.32.03:359][249]LogWorld: Bringing up level for play took: 0.004742
+[2021.02.28-07.32.03:359][249]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.02.28-07.32.03:363][249]PIE: Server logged in
+[2021.02.28-07.32.03:364][249]PIE: Play in editor total start time 0.31 seconds.
+[2021.02.28-07.32.03:366][249]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:424][250]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:454][251]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:484][252]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:517][253]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:546][254]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:574][255]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:601][256]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:627][257]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:653][258]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:682][259]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:710][260]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:738][261]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:767][262]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:793][263]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:820][264]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:849][265]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:877][266]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:905][267]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:937][268]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.03:971][269]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:007][270]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:042][271]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:082][272]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:120][273]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:156][274]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:191][275]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:229][276]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:263][277]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:299][278]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:339][279]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:379][280]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:428][281]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:480][282]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:524][283]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:564][284]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:607][285]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:653][286]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:701][287]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:755][288]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:804][289]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:854][290]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:889][291]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:928][292]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.04:967][293]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.05:014][294]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.05:254][307]LogFMOD: Warning: Failed to set event instance parameter Music
+[2021.02.28-07.32.05:398][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-07.32.05:398][307]LogWorld: BeginTearingDown for /Game/ThirdPerson/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.28-07.32.05:399][307]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-07.32.05:401][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-07.32.05:419][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-07.32.05:493][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-07.32.05:538][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-07.32.05:539][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.28-07.32.05:541][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.28-07.32.05:591][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.02.28-07.32.05:661][308]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.02.28-07.32.49:984][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.02.28-07.32.50:112][ 88]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Saved/ThirdPersonExampleMap83A554D442C61E2B4017C89301D55EE7.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SpaceWindRepository/SpaceWind/Content/ThirdPerson/Levels/ThirdPersonExampleMap.umap'
+[2021.02.28-07.32.50:161][ 88]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.02.28-07.32.50:161][ 88]LogContentValidation: Display: Validating World /Game/ThirdPerson/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
